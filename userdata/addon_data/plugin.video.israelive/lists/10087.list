@@ -1,0 +1,794 @@
+[
+  {
+    "group": "10087", 
+    "name": "Classic TV", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10088"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC 1 North Ireland", 
+    "url": "plugin://plugin.video.israelive/?url=361&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/361/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10116"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC 1 Scotland", 
+    "url": "plugin://plugin.video.israelive/?url=3166&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3166/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10117"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC 1 Wales", 
+    "url": "plugin://plugin.video.israelive/?url=3227&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3227/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10118"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC One", 
+    "url": "plugin://plugin.video.israelive/?url=14&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/14/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10119"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC One", 
+    "url": "93;;bbcone?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/14/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10120"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC One", 
+    "url": "uk/8?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/14/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11488"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC One", 
+    "url": "izle/bbc-1?mode=12", 
+    "image": "http://static.filmon.com/couch/channels/14/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "12050"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC Two", 
+    "url": "plugin://plugin.video.israelive/?url=25&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/25/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10121"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC Two", 
+    "url": "190?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/25/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10122"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC Two", 
+    "url": "uk/10?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/25/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11491"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC Three", 
+    "url": "plugin://plugin.video.israelive/?url=113&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/113/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10123"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC Three", 
+    "url": "191?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/113/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10124"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC Three", 
+    "url": "uk/13?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/113/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11494"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC Four", 
+    "url": "plugin://plugin.video.israelive/?url=103&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/103/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10125"
+  }, 
+  {
+    "group": "10087", 
+    "name": "BBC Four", 
+    "url": "uk/18?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/103/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11498"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV1", 
+    "url": "plugin://plugin.video.israelive/?url=11&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/11/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10126"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV1", 
+    "url": "uk/9?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/11/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11489"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV2", 
+    "url": "plugin://plugin.video.israelive/?url=67&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/67/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10127"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV3", 
+    "url": "plugin://plugin.video.israelive/?url=26&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/26/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10128"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV4", 
+    "url": "plugin://plugin.video.israelive/?url=101&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/101/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10129"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV1 +1", 
+    "url": "plugin://plugin.video.israelive/?url=1817&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1817/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10130"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV2 +1", 
+    "url": "plugin://plugin.video.israelive/?url=1820&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1820/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10131"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV3 +1", 
+    "url": "plugin://plugin.video.israelive/?url=1823&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1823/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10132"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITV4 +1", 
+    "url": "plugin://plugin.video.israelive/?url=1826&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1826/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10133"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ITVBe", 
+    "url": "plugin://plugin.video.israelive/?url=3211&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3211/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10134"
+  }, 
+  {
+    "group": "10087", 
+    "name": "London Live", 
+    "url": "http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8", 
+    "image": "http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/618/?sURL=http://offlinehbpl.hbpl.co.uk/News/OMC/LondonLiveWeb-20131023010320820.jpg", 
+    "type": "video", 
+    "id": "10136"
+  }, 
+  {
+    "group": "10087", 
+    "name": "GINX", 
+    "url": "http://204.107.26.252:1935/live/796.high.stream/chunklist_w1818870275.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12150"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ABC Australia", 
+    "url": "plugin://plugin.video.israelive/?url=1007&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1007/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "10141"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Horror Channel", 
+    "url": "plugin://plugin.video.israelive/?url=836&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/836/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10142"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Dubai One", 
+    "url": "http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Onetv_Logo_UAE.png/150px-Onetv_Logo_UAE.png", 
+    "type": "video", 
+    "id": "11531"
+  }, 
+  {
+    "group": "10087", 
+    "name": "AAA Family", 
+    "url": "http://63.237.48.23/ios/AAA_FAMILY/AAA_FAMILY.m3u8", 
+    "image": "http://farsi.tv/img/channels/4.jpg", 
+    "type": "ignore", 
+    "id": "11616"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Fox", 
+    "url": "plugin://plugin.video.israelive/?url=2635&mode=1&ignorefilmonguide=1&filmonmethod=1", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/FOX_wordmark.svg/200px-FOX_wordmark.svg.png", 
+    "type": "ignore", 
+    "id": "10143"
+  }, 
+  {
+    "group": "10087", 
+    "name": "MBC Action", 
+    "url": "http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/369/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10148"
+  }, 
+  {
+    "group": "10087", 
+    "name": "MBC Action", 
+    "url": "mbcaction?mode=16", 
+    "image": "http://static.filmon.com/couch/channels/369/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11987"
+  }, 
+  {
+    "group": "10087", 
+    "name": "MBC1", 
+    "url": "mbc1?mode=16", 
+    "image": "", 
+    "type": "video", 
+    "id": "12109"
+  }, 
+  {
+    "group": "10087", 
+    "name": "MBC3", 
+    "url": "mbc3?mode=16", 
+    "image": "", 
+    "type": "video", 
+    "id": "11985"
+  }, 
+  {
+    "group": "10087", 
+    "name": "MBC4", 
+    "url": "mbc4?mode=16", 
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/MBC4-Logo-MBC-Group.jpg", 
+    "type": "video", 
+    "id": "11986"
+  }, 
+  {
+    "group": "10087", 
+    "name": "MBC4", 
+    "url": "http://63.237.48.23/ios/MBC_4/MBC_4.m3u8", 
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/57/MBC4-Logo-MBC-Group.jpg", 
+    "type": "video", 
+    "id": "11667"
+  }, 
+  {
+    "group": "10087", 
+    "name": "MBC bollywood", 
+    "url": "mbcbw?mode=16", 
+    "image": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/p160x160/1013710_199451146894399_2142745926_n.jpg?oh=8326aec6656419e6ed4435fc63ab1baa&oe=56450B51&__gda__=1447643195_e51fbe3f3948b04f2f072bc4b329477d", 
+    "type": "video", 
+    "id": "12110"
+  }, 
+  {
+    "group": "10087", 
+    "name": "MBC bollywood", 
+    "url": "http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8", 
+    "image": "https://fbcdn-profile-a.akamaihd.net/hprofile-ak-ash2/v/t1.0-1/p160x160/1013710_199451146894399_2142745926_n.jpg?oh=8326aec6656419e6ed4435fc63ab1baa&oe=56450B51&__gda__=1447643195_e51fbe3f3948b04f2f072bc4b329477d", 
+    "type": "video", 
+    "id": "12149"
+  }, 
+  {
+    "group": "10087", 
+    "name": "5USA", 
+    "url": "plugin://plugin.video.israelive/?url=845&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/845/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10144"
+  }, 
+  {
+    "group": "10087", 
+    "name": "E4", 
+    "url": "plugin://plugin.video.israelive/?url=65&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/65/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10151"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Pick TV", 
+    "url": "plugin://plugin.video.israelive/?url=371&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/371/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10152"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Dave", 
+    "url": "plugin://plugin.video.israelive/?url=370&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/370/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10153"
+  }, 
+  {
+    "group": "10087", 
+    "name": "QUEST", 
+    "url": "plugin://plugin.video.israelive/?url=2707&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2707/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10154"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Yesterday", 
+    "url": "plugin://plugin.video.israelive/?url=1039&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1039/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10155"
+  }, 
+  {
+    "group": "10087", 
+    "name": "The Outdoor Cooking Channel", 
+    "url": "plugin://plugin.video.israelive/?url=3062&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3062/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10156"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Food Network", 
+    "url": "plugin://plugin.video.israelive/?url=20&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/20/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10158"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Food Network +1", 
+    "url": "plugin://plugin.video.israelive/?url=1829&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1829/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10159"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Food Network US", 
+    "url": "rtmp://a.cdn.newschat.tv/edge playpath=food_hd swfUrl=http://newschat.tv/player.swf pageUrl=http://www.livenewschat.eu/world/ swfVfy=1 live=1  timeout=15", 
+    "image": "http://static.filmon.com/couch/channels/20/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11628"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Really", 
+    "url": "plugin://plugin.video.israelive/?url=372&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/372/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10160"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Channel 4", 
+    "url": "plugin://plugin.video.israelive/?url=2&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10161"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Channel 4", 
+    "url": "uk/17?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/2/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11492"
+  }, 
+  {
+    "group": "10087", 
+    "name": "More4", 
+    "url": "plugin://plugin.video.israelive/?url=97&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/97/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10162"
+  }, 
+  {
+    "group": "10087", 
+    "name": "5*", 
+    "url": "plugin://plugin.video.israelive/?url=851&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/851/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10163"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Channel 5", 
+    "url": "plugin://plugin.video.israelive/?url=22&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/22/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10164"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Channel 5+1", 
+    "url": "plugin://plugin.video.israelive/?url=857&ChName=Channel5+1&referrerCh=370&iconimage=http://static.filmon.com/couch/channels/857/extra_big_logo.png&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/857/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11532"
+  }, 
+  {
+    "group": "10087", 
+    "name": "4 Music", 
+    "url": "plugin://plugin.video.israelive/?url=95&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/95/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "10168"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Ibiza On TV Italy", 
+    "url": "http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/ibiza_on_tv-tablet.3gp/ibiza_on_tv-tablet.3gp-mr648k.m3u8?trackingid=3041310000&os=desktop", 
+    "image": "http://www.stream-tv.fr/wp-content/uploads/ibiza-on-tv.jpg", 
+    "type": "video", 
+    "id": "10169"
+  }, 
+  {
+    "group": "10087", 
+    "name": "TRACE Urban", 
+    "url": "http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_urban-tablet.3gp/trace_tv_urban-tablet.3gp-mr647k.m3u8?trackingid=4041670000&os=desktop", 
+    "image": "http://i.solidfiles.net/881c2a531f.png", 
+    "type": "video", 
+    "id": "10170"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Pop Beat TV", 
+    "url": "http://stream02.yamgo.com/iPhone/HLS_TS/broadcast/pop_beat_tv-tablet.3gp/pop_beat_tv-tablet.3gp-mr648k.m3u8?trackingid=4681730000&os=desktop", 
+    "image": "http://564ccca6a641eac6e5b0-38e3bbf162f44470d3635a7244f7971b.r55.cf3.rackcdn.com/pop-beat-tv-channel-images-logo-large.png?1366818500", 
+    "type": "video", 
+    "id": "10171"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CBS Action", 
+    "url": "plugin://plugin.video.israelive/?url=1952&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1952/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11981"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CBS Drama", 
+    "url": "plugin://plugin.video.israelive/?url=1805&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1805/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10172"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CBS Reality", 
+    "url": "plugin://plugin.video.israelive/?url=1808&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1808/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10174"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CBS Reality +1", 
+    "url": "plugin://plugin.video.israelive/?url=1811&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1811/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10175"
+  }, 
+  {
+    "group": "10087", 
+    "name": "truTV", 
+    "url": "plugin://plugin.video.israelive/?url=3707&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3707/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12044"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Fashion TV", 
+    "url": "plugin://plugin.video.israelive/?url=21&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/21/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10176"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Fashion TV", 
+    "url": "http://stream01.yamgo.com/iPhone/HLS_TS/mptslive/fashion_tv-mobile.3gp/fashion_tv-mobile.3gp-mr658k.m3u8?trackingid=3181420000&os=desktopv3", 
+    "image": "http://static.filmon.com/couch/channels/21/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11293"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Fashion TV", 
+    "url": "http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist_b125000_w304569164.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/21/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10180"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Fashion TV", 
+    "url": "http://www.fashiontv.com/live?mode=18", 
+    "image": "http://static.filmon.com/couch/channels/21/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12023"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Runway TV", 
+    "url": "plugin://plugin.video.israelive/?url=3116&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3116/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10185"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Fashion Television", 
+    "url": "34?mode=6", 
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/FashionTelevisionChannel.svg/250px-FashionTelevisionChannel.svg.png", 
+    "type": "video", 
+    "id": "10187"
+  }, 
+  {
+    "group": "10087", 
+    "name": "World Fashion", 
+    "url": "http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8", 
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/WFC.jpg/200px-WFC.jpg", 
+    "type": "video", 
+    "id": "11785"
+  }, 
+  {
+    "group": "10087", 
+    "name": "RetroTV", 
+    "url": "278?mode=6", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/f/f6/RetroTV_logo.png", 
+    "type": "video", 
+    "id": "11405"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Urban Comedy", 
+    "url": "plugin://plugin.video.israelive/?url=497&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/497/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10188"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Popcorn TV", 
+    "url": "plugin://plugin.video.israelive/?url=716&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/716/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10189"
+  }, 
+  {
+    "group": "10087", 
+    "name": "ComedyTime TV", 
+    "url": "plugin://plugin.video.israelive/?url=344&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/344/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10190"
+  }, 
+  {
+    "group": "10087", 
+    "name": "DAYSTAR", 
+    "url": "plugin://plugin.video.israelive/?url=833&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/833/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10191"
+  }, 
+  {
+    "group": "10087", 
+    "name": "DAYSTAR", 
+    "url": "109?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/833/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10192"
+  }, 
+  {
+    "group": "10087", 
+    "name": "DAYSTAR", 
+    "url": "http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_720p.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/833/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12395"
+  }, 
+  {
+    "group": "10087", 
+    "name": "TBN", 
+    "url": "plugin://plugin.video.israelive/?url=398&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/398/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10193"
+  }, 
+  {
+    "group": "10087", 
+    "name": "TBN", 
+    "url": "http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/398/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10194"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CBN", 
+    "url": "http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?playerId=2196082720001&lineupId=&affiliateId=&pubId=734546207001&videoId=3575741462001", 
+    "image": "http://cbn.pd.ak.o.brightcove.com/734546207001/734546207001_1413899386001_GENERIC-CBN-Large.jpg", 
+    "type": "video", 
+    "id": "11617"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Angel TV", 
+    "url": "http://doh57iesfegop.cloudfront.net/angeltv/angeltvindia600/playlist.m3u8", 
+    "image": "http://www.revivaltvonline.com/images/Logo/angels-tv.jpg", 
+    "type": "video", 
+    "id": "10196"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Angel TV", 
+    "url": "114?mode=6", 
+    "image": "http://www.revivaltvonline.com/images/Logo/angels-tv.jpg", 
+    "type": "video", 
+    "id": "10197"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CFRN CTV Edmonton", 
+    "url": "plugin://plugin.video.israelive/?url=2053&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/2053/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10199"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CKCK CTV Regina", 
+    "url": "plugin://plugin.video.israelive/?url=2056&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/2056/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10200"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CFCN-5 CTV Lethbridge", 
+    "url": "plugin://plugin.video.israelive/?url=2059&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/2059/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10201"
+  }, 
+  {
+    "group": "10087", 
+    "name": "CICC CTV Yorkton", 
+    "url": "plugin://plugin.video.israelive/?url=2062&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/2062/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10202"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Psychic Today", 
+    "url": "plugin://plugin.video.israelive/?url=1711&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1711/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "10207"
+  }, 
+  {
+    "group": "10087", 
+    "name": "KBS World", 
+    "url": "https://www.youtube.com/watch?v=h-jJ9IP5XB8", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/1235552102_KBS_World_-_Logotype_%28JPG%29.jpg/260px-1235552102_KBS_World_-_Logotype_%28JPG%29.jpg", 
+    "type": "video", 
+    "id": "10208"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Wonderful Living TV", 
+    "url": "plugin://plugin.video.israelive/?url=2990&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2990/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10210"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Zing", 
+    "url": "http://46.249.213.87/iPhone/HLS_TS/broadcast/zing-tablet.3gp/zing-tablet.3gp-mr648k.m3u8?trackingid=3171370000&os=desktop", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "11459"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Sony SAB", 
+    "url": "plugin://plugin.video.israelive/?url=3701&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3701/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12047"
+  }, 
+  {
+    "group": "10087", 
+    "name": "Zee Bollyworld TV", 
+    "url": "plugin://plugin.video.israelive/?url=3491&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3491/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12048"
+  }, 
+  {
+    "group": "10087", 
+    "name": "JLTV", 
+    "url": "http://50.112.241.187:1935/rtplive/smil:jltv.smil/playlist.m3u8", 
+    "image": "http://www.jltv.tv/images/jltvLogoHor.png", 
+    "type": "video", 
+    "id": "11618"
+  }, 
+  {
+    "group": "10087", 
+    "name": "QVC HD", 
+    "url": "https://www.youtube.com/watch?v=8I-uZ2iml_s", 
+    "image": "http://www.lyngsat-logo.com/hires/qq/qvc_de_hd.png", 
+    "type": "video", 
+    "id": "11988"
+  }, 
+  {
+    "group": "10087", 
+    "name": "QVC HD", 
+    "url": "plugin://plugin.video.israelive/?url=413&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/413/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12072"
+  }
+]

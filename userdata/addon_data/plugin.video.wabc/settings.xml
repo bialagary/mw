@@ -1,0 +1,7 @@
+<settings>
+    <setting id="default_view" value="50" />
+    <setting id="enable_views" value="false" />
+    <setting id="episode_view" value="50" />
+    <setting id="init_meta" value="false" />
+    <setting id="sub_enable" value="false" />
+</settings>

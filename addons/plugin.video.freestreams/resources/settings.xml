@@ -1,0 +1,5 @@
+<settings>
+<category label="Settings">
+	<setting id="types" type="enum" values="RTSP|HLS" label="Source To Use" default="0" />
+</category>
+</settings>

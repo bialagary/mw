@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="theme.smokdpi.default"
+       name="Theme: smokdpi Add-on's Default"
+       version="1.1.0"
+       provider-name="smokdpi">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.python.module" library="resources/lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">smokdpi Add-on's Default Theme</summary>
+        <description lang="en">smokdpi Add-on's Default Theme[CR][CR][B]Artwork by @konsumer420[/B]</description>
+        <disclaimer lang="en"> </disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

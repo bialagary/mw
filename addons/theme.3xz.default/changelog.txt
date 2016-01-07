@@ -1,0 +1,9 @@
+[B]v1.2.0 - Nov. 17, 2015[/B]
+	- updated to include icons for sites/menus added since 1.1.0
+	- huge thanks to @konsumer
+	
+[B]v1.1.0 - Sept. 9, 2015[/B]
+	- changed from module/lib to executable/program to support optional use and uninstallation
+
+[B]v1.0.0 - Aug. 21, 2015[/B]
+	- Initial release

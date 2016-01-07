@@ -1,0 +1,10 @@
+[B]Version 1.01 - 23MAR2014[/B]
+
+- the first public release of the MX NCAA TV addon for XBMC 
+- added 10 popular PAC 12 channels
+- this plugin is free and should never be purchased 
+- Gotham ready and working
+
+[B]Disclaimer:[/B]
+
+We do not now or ever maintain or stream the content in this XBMC addon, if a channel is not working, simply wait to the next update and then it may or may not be working.

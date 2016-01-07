@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+<strings>
+
+    <string id="30017"> Previous Page</string>
+    <string id="30018"> Next Page</string>
+    <string id="30019"> Goto Page</string>
+
+	<!-- Author Link Menu 100 - 110 -->
+    <string id="30100">Developer's Links</string>
+    <string id="30101">IRC: Snoonet #the_projects</string>
+    <string id="30102">Forum: Addons.center</string>
+    <string id="30103">Twitter: @smokdpi</string>
+    <string id="30104">GitHub: smokdpi</string>
+    <string id="30105">Reddit: /r/the_projects</string>
+    <string id="30106"> </string>
+    <string id="30107"> </string>
+    <string id="30108"> </string>
+    <string id="30109"> </string>
+    <string id="30110"> </string>
+
+    <string id="30600">Refresh</string>
+    <string id="30601">Information</string>
+    <string id="30602">Add-on settings</string>
+    <string id="30603">Play</string>
+    <string id="30604">Set View</string>
+
+
+    <string id="30650">Playlist</string>
+    <string id="30651">Part</string>
+
+    <!-- Settings -->
+    <string id="30700">General</string>
+    <string id="30703">Playback</string>
+    <string id="30704">Net</string>
+
+    <string id="30716">AutoPlay</string>
+    <string id="30717">Edit StreamURL before Playback</string>
+    <string id="30718">Socket Timeout (seconds)</string>
+    <string id="30719">Clear Cookies</string>
+    <string id="30720">Add-on Lock</string>
+    <string id="30721">Toggle Add-on Lock</string>
+    <string id="30722">Change Lock Password</string>
+    <string id="30723">Lock is off (Don't forget to re-lock)</string>
+    <string id="30724">Lock is on</string>
+    <string id="30725">Choose Theme</string>
+    <string id="30726">History Limit (items)</string>
+    <string id="30727">Cache Expiry (minutes)</string>
+    <string id="30728">Cache Size Limit (MB)</string>
+    <string id="30729">Clear Cache</string>
+    <string id="30730">Pre-Resolve Sources (may be slow)</string>
+    <string id="30731">Search History Limit (items)</string>
+    <string id="30732">Play History Limit (items)</string>
+    <string id="30733">Use HD (AutoPlay)</string>
+    <string id="30734">Source Listing Type</string>
+
+    <string id="30790">This feature is either ON or OFF, you will need to re-lock/toggle this[CR]feature after unlocking if you wish to keep the add-on locked.</string>
+    <string id="30791">To reset/blank the password you must delete the 'password.db'[CR]file located in this addon's folder in Kodi's userdata path.</string>
+    <string id="30792">For more info regarding the Kodi's userdata path visit:[CR]http://kodi.wiki/view/Userdata</string>
+
+    <!-- Dialog Heads -->
+    <string id="30800">Error</string>
+    <string id="30801">Unknown Error</string>
+    <string id="30808">Search</string>
+    <string id="30809">Goto page between 1 and</string>
+    <string id="30810">Goto page: ...</string>
+    <string id="30811">Edit</string>
+    <string id="30812">Enter Old Password</string>
+    <string id="30813">Enter New Password</string>
+    <string id="30814">Enter Password</string>
+    <string id="30815">New Search</string>
+    <string id="30816">New URL</string>
+    <string id="30817">Enter URL for playback</string>
+
+    <!-- Favorites/History -->
+    <string id="30875">History</string>
+    <string id="30876">Clear search history</string>
+    <string id="30877">Are you sure you would like to delete your search history?</string>
+    <string id="30878">Search history has been cleared</string>
+    <string id="30879">Clear history</string>
+    <string id="30880">Are you sure you would like to delete your history?</string>
+    <string id="30881">History has been cleared</string>
+    <string id="30882">Add</string>
+    <string id="30883">Delete</string>
+    <string id="30884">All</string>
+    <string id="30885">Movies</string>
+    <string id="30886">Series</string>
+    <string id="30888">Episodes</string>
+    <string id="30889">Favorites</string>
+    <string id="30890">already in favorites</string>
+    <string id="30891">Added</string>
+    <string id="30892">Removed</string>
+    <string id="30893">to favorites</string>
+    <string id="30894">from favorites</string>
+    <string id="30895">Clear all favorites</string>
+    <string id="30896">Are you sure you would like to delete all your favorites?</string>
+    <string id="30897">Favorites have been cleared</string>
+    <string id="30898">Yes</string>
+    <string id="30899">No</string>
+
+    <string id="30900">Failed to import</string>
+    <string id="30901">Failed to retrieve page</string>
+    <string id="30902">No categories found</string>
+    <string id="30903">No videos found for listing</string>
+    <string id="30904">No sources found</string>
+    <string id="30905">No playable sources found</string>
+    <string id="30906">Page out of range</string>
+    <string id="30907">Failed to load</string>
+    <string id="30908">Unable to change password</string>
+    <string id="30910">Password Incorrect</string>
+    <string id="30914">Failed to clear cookies</string>
+    <string id="30915">Cookies cleared</string>
+    <string id="30916">Failed to clear cache</string>
+    <string id="30917">Cache has been cleared</string>
+    <string id="30918">Are you sure you would like to delete your cache?</string>
+    <string id="30919">Failed to clear history</string>
+    <string id="30920">Failed to clear search history</string>
+    <string id="30921">Create playlist failed</string>
+    <string id="30922">failed to resolve</string>
+    <string id="30923">Resolver Exception</string>
+
+    <string id="30991">Part</string>
+    <string id="30992">Confirm</string>
+    <string id="30993">Cancel</string>
+    <string id="30994">Disclaimer</string>
+    <string id="30995"> </string>
+    <string id="30999"> </string>
+
+</strings>

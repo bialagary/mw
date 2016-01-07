@@ -1,0 +1,24 @@
+<settings>
+    <setting id="1080pquality" value="false" />
+    <setting id="PulsarM" value="false" />
+    <setting id="Updatecommonresolvers" value="false" />
+    <setting id="Youtube" value="1" />
+    <setting id="add_playlist" value="false" />
+    <setting id="ask_playlist_items" value="false" />
+    <setting id="browse_community" value="false" />
+    <setting id="browse_xml_database" value="false" />
+    <setting id="choose_source" value="0" />
+    <setting id="debug" value="false" />
+    <setting id="dlaudioonly" value="false" />
+    <setting id="dmotion" value="1" />
+    <setting id="familyFilter" value="1" />
+    <setting id="genesisorpulsar" value="0" />
+    <setting id="logo-folderPath" value="" />
+    <setting id="new_file_source" value="" />
+    <setting id="new_url_source" value="" />
+    <setting id="save_location" value="" />
+    <setting id="searchDM" value="false" />
+    <setting id="searchlongvideos" value="false" />
+    <setting id="searchyt" value="false" />
+    <setting id="use_thumb" value="false" />
+</settings>

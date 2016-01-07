@@ -1,0 +1,42 @@
+[
+  {
+    "group": "10709", 
+    "name": "IranyTV", 
+    "url": "plugin://plugin.video.israelive/?url=3137&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/3137/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10710"
+  }, 
+  {
+    "group": "10709", 
+    "name": "Duna World", 
+    "url": "http://212.40.98.166/intstreams/mtva/dunaworldlive.smil/chunklist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10711"
+  }, 
+  {
+    "group": "10709", 
+    "name": "Duna", 
+    "url": "http://212.40.98.166/intstreams/mtva/dunalive.smil/chunklist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10712"
+  }, 
+  {
+    "group": "10709", 
+    "name": "M1", 
+    "url": "http://212.40.98.166/intstreams/mtva/mtv1live.smil/chunklist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10713"
+  }, 
+  {
+    "group": "10709", 
+    "name": "M2", 
+    "url": "http://212.40.98.166/intstreams/mtva/mtv2live.smil/chunklist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10714"
+  }
+]

@@ -1,0 +1,737 @@
+[
+    {
+        "url": "", 
+        "image": "", 
+        "name": " [COLOR blue]Thanks to all my followers on Facebook & for testing the test channels[/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": " [COLOR blue]Find us on Facebook @ https://www.facebook.com/futuhdware[/COLOR]"
+    }, 
+    {
+        "url": " ", 
+        "image": "", 
+        "name": " [COLOR yellow] FutuHDware HD TV LIST  [/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR blue][I][B]-------------- Last Updated 28.07.15 --------------[/B][/I][/COLOR]"
+    }, 
+    {
+        "url": "http://vs-hds-uk-live.edgesuite.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-audio_1%3D128000-video%3D3500000.m3u8", 
+        "image": "", 
+        "name": "BBC1 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://vs-hds-uk-live.edgesuite.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_1%3D128000-video%3D3500000.m3u8", 
+        "image": "", 
+        "name": "BBC2 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://vs-hds-uk-live.edgesuite.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-audio_1%3D128000-video%3D3500000.m3u8", 
+        "image": "", 
+        "name": "BBC3 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://pebbles124-lh.akamaihd.net/i/e4_1@137789/master.m3u8|X-Forwarded-For=85.5.87.218", 
+        "image": "", 
+        "name": "E4 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://pebbles124-lh.akamaihd.net/i/film4_1@137790/master.m3u8|X-Forwarded-For=85.5.87.218", 
+        "image": "", 
+        "name": "Film4 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "Nasa Tv [COLOR blue]HD[/COLOR] [COLOR yellow]Offline, but SD is Below[/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "Warner TV [COLOR blue]HD[/COLOR] [COLOR yellow]Offline[/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "MTV LIVE 1080p [COLOR blue]HD[/COLOR] [COLOR yellow]Offline[/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "VH1 1080p [COLOR blue]HD[/COLOR] [COLOR yellow]Offline[/COLOR]"
+    }, 
+    {
+        "url": "http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8#EXTINF:-1,Big Ten Network [COLOR blue]HD[/COLOR]", 
+        "image": "", 
+        "name": "SportsNet360 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8", 
+        "image": "", 
+        "name": "Big Ten Network [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104", 
+        "image": "", 
+        "name": "NBC Sports Golf 720p [COLOR blue]HD[/COLOR] "
+    }, 
+    {
+        "url": "http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104", 
+        "image": "", 
+        "name": "NBC Sports Golf 1080p [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104", 
+        "image": "", 
+        "name": "NBC Sports Network 1080P [COLOR blue]HD[/COLOR] "
+    }, 
+    {
+        "url": "http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104", 
+        "image": "", 
+        "name": "NBC Sports Network 720P [COLOR blue]HD[/COLOR] "
+    }, 
+    {
+        "url": "http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8", 
+        "image": "", 
+        "name": "Fox Sport [COLOR blue]HD[/COLOR] [COLOR yellow]Offline[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12moun-4728.m3u8", 
+        "image": "", 
+        "name": "PAC Mountain 1080P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12netw-2328.m3u8", 
+        "image": "", 
+        "name": "PAC Network National 720P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12ariz-2328.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Arizona) 720P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12ariz-4728.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Arizona) 1080P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12baya-2328.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Bay Area) 720P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12baya-4728.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Bay Area) 1080P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12losa-2328.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Los Angeles) 720P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12oreg-2328.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Oregon) 720P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12oreg-4728.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Oregon) 1080P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12wash-2328.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Washington) 720P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://xrxs.net/video/live-p12wash-4728.m3u8", 
+        "image": "", 
+        "name": "PAC-12 Net. (Washington) 1080P [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR yellow]--- NASA Live Streams ---[/COLOR]"
+    }, 
+    {
+        "url": "http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8", 
+        "image": "", 
+        "name": "NASA [COLOR green](online) [/COLOR]"
+    }, 
+    {
+        "url": "http://iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8", 
+        "image": "", 
+        "name": "ISS Live 1 [COLOR green](online) [/COLOR]"
+    }, 
+    {
+        "url": "http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8", 
+        "image": "", 
+        "name": "ISS Live 2 [COLOR green](online) [/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR yellow][I][B].........SD CHANNELS..........[/B][/I][/COLOR]"
+    }, 
+    {
+        "url": "http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_one_london/bbc_one_london.isml/bbc_one_london-audio_2%3D96000-video%3D1374000.m3u8", 
+        "image": "", 
+        "name": "BBC One London"
+    }, 
+    {
+        "url": "http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-audio_2%3D96000-video%3D1374000.m3u8", 
+        "image": "", 
+        "name": "BBC 2"
+    }, 
+    {
+        "url": "http://teleboy.customers.cdn.iptv.ch/4018/2290000/index.m3u8#EXTINF:-1,London Live", 
+        "image": "", 
+        "name": "ITV 1 London"
+    }, 
+    {
+        "url": "http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8", 
+        "image": "", 
+        "name": "Sky News UK"
+    }, 
+    {
+        "url": "http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8", 
+        "image": "", 
+        "name": "BBC World News"
+    }, 
+    {
+        "url": "http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8", 
+        "image": "", 
+        "name": "CNN"
+    }, 
+    {
+        "url": "http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8", 
+        "image": "", 
+        "name": "CNBC"
+    }, 
+    {
+        "url": "http://80.80.160.168/live/9/live.m3u8", 
+        "image": "", 
+        "name": "Discovery Science USA"
+    }, 
+    {
+        "url": "http://bit.do/6oh4", 
+        "image": "", 
+        "name": "USA NETWORK"
+    }, 
+    {
+        "url": "rtmp://137.63.71.18:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=9&width=600&height=450 token=#atd%#$ZH timeout=25", 
+        "image": "", 
+        "name": "WWE NETWORK"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560#EXTINF:-1,4 MUSIC", 
+        "image": "", 
+        "name": "VH1"
+    }, 
+    {
+        "url": "http://csm-e.cds1.yospace.com/csm/live/86561631.m3u8", 
+        "image": "", 
+        "name": "THE BOX"
+    }, 
+    {
+        "url": "http://csm-e.cds1.yospace.com/csm/live/86561776.m3u8", 
+        "image": "", 
+        "name": "MAGIC"
+    }, 
+    {
+        "url": "http://csm-e.cds1.yospace.com/csm/live/86561584.m3u8", 
+        "image": "", 
+        "name": "HEAT"
+    }, 
+    {
+        "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8", 
+        "image": "", 
+        "name": "CLUBLAND"
+    }, 
+    {
+        "url": "rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live", 
+        "image": "", 
+        "name": "KISS TV"
+    }, 
+    {
+        "url": "http://bit.do/6wp2", 
+        "image": "", 
+        "name": "NOW THATS WHAT I CALL MUSIC"
+    }, 
+    {
+        "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8", 
+        "image": "", 
+        "name": "AKA"
+    }, 
+    {
+        "url": "http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8", 
+        "image": "", 
+        "name": "HEART"
+    }, 
+    {
+        "url": "http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on", 
+        "image": "", 
+        "name": "CAPITAL"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR blue][I][B]-------------- FutuHDware VOD --------------[/B][/I][/COLOR]"
+    }, 
+    {
+        "url": "http://bit.do/7vou", 
+        "image": "", 
+        "name": " Dark Summer 2015 Bluray 720"
+    }, 
+    {
+        "url": "http://bit.do/7vjS", 
+        "image": "", 
+        "name": " Dying of the light 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vjV", 
+        "image": "", 
+        "name": " accidental love 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vj5", 
+        "image": "", 
+        "name": " snow in paradise 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vj9", 
+        "image": "", 
+        "name": " non stop 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkm", 
+        "image": "", 
+        "name": " Fast and Furious 7 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkq", 
+        "image": "", 
+        "name": " Paddington 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vks", 
+        "image": "", 
+        "name": " The lazarus effect 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vku", 
+        "image": "", 
+        "name": " Residue 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkx", 
+        "image": "", 
+        "name": " Enter the dangerous mind 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vky", 
+        "image": "", 
+        "name": " Pain & gain 2013 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkB", 
+        "image": "", 
+        "name": " Superfast 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkC", 
+        "image": "", 
+        "name": " The heat 2013 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkF", 
+        "image": "", 
+        "name": " Bad asses on the bayou 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkG", 
+        "image": "", 
+        "name": " Bad ass 2 bad asses 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkH", 
+        "image": "", 
+        "name": " Exeter 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkK", 
+        "image": "", 
+        "name": " Barely lethal 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkM", 
+        "image": "", 
+        "name": " The second best exotic marigold hotel 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vkZ", 
+        "image": "", 
+        "name": " Age of kill 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vma", 
+        "image": "", 
+        "name": " Minions 2015 TS"
+    }, 
+    {
+        "url": "http://bit.do/7vme", 
+        "image": "", 
+        "name": " Champs (documentry, sport) 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vmi", 
+        "image": "", 
+        "name": " Jack Reacher 2012 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vmt", 
+        "image": "", 
+        "name": " Avengers Grimm 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vmA", 
+        "image": "", 
+        "name": " Looney tunes rabbit run 2015"
+    }, 
+    {
+        "url": "http://bit.do/7vmG", 
+        "image": "", 
+        "name": " Inside out 2015 TS"
+    }, 
+    {
+        "url": "http://bit.do/7vmR", 
+        "image": "", 
+        "name": " Scooby doo and kiss rock and roll mystery 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vmV", 
+        "image": "", 
+        "name": " Pixies 2015"
+    }, 
+    {
+        "url": "http://bit.do/7vmX", 
+        "image": "", 
+        "name": " The jokesters 2015"
+    }, 
+    {
+        "url": "http://bit.do/7vmY", 
+        "image": "", 
+        "name": " Lila and eve 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vmZ", 
+        "image": "", 
+        "name": " Awaken 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vm4", 
+        "image": "", 
+        "name": " Joe dirt 2 beautiful loser 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vm5", 
+        "image": "", 
+        "name": " Son of a gun 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vm8", 
+        "image": "", 
+        "name": " nightcrawler 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vna", 
+        "image": "", 
+        "name": " Echoes of war 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vnc", 
+        "image": "", 
+        "name": " The prince 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vnk", 
+        "image": "", 
+        "name": " Bonnie Clyde Justified 2013 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vnr", 
+        "image": "", 
+        "name": " Blackhat 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vnw", 
+        "image": "", 
+        "name": " Ant man CAM Q 2015"
+    }, 
+    {
+        "url": "http://bit.do/7vnE", 
+        "image": "", 
+        "name": " Pitch Perfect 2 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vnL", 
+        "image": "", 
+        "name": " Max 2015"
+    }, 
+    {
+        "url": "http://bit.do/7vnQ", 
+        "image": "", 
+        "name": " Need for speed 2014 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vnS", 
+        "image": "", 
+        "name": " Insurgent 2015 HD"
+    }, 
+    {
+        "url": "http://bit.do/7vnY", 
+        "image": "", 
+        "name": " Street fighter assassins fist 2014 HD"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR blue][I][B]-------------- USER TEST CHANNEL AREA --------------[/B][/I][/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR yellow]--- Sky Sport Test IS DOWN WILL BE BACK ASAP---[/COLOR]"
+    }, 
+    {
+        "url": "http://37.187.172.168:8080/sky_sports_1_hd_1dDhTYMr4A/index.m3u8", 
+        "image": "", 
+        "name": "SKY SPORTS 1 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://37.187.172.168:8080/sky_sports_2_hd_1QokuUCL04/index.m3u8", 
+        "image": "", 
+        "name": "SKY SPORTS 2 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://37.187.172.168:8080/sky_sports_3_hd_LrbB41WtOm/index.m3u8", 
+        "image": "", 
+        "name": "SKY SPORTS 3 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://37.187.172.168:8080/sky_sports_4_hd_Ym41WyOI6U/index.m3u8", 
+        "image": "", 
+        "name": "SKY SPORTS 4 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://37.187.172.168:8080/sky_sports_5_hd_a6ZBTFzMC1/index.m3u8", 
+        "image": "", 
+        "name": "SKY SPORTS 5 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://37.187.172.168:8080/skysportsf_1hd_pNUSb37KtM/index.m3u8", 
+        "image": "", 
+        "name": "Sky sport F1 [COLOR blue]HD[/COLOR]"
+    }, 
+    {
+        "url": "http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/515.ts", 
+        "image": "", 
+        "name": "CHELSEA-TV"
+    }, 
+    {
+        "url": "http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/516.ts", 
+        "image": "", 
+        "name": "MU-TV"
+    }, 
+    {
+        "url": "http://ultra.goldtv.al:8000/live/www.albsports.com/www.sportsalb.com/517.ts", 
+        "image": "", 
+        "name": "LIVERPOOL-TV"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR yellow]--- Sky Movies Test WILL BE BACK ASAP---[/COLOR]"
+    }, 
+    {
+        "url": "http://31.220.40.118/LiveEdge/movaction.stream/chunklist_w490346046_b1000000.m3u8?token=5981342e975cc7558bd11a139df6f9ad", 
+        "image": "", 
+        "name": "Sky Movies Action & Adventure "
+    }, 
+    {
+        "url": "http://31.220.41.107/LiveEdge/movdisney.stream/chunklist_w1025860554_b1000000.m3u8?token=e1d43cba30c7a35e23f4aef298f44000", 
+        "image": "", 
+        "name": "Sky Movies Disney"
+    }, 
+    {
+        "url": "http://31.220.40.117/LiveEdge/movscifi.stream/chunklist_w1853906474_b1000000.m3u8?token=75160234717038d96b106bfc51d238f7", 
+        "image": "", 
+        "name": "Sky Movies Scifi & Horror"
+    }, 
+    {
+        "url": "http://31.220.40.100/LiveEdge/movfamily.stream/chunklist_w1510981716_b1000000.m3u8?token=d94ba2063289ee23512e0ed91f717017", 
+        "image": "", 
+        "name": "Sky Movies Family"
+    }, 
+    {
+        "url": "http://31.220.40.119/LiveEdge/movcomedy.stream/chunklist_w290877001_b1000000.m3u8?token=dfa7f57bdd40b89b1005cd0cd779b51c", 
+        "image": "", 
+        "name": "Sky Movies Comedy"
+    }, 
+    {
+        "url": "http://31.220.40.121/LiveEdge/movthriller.stream/chunklist_w2040616093_b1000000.m3u8?token=0193aebbaa4e6826f165b2667deed4b6", 
+        "image": "", 
+        "name": "Sky Movies Crime & Thriller"
+    }, 
+    {
+        "url": "http://31.220.41.111/LiveEdge/movpremier.stream/chunklist_w378146533_b1000000.m3u8?token=08d0aa958dc61e76e84e9d6373f87d1b", 
+        "image": "", 
+        "name": "Sky Movies Premiere"
+    }, 
+    {
+        "url": "http://31.220.40.116/LiveEdge/mgreats.stream/chunklist_w150384337_b1000000.m3u8?token=fb115d7755642cb31d66b2fa0d9ff45a", 
+        "image": "", 
+        "name": "Sky Movies Modern Greats"
+    }, 
+    {
+        "url": "http://31.220.40.116/LiveEdge/movselect.stream/chunklist_w1766985618_b1000000.m3u8?token=782ad3188d1f7072ff2e388183a6b973", 
+        "image": "", 
+        "name": "Sky Movies Select"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR blue][I][B]-------------- FutuHDware TEST CHANNEL AREA --------------[/B][/I][/COLOR]"
+    }, 
+    {
+        "url": "", 
+        "image": "", 
+        "name": "[COLOR yellow]--- USA Test ---[/COLOR]"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/z4cxm7zlfyqs65m/playlist.m3u8?wowzasessionid=1419872183", 
+        "image": "", 
+        "name": "AMC"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/kexkxje3nqi6dtl/playlist.m3u8?wowzasessionid=1419880467", 
+        "image": "", 
+        "name": "BET"
+    }, 
+    {
+        "url": "http://54.255.155.24:1935//Live/_definst_/sweetbcha1novD28_W_150.sdp/playlist.m3u8", 
+        "image": "", 
+        "name": "Cartoon Network"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/vp4q2gonwzh2dku/chunklist.m3u8?wowzasessionid=1419872048", 
+        "image": "", 
+        "name": "CBS HD (WHIO 7)"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421", 
+        "image": "", 
+        "name": "CNN USA "
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/ishyd3sopok3p27/playlist.m3u8?wowzasessionid=1419872569", 
+        "image": "", 
+        "name": "Discovery Channel "
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412", 
+        "image": "", 
+        "name": "Disney Channel"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/xoaaohmeuajfeyf/playlist.m3u8?wowzasessionid=1419879934", 
+        "image": "", 
+        "name": "ESPN "
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/qc6xkzf4h48bz2e/playlist.m3u8?wowzasessionid=1419873022", 
+        "image": "", 
+        "name": "Food Network"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/ohn58e97er36vjr/playlist.m3u8?wowzasessionid=1420123821", 
+        "image": "", 
+        "name": "FOX News "
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/v4ynnryunsoxzbq/playlist.m3u8?wowzasessionid=1419874236", 
+        "image": "", 
+        "name": "Hallmark "
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/z28ie9oqoku4qoy/playlist.m3u8?wowzasessionid=1419879571", 
+        "image": "", 
+        "name": "HBO "
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/gj65q2rg18tpmut/playlist.m3u8?wowzasessionid=1419811602", 
+        "image": "", 
+        "name": "HGTV"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/dhp0rpd116qyyj6/playlist.m3u8?wowzasessionid=1419874554", 
+        "image": "", 
+        "name": "History Channel (USA)"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/1ioc7taql4472xs/playlist.m3u8?wowzasessionid=1419874712", 
+        "image": "", 
+        "name": "MSNBC "
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/d2z1vc4ahrl6x26/playlist.m3u8?wowzasessionid=1420171062", 
+        "image": "", 
+        "name": "MTV"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/qzsfigd1y3bgbhs/playlist.m3u8?wowzasessionid=1420249412", 
+        "image": "", 
+        "name": "Nat GEO"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/kjgkefh6la1di6g/playlist.m3u8?wowzasessionid=1419879103", 
+        "image": "", 
+        "name": "NBC"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/sax2mq2alpirnww/playlist.m3u8?wowzasessionid=1419878529", 
+        "image": "", 
+        "name": "Spike"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/oepz9q5oivflbcw/playlist.m3u8?wowzasessionid=1419878403", 
+        "image": "", 
+        "name": "SyFy"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/iugceoy4o6ljhck/chunklist.m3u8?wowzasessionid=1419907929", 
+        "image": "", 
+        "name": "TLC"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/7uz4als3nigi0j3/playlist.m3u8?wowzasessionid=1420124827", 
+        "image": "", 
+        "name": "TNT"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/h5eovaj1jeegluq/playlist.m3u8?wowzasessionid=1420249300", 
+        "image": "", 
+        "name": "USA Network"
+    }, 
+    {
+        "url": "http://93.174.95.125:1935/edge/_definst_/oeiigxxv1gbeqq9/manifest.m3u8?wowzasessionid=1420170560", 
+        "image": "", 
+        "name": "VH-1"
+    }
+]

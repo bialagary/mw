@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<turtle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://code.google.com/p/apple-tv2-xbmc/turtle/ turtle.xsd"
+	xmlns="https://code.google.com/p/apple-tv2-xbmc/turtle/">
+
+	<action id="__start__"
+		pmessage="Welcome to Filmi BY NATURE|presented by AJ|based on Turtle">
+		<move module="mymoves.Home" function="displayMenuItems" />
+		<next-action name="listMovies" id="display_SOM_Movies"
+			isfolder="true" />
+		<next-action name="HDMovie" id="display_HDMovie_Section"
+			isfolder="true" />
+		<next-action name="Movie" id="display_Movie_Section"
+			isfolder="true" />
+		<next-action name="Trailer" id="display_SOM_Trailers"
+			isfolder="true" />
+		<next-action name="YouTube" id="display_YouTube_Channels"
+			isfolder="true" />
+		<next-action name="ByGenre" id="display_Genre_Section"
+			isfolder="true" />
+		<next-action name="ByYear" id="display_Year_Section"
+			isfolder="true" />
+	</action>
+
+	<action id="display_Genre_Section">
+		<move module="mymoves.movie.Menu" function="displayGenreList"
+			pmessage="Retrieving HD movie collection" />
+		<move module="mymoves.sominaltv.Sominal" function="listMovies"
+			pmessage="Retrieving HD movie collection" />
+		<move module="mymoves.movie.Metadata" function="retieveMovieInfoAndAddItem"
+			pmessage="Reading saved information|Preparing TV Channels to be displayed" />
+		<next-action name="Movie_Streams" id="display_SOM_Movie_Streams"
+			isfolder="true" />
+		<next-action name="Next_Page" id="display_SOM_Movies"
+			isfolder="true" />
+	</action>
+
+	<action id="display_Year_Section">
+		<move module="mymoves.movie.Menu" function="displayYearList"
+			pmessage="Retrieving HD movie collection" />
+		<move module="mymoves.sominaltv.Sominal" function="listMovies"
+			pmessage="Retrieving HD movie collection" />
+		<move module="mymoves.movie.Metadata" function="retieveMovieInfoAndAddItem"
+			pmessage="Reading saved information|Preparing TV Channels to be displayed" />
+		<next-action name="Movie_Streams" id="display_SOM_Movie_Streams"
+			isfolder="true" />
+		<next-action name="Next_Page" id="display_SOM_Movies"
+			isfolder="true" />
+	</action>
+
+	<action id="display_AZ_Menu_Section">
+		<move module="mymoves.movie.Menu" function="displayAtoZMenu" />
+		<next-action name="ChooseChar" id="display_AZ_List"
+			isfolder="true" />
+	</action>
+
+	<action id="display_AZ_List">
+		<move module="mymoves.movie.Menu" function="displayAtoZList"
+			pmessage="Retrieving HD movie collection" />
+		<move module="mymoves.sominaltv.Sominal" function="listMovies"
+			pmessage="Retrieving HD movie collection" />
+		<move module="mymoves.movie.Metadata" function="retieveMovieInfoAndAddItem"
+			pmessage="Reading saved information|Preparing TV Channels to be displayed" />
+		<next-action name="Movie_Streams" id="display_SOM_Movie_Streams"
+			isfolder="true" />
+		<next-action name="Next_Page" id="display_SOM_Movies"
+			isfolder="true" />
+	</action>
+
+	<action id="display_Movie_Section"
+		pmessage="SominalTvTheatre|Please go to website and press an Advertisement|Keep it running in your hands">
+		<move module="mymoves.movie.Menu" function="displayMainMenu" />
+		<next-action name="listMovies" id="display_SOM_Movies"
+			isfolder="true" />
+	</action>
+	
+	<action id="display_HDMovie_Section">
+		<move module="mymoves.movie.Menu" function="displayHDMainMenu" />
+		<next-action name="listMovies" id="display_SOM_Movies"
+			isfolder="true" />
+	</action>
+
+	<!-- all movie listing common actions -->
+	<action id="display_SOM_Trailers">
+		<move module="mymoves.sominaltv.Sominal" function="listMovies"
+			pmessage="Retrieving HD movie collection" />
+		<next-action name="Movie_Streams" id="display_Trailer_Stream"
+			isfolder="false" />
+		<next-action name="Next_Page" id="display_SOM_Movies"
+			isfolder="true" />
+	</action>
+
+	<action id="display_SOM_Movies">
+		<move module="mymoves.sominaltv.Sominal" function="listMovies"
+			pmessage="Retrieving HD movie collection" />
+		<move module="mymoves.movie.Metadata" function="retieveMovieInfoAndAddItem"
+			pmessage="Reading saved information|Preparing TV Channels to be displayed" />
+		<next-action name="Movie_Streams" id="display_SOM_Movie_Streams"
+			isfolder="true" />
+		<next-action name="Next_Page" id="display_SOM_Movies"
+			isfolder="true" />
+	</action>
+
+	<action id="display_Trailer_Stream">
+		<move module="mymoves.sominaltv.Sominal" function="retieveTrailerStream"
+			pmessage="Retrieving movie stream information" />
+
+		<move module="moves.PreProcessor" function="prepareVideoItem" />
+		<move module="moves.SnapVideo" function="addPlaylistVideosInfo" />
+		<move module="moves.SnapVideo" function="addVideoInfo" />
+		<next-action name="Play" id="__play__" isfolder="false" />
+	</action>
+
+
+	<action id="display_SOM_Movie_Streams">
+		<move module="mymoves.sominaltv.Sominal" function="retieveMovieStreams"
+			pmessage="Retrieving movie stream information" />
+
+		<move module="mymoves.PlaylistProcessor" function="preparePlayListItems" />
+		<next-action name="Play" id="__play__" isfolder="false" />
+		<next-action name="Play_Stream" id="snap_and_play_video"
+			isfolder="false" downloadable="true" download-action-id="snap_and_download_video" />
+		<next-action name="Play_AllStreams" id="snap_and_continuousplay_playlist"
+			isfolder="false" />
+	</action>
+
+	<action id="display_SOM_Movie_Under_Construction">
+		<move module="mymoves.movie.Menu" function="displayUC" pmessage="" />
+	</action>
+
+
+	<!-- YouTube Channels -->
+	<action id="display_YouTube_Channels">
+		<move module="mymoves.youtube.YouTubeChannelContainer" function="displayChannels"
+			pmessage="" />
+		<next-action name="add_Channel" isfolder="false"
+			id="add_YouTube_Channel" />
+		<next-action name="show_Channel" isfolder="true"
+			id="display_YouTube_Channel" />
+	</action>
+
+	<action id="add_YouTube_Channel">
+		<move module="mymoves.youtube.YouTubeChannelContainer" function="addNewChannel"
+			pmessage="" />
+	</action>
+
+	<action id="remove_YouTube_Channel">
+		<move module="mymoves.youtube.YouTubeChannelContainer" function="removeChannel"
+			pmessage="" />
+	</action>
+
+	<action id="display_YouTube_Channel">
+		<move module="mymoves.youtube.YouTubeBrowser" function="selectContentType"
+			pmessage="" />
+		<redirect-action name="show_Videos" id="display_YouTube_Channel_Videos" />
+		<redirect-action name="show_Playlists"
+			id="display_YouTube_Channel_Playlists" />
+	</action>
+
+	<action id="display_YouTube_Channel_Videos">
+		<move module="mymoves.youtube.YouTubeBrowser" function="showUserUploads"
+			pmessage="" />
+		<next-action name="show_Videos" isfolder="true"
+			id="display_YouTube_Channel_Videos" />
+		<next-action name="play_Video" isfolder="false"
+			id="snap_and_play_video" downloadable="true" download-action-id="snap_and_download_video" />
+	</action>
+
+	<action id="display_YouTube_Channel_Playlists">
+		<move module="mymoves.youtube.YouTubeBrowser" function="showUserPlaylists"
+			pmessage="" />
+		<next-action name="show_Playlist_Videos" isfolder="true"
+			id="display_YouTube_Channel_Playlist_Videos" />
+		<next-action name="show_Playlists" isfolder="true"
+			id="display_YouTube_Channel_Playlists" />
+	</action>
+
+	<action id="display_YouTube_Channel_Playlist_Videos">
+		<move module="mymoves.youtube.YouTubeBrowser" function="showUserPlaylistVideos"
+			pmessage="" />
+		<next-action name="show_Playlist_Videos" isfolder="true"
+			id="display_YouTube_Channel_Playlist_Videos" />
+		<next-action name="play_Video" isfolder="false"
+			id="snap_and_play_video" downloadable="true" download-action-id="snap_and_download_video" />
+	</action>
+
+	<!-- Common Video Link Player Moves -->
+
+
+	<action id="snap_and_play_video">
+		<move module="moves.PreProcessor" function="prepareVideoItem" />
+		<move module="moves.SnapVideo" function="addPlaylistVideosInfo" />
+		<move module="moves.SnapVideo" function="addVideoInfo" />
+		<next-action name="Play" id="__play__" isfolder="false" />
+	</action>
+
+	<action id="snap_and_download_video">
+		<move module="moves.PreProcessor" function="prepareVideoItem" />
+		<move module="moves.SnapVideo" function="addPlaylistVideosInfo" />
+		<move module="moves.SnapVideo" function="addVideoInfo" />
+		<next-action name="Play" id="__download__" isfolder="false" />
+	</action>
+
+	<action id="snap_and_continuousplay_playlist">
+		<move module="mymoves.PlaylistProcessor" function="preparePlayListItems" />
+		<next-action name="Play" id="__play__" isfolder="false" />
+	</action>
+	
+	<action id="snap_and_resolve_video">
+		<move module="moves.PreProcessor" function="prepareVideoItem" />
+		<move module="moves.SnapVideo" function="addPlaylistVideosInfo" />
+		<move module="moves.SnapVideo" function="addVideoInfo" />
+		<next-action name="Play" id="__resolved__" isfolder="false" />
+	</action>
+
+
+</turtle>

@@ -1,0 +1,1002 @@
+<?xml version="1.0"?>
+
+                        <rss version="2.0">
+
+		      	        <channel>
+
+						<title>Techxoul</title>
+
+						<link>http://store.techxoul.com/</link>
+
+						<description>http://store.techxoul.com/</description>
+
+						<language>en-us</language>
+
+						<pubDate>Thu, 30 Apr 2015 10:00:18 Thu, 30 Apr 2015 10:00:18 +0000 </pubDate>
+
+						<lastBuildDate>Thu, 30 Apr 2015 10:00:18 Thu, 30 Apr 2015 10:00:18 +0000 </lastBuildDate>
+
+						<docs>http://store.techxoul.com/</docs>
+
+						<image>
+
+					  <url>http://store.techxoul.com/images/flogo.png</url>
+
+					  <title>Techxoul PVT LTD</title>
+
+					  <link>http://store.techxoul.com/</link>
+
+					  <width>200</width> 
+
+					  <height>79</height>
+
+					</image>
+<item>
+
+					<app>Net Tv</app>
+
+					<proSeq>1</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Aaj Tak</title>
+
+					<description>Aaj Tak</description>
+
+					<pubDate>2015-02-16</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/13168e6a2e6c84b4b7de9390c0ef5ec5ajjtak.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/13168e6a2e6c84b4b7de9390c0ef5ec5ajjtak.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/aajtak/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>1</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Star Plus</title>
+
+					<description>Star Plus</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/819e3d6c1381eac87c17617e5165f38cstarplus.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/819e3d6c1381eac87c17617e5165f38cstarplus.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/starplus/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>2</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Colors</title>
+
+					<description>ind/colors</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/146f7dd4c91bc9d80cf4458ad6d6cd1bcolors.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/146f7dd4c91bc9d80cf4458ad6d6cd1bcolors.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/colors/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>3</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Sony</title>
+
+					<description>Sony</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/55c567fd4395ecef6d936cf77b8d5b2bsony.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/55c567fd4395ecef6d936cf77b8d5b2bsony.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/sony/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>4</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Life ok</title>
+
+					<description>Life ok</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/1a32df83ac6be75b6907fe885465b7a9lifeok.jpeg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/1a32df83ac6be75b6907fe885465b7a9lifeok.jpeg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/lifeok/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>5</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Rishty</title>
+
+					<description>rishty</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/a2186aa7c086b46ad4e8bf81e2a3a19brishty.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/a2186aa7c086b46ad4e8bf81e2a3a19brishty.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/rishty/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>6</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Zee Tv</title>
+
+					<description>Zee Tv</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/4ef1477dc99fb623fd5d06dc4b26d1aazeetv.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/4ef1477dc99fb623fd5d06dc4b26d1aazeetv.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/zeetv/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>7</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Sab Tv</title>
+
+					<description>Sab Tv</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/0189caa552598b845b29b17a427692d1sonysab.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/0189caa552598b845b29b17a427692d1sonysab.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/sabtv/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>8</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>lamhe</title>
+
+					<description>lamhe</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/3a09a524440d44d7f19870070a5ad42flamhe.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/3a09a524440d44d7f19870070a5ad42flamhe.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/lamhe/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>9</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Zee Smile</title>
+
+					<description>ind/zeesmile</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/9cb67ffb59554ab1dabb65bcb370ddd9Zeesmile.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/9cb67ffb59554ab1dabb65bcb370ddd9Zeesmile.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/zeesmile/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>10</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Dekho</title>
+
+					<description>ind/DEKHO</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/6a571fe98a2ba453e84923b447d79cffdekhotv.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/6a571fe98a2ba453e84923b447d79cffdekhotv.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/DEKHO/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>11</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Bolly Wood</title>
+
+					<description>bollywood</description>
+
+					<pubDate>2015-04-20</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/20d039f53b4a6786c21ee0dbcd2d2c5dbolywood1.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/20d039f53b4a6786c21ee0dbcd2d2c5dbolywood1.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/bollywood/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>12</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Filmax</title>
+
+					<description>filmax</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/3c7417b8df0daf23f39f445e740c7a43filmax.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/3c7417b8df0daf23f39f445e740c7a43filmax.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/filmax/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>13</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Manorajan</title>
+
+					<description>Manorajan</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/6547884cea64550284728eb26b0947efmanoranjan.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/6547884cea64550284728eb26b0947efmanoranjan.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/manoranjan/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>14</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Sony Max</title>
+
+					<description>ind/SATMAX</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/793bc52a941b3951dfdb85fb04f9fd06sonymax.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/793bc52a941b3951dfdb85fb04f9fd06sonymax.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/SATMAX/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>15</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>A One</title>
+
+					<description>ind/aone</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/7b5b23f4aadf9513306bcd59afb6e4c9aone.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/7b5b23f4aadf9513306bcd59afb6e4c9aone.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/aone/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>16</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Enter 10</title>
+
+					<description>Enter 10</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/74c407e263578d03d02c1123aa730b52enter10.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/74c407e263578d03d02c1123aa730b52enter10.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/enter10/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>17</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>B4U Movies</title>
+
+					<description>B4U Movies</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/c0e8517b1fe0b5270f3f41d4b56d6118b4umovies.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/c0e8517b1fe0b5270f3f41d4b56d6118b4umovies.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/b4umovies/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>18</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Star Gold</title>
+
+					<description>Star Gold</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/ef7a3d1d2f039be1cb6a695f856b5ca6stargold.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/ef7a3d1d2f039be1cb6a695f856b5ca6stargold.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/stargold/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>19</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Star Movies</title>
+
+					<description>Star Movies</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/f52db9f7c0ae7017ee41f63c2a7353bcstarmovies.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/f52db9f7c0ae7017ee41f63c2a7353bcstarmovies.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://cdn.ebound.tv:1935/tv/starmovies/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>20</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Zee Cinema</title>
+
+					<description>Zee Cinema</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/26657d5ff9020d2abefe558796b99584zeecenima.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/26657d5ff9020d2abefe558796b99584zeecenima.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/zeecinema/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>21</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>ZEE Classic</title>
+
+					<description>ind/ZEECLASSIC</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/f471223d1a1614b58a7dc45c9d01df19zeeclasic.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/f471223d1a1614b58a7dc45c9d01df19zeeclasic.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/ZEECLASSIC/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>22</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>ZEE Action</title>
+
+					<description>ind/ZEETVACTION</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/2be9bd7a3434f7038ca27d1918de58bdzeeaction.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/2be9bd7a3434f7038ca27d1918de58bdzeeaction.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/ZEETVACTION/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>23</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>HBO</title>
+
+					<description>HBO</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/ad554d8c3b06d6b97ee76a2448bd7913HBO.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/ad554d8c3b06d6b97ee76a2448bd7913HBO.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/pak/hbo/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>24</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Zing</title>
+
+					<description>ind/zing</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/7bc1ec1d9c3426357e69acd5bf320061zing1.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/7bc1ec1d9c3426357e69acd5bf320061zing1.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/ZING/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>25</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Now Music</title>
+
+					<description>ind/NOWmusic</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/9379c23ac12dc94053207373040bc791nowMucic.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/9379c23ac12dc94053207373040bc791nowMucic.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/NOWmusic/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>26</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Dhoom Music</title>
+
+					<description>ind/DHOOMMUSIC</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/b83aac23b9528732c23cc7352950e880Dhoommusic.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/b83aac23b9528732c23cc7352950e880Dhoommusic.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/DHOOMMUSIC/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>27</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>M TUNE</title>
+
+					<description>ind/MTUNE</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/0a73de68f10e15626eb98701ecf03adbMtune.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/0a73de68f10e15626eb98701ecf03adbMtune.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/MTUNE/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>28</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>X Music</title>
+
+					<description>ind/xmusic</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/3b24156ad560a696116454056bc88ab4xmusik.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/3b24156ad560a696116454056bc88ab4xmusik.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/xmusic/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>29</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Ptc News</title>
+
+					<description>ind/PTCNEWS</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/3e5190eeb51ebe6c5bbc54ee8950c548ptcnews.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/3e5190eeb51ebe6c5bbc54ee8950c548ptcnews.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstreams.dynns.com:8080/ind/PTCNEWS/index.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>30</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Punjabi world</title>
+
+					<description>Punjabi world</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/d01c25576ff1c53de58e0e6970a2d510worldpunjabi.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/d01c25576ff1c53de58e0e6970a2d510worldpunjabi.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/punjabiworld/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>31</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>PTC Punjabi </title>
+
+					<description>PTC Punjabi </description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/ccc81a97c1535f9a631b9db584a264e4ptcpunjabi.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/ccc81a97c1535f9a631b9db584a264e4ptcpunjabi.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/ptcpunjabi/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>32</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>PTC Chakde</title>
+
+					<description>PTC Chakde</description>
+
+					<pubDate>2015-02-17</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/94aef38441efa3380a3bed3faf1f9d5dptcchakde.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/94aef38441efa3380a3bed3faf1f9d5dptcchakde.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http:/techstream.dynss.com:1935/ind/ptcchakde/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>33</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Animal Planet</title>
+
+					<description>ind/animalplanet</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/d397c2b2be2178fe6247bd50fc97cff2animalplenet.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/d397c2b2be2178fe6247bd50fc97cff2animalplenet.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/animalplanet/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>34</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>National Geo</title>
+
+					<description>nationalgeo</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/d8e1344e27a5b08cdfd5d027d9b8d6denationalgeographic.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/d8e1344e27a5b08cdfd5d027d9b8d6denationalgeographic.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/nationalgeo/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>35</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Discovery Science</title>
+
+					<description>ind/discoverysc</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/6d1e481bdcf159961818823e652a7725discoverscince.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/6d1e481bdcf159961818823e652a7725discoverscince.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/discoverysc/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>36</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Discovery</title>
+
+					<description>ind/discovery</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/6e923226e43cd6fac7cfe1e13ad000acDiscovry.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/6e923226e43cd6fac7cfe1e13ad000acDiscovry.png" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/discovery/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>37</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Net Geo Wild</title>
+
+					<description>ind/netgeowild</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/netgeowild/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>38</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Disney</title>
+
+					<description>ind/disney</description>
+
+					<pubDate>2015-02-24</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/5a2756a3cb9cde852cad3c97e120b656disny.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/5a2756a3cb9cde852cad3c97e120b656disny.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/disney/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>100</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Raj News</title>
+
+					<description>RAJNEWS</description>
+
+					<pubDate>2015-04-30</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/fd45c64e026040dbcb83395829d2aea5raajnews.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/fd45c64e026040dbcb83395829d2aea5raajnews.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/RAJNEWS/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>102</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Raj Tv</title>
+
+					<description>RAJTV</description>
+
+					<pubDate>2015-04-30</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/8cc0225cb9ed2421038a1325a46c562araajtv.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/8cc0225cb9ed2421038a1325a46c562araajtv.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/RAJTV/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>103</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Raj Plus</title>
+
+					<description>RAJPLUS</description>
+
+					<pubDate>2015-04-30</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/373cb8cd58cad5f1309b31c56e2d5a83raajplus.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/373cb8cd58cad5f1309b31c56e2d5a83raajplus.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/RAJPLUS/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>104</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Star Vijay</title>
+
+					<description>STARVIJAY</description>
+
+					<pubDate>2015-04-30</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/437d46a857214c997956eaf0e3b21a55starvijay.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/437d46a857214c997956eaf0e3b21a55starvijay.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/STARVIJAY/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Net Tv</app>
+
+					<proSeq>105</proSeq>
+
+					<program_genre>Live Tv</program_genre>
+
+					<program>Indian Channel</program>
+
+					<title>Food</title>
+
+					<description>food</description>
+
+					<pubDate>2015-04-30</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/87ba276ebbe553ec05d2f5b37c20125ffood.jpg" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/87ba276ebbe553ec05d2f5b37c20125ffood.jpg" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/iptv/food/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item></channel></rss>

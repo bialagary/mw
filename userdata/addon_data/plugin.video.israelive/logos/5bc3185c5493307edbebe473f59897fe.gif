@@ -1,0 +1,681 @@
+
+
+
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage">
+    <head>
+        
+
+
+<title>Pagina non trovata</title>
+<meta name="description" content="&nbsp;" />
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta http-equiv="Content-Type" content="text/html" />
+<meta name="viewport" content="width=1024,target-densitydpi=medium-dpi" />
+<link rel="icon" href="favicon_1.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="favicon_1.ico" type="image/x-icon" />
+
+<base href="http://podcasting.radiomontecarlo.net/" />
+
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="">
+<meta property="og:description" content="&nbsp;">
+<meta property="og:url" content="http://podcasting.radiomontecarlo.net/">
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:site" content="@rmc_official">
+<meta property="twitter:creator" content="@rmc_official">
+<meta property="twitter:title" content="">
+<meta property="twitter:description" content="&nbsp;">
+<meta property="twitter:url" content="http://podcasting.radiomontecarlo.net/">
+
+
+<meta itemprop="url" content="http://podcasting.radiomontecarlo.net/" />
+
+
+
+<meta name="apple-itunes-app" content="app-id=419571571">
+
+
+                
+
+        <link href="/css/style_site.css?v=1436194605000" rel="stylesheet" type="text/css" />
+        
+        <!-- CSS WIDGET -->                
+        <link href="/css/rmc_404_css.jsp" rel="stylesheet" type="text/css" />
+        
+        
+        
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script type="text/javascript" src="js/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="js/dotdotdot.js?v=1408467816000" defer></script>
+<script type="text/javascript" src="js/jquery.bxSlider.min.js?v=1408467816000"></script>
+<script type="text/javascript" src="js/flash.js?v=1408467816000"></script>
+<script type="text/javascript" src="js/jquery-example.js?v=1408467816000"></script>
+<script type="text/javascript" src="js/superfish/hoverIntent.js?v=1408467816000"></script>
+<script type="text/javascript" src="js/superfish/superfish.js?v=1408467816000"></script>
+<script type="text/javascript" src="js/superfish/supersubs.js?v=1408467816000"></script>
+<script type="text/javascript" src="js/confirm/jquery.confirm.js?v=1408467816000"></script>  
+<script type="text/javascript" src="js/jquery.scrollTo.js?v=1434992196000" defer></script>  
+<script type="text/javascript" src="js/validate/jquery.validate.min.js?v=1408467816000" ></script>  
+<script type="text/javascript" src="js/validate/messages_it.js?v=1408467816000" defer></script>  
+<script type="text/javascript" src="js/ajaxfileupload.js?v=1408467816000" defer></script>
+<script type="text/javascript" src="js/fancybox/source/jquery.fancybox.pack.js?v=2.1.4"></script>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/utils.js?v=1427730110000"></script>
+<script type="text/javascript" src="js/galleria/galleria-1.2.6.min.js?v=1408467816000"></script>
+<script type="text/javascript" src="js/wookmark/jquery.imagesloaded.js?v=1408467816000"></script>
+<script type="text/javascript" src="js/wookmark/jquery.wookmark.min.js?v=1408467816000" defer></script>
+<script type="text/javascript" src="js/wookmark/jquery.colorbox-min.js?v=1408467816000" defer></script>
+<script type="text/javascript" src="js/jquery.sharrre.min.js?v=1408467816000" defer></script>
+<script type="text/javascript" src="js/jquery.lazyload.min.js?v=1418147102000"></script>
+<script type="text/javascript" src="js/jquery.cookie.js?v=1418147108000"></script>
+<script type="text/javascript" src="js/cookiecuttr/jquery.cookiecuttr.js?v=1432805278000" defer></script>
+
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("img.lazy").show().lazyload({
+            failure_limit: 500,
+            effect : "fadeIn",
+            threshold : 100,
+            placeholder : "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAAAAAA6fptVAAAACklEQVQYV2P4DwABAQEAWk1v8QAAAABJRU5ErkJggg=="
+        });            
+        $(window).trigger("scroll");
+        $('img[defer-src]').each(function(){
+          $(this).attr('src', $(this).attr('defer-src'));
+          $(this).removeAttr('defer-src');
+        });
+    });    
+</script>
+<style>
+    img.lazy {
+        display: none;
+    }
+</style>
+<script type="text/javascript">
+function updateSocialCounter(selector){
+    if( typeof selector != 'undefined' ){
+        $(selector).sharrre({
+            share: {    
+              facebook: true,
+              twitter: true
+            },
+            enableHover: false,
+            render: function(api, options){            
+                if(options.total==0){
+                    $(api.element).addClass('zero_share_count');
+                }            
+            }
+        });
+    }
+}
+$(function(){
+    updateSocialCounter('.social_counter');
+});
+</script>
+
+
+<script type="text/javascript">    
+   $(window).load(function(){
+      $('.taglia_testo').dotdotdot();
+   })
+</script>
+
+
+
+
+<!--[if IE]><link rel="stylesheet" type="text/css" href="css/ie.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie_8.css" /><![endif]-->
+<!--[if IE 9]><link rel="stylesheet" type="text/css" href="css/ie_9.css" /><![endif]-->
+<script type="text/javascript">
+if ($.browser.msie && $.browser.version == 10) {
+    var style_ie10 = document.createElement('link');
+    style_ie10.rel="stylesheet";
+    style_ie10.type="text/css";
+    style_ie10.href="css/ie_10.css";
+    document.head.appendChild(style_ie10);
+}
+</script>
+<script type="text/javascript" src="js/events_handler.js?v=1436274012000" ></script>
+
+<script type="text/javascript">
+function hasAcceptedCookie(tag){
+  return true;
+}
+function hasAcceptedCookieProvider(provider_tag){
+  return true;
+}
+</script>
+<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700' rel='stylesheet' type='text/css' />
+<link href='http://fonts.googleapis.com/css?family=Puritan:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Oswald:400,300,700' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript">(function(a){a.fn.heightAlign=function(b){if(a(b)){this.each(function(){var d=a(this);var c=a(b).outerHeight();d.css({"min-height":c+"px"});a(window).bind("resize",function(){if(a(window).width()<=800){d.css({"min-height":""})}else{d.css({"min-height":c+"px"})}})})}}}(jQuery));function openPrivacy(c,b,e){if(!b){b=570}if(!e){e=330}var a=Math.floor((screen.width-b)/2);var d=Math.floor((screen.height-e)/2);window.open(c,"","width="+b+",height="+e+",top="+d+",left="+a+",scrollbars=yes")};</script> <script type="text/javascript">$(document).ready(function(){$(".ghost_container").each(function(){if($(this).find(".anteprima_articolo").length==0){$(this).remove()}})});</script> <script type="text/javascript">jQuery(function(a){a.datepicker.regional.it={closeText:"Chiudi",prevText:"Prec",nextText:"Succ.",currentText:"Oggi",monthNames:["Gennaio","Febbraio","Marzo","Aprile","Maggio","Giugno","Luglio","Agosto","Settembre","Ottobre","Novembre","Dicembre"],monthNamesShort:["Gen","Feb","Mar","Apri","Mag","Giu","Lug","Aug","Set","Ott","Nov","Dic"],dayNames:["Domenica","Lunedì","Martedì","Mercoledì","Giovedì","Venerdì","Sabato"],dayNamesShort:["Dom","Lun","Mar","Mer","Gio","Ven","Sab"],dayNamesMin:["Do","Lu","Ma","Me","Gi","Ve","Sa"],weekHeader:"Sm",dateFormat:"dd/mm/yy",firstDay:1,isRTL:false,showMonthAfterYear:false,yearSuffix:""};a.datepicker.setDefaults(a.datepicker.regional.it)});</script>        
+
+
+<script type="text/javascript">
+    var chart_lang=[];
+    chart_lang['remove']='Rimuovi';
+</script>
+<script type="text/javascript" src="js/simpleCart.js?v=1" ></script>
+<script type="text/javascript" src="widget/shop/simpleCartCustom.jsp?v=2" ></script>
+
+
+    <link rel="stylesheet" href="js/add2home/add2home.css">
+    <script type="text/javascript">
+    var addToHomeConfig = {	
+            touchIcon:true
+    };
+    var hasStorage = (function() {
+    try {
+        localStorage.setItem(mod, mod);
+        localStorage.removeItem(mod);
+        return true;
+      } catch (exception) {
+        return false;
+      }
+    }());
+    if(hasStorage){
+        $('body').append('<s'+'cript type="application/javascript" src="js/add2home/add2home.js"></'+'script>');
+    }
+    </script>
+
+
+
+<link rel="stylesheet" type="text/css" media="print" href="/includes/layout/preset_widget/default/article_print.css" />
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        //if (location.href=="http://www.105.net/sezioni/1273/105-smart-up")  { $("span.ora_pubblicazione").html("06 GIUGNO") }
+        //Banner Background
+        var altezza = $(".background").height();
+        //alert(altezza);
+        if (altezza < 20 && altezza != null) {
+            $("#container").css("margin-top", "90px");
+        }
+        else if (altezza == null) {
+            $("#container").css("margin-top", "0px");
+        }
+        //Script Open Search Box RMC
+        $('.icon_open_search_box').click(function() {
+            if($('.overbox_rmc_menu .rmc_container_menu_open_other_sections').is(":hidden") != true){
+                $('.overbox_rmc_menu .rmc_container_menu_open_other_sections').slideUp("fast");
+            }
+			$('.rmc_container_open_search_box').slideToggle('fast');
+			return false;
+		});
+		//Script Other Open Menu RMC
+		$('.menu_open_other_sections').click(function() {
+	        if($('.overbox_rmc_menu .rmc_container_open_search_box').is(":hidden") != true){
+                $('.overbox_rmc_menu .rmc_container_open_search_box').slideUp("fast");
+            }
+			$('.rmc_container_menu_open_other_sections').slideToggle('fast');
+			return false;
+		});
+        //Script Open Search Box VRG
+        $('.icon_open_search_box').click(function() {
+            if($('.vrg_container_menu .vrg_container_menu_open_other_sections').is(":hidden") != true){
+                $('.vrg_container_menu .vrg_container_menu_open_other_sections').slideUp("fast");
+            }
+			$('.vrg_container_open_search_box').slideToggle('fast');
+			return false;
+		});
+		//Script Other Open Menu VRG
+		$('.menu_open_other_sections').click(function() {
+	        if($('.vrg_container_menu .vrg_container_open_search_box').is(":hidden") != true){
+                $('.vrg_container_menu .vrg_container_open_search_box').slideUp("fast");
+            }
+			$('.vrg_container_menu_open_other_sections').slideToggle('fast');
+			return false;
+		});
+		//Ghost Container
+        $('.ghost_container').each(function(){
+            if ( $(this).find('.anteprima_articolo').length == 0 ){
+                $(this).remove();
+            }
+        });
+      //Script resize full box
+      /*  if($("body").hasClass("background") != false){
+        	$(document).find($(".banner_background_controller")).addClass("resize_full_box");
+        }*/
+    });  
+/*function sc_smartScreenStart() {
+    var flashPlayer = swfobject.getObjectById('FlashID')
+    flashPlayer.sendCommand('stop', '')
+}
+function sc_smartScreenEnd() {
+    var flashPlayer = swfobject.getObjectById('FlashID');
+    flashPlayer.sendCommand('play', '')
+}*/
+var timerwradio;
+function sc_smartScreenStart() {
+	console.log("called")
+	timerwradio = window.setTimeout(function(){sc_smartScreenStart()}, 1000)
+   if (swfobject.getObjectById('FlashID') != null) {
+   console.log("flash")
+   var flashPlayer = swfobject.getObjectById('FlashID')
+   flashPlayer.sendCommand('stop', '')
+	   
+	 } else if ($("#player").length>0){
+	   player.pause()
+	   console.log("html5")
+	 }
+}
+
+
+function sc_smartScreenEnd() {
+	clearTimeout(timerwradio);
+	if (swfobject.getObjectById('FlashID') != null) {
+    var flashPlayer = swfobject.getObjectById('FlashID');
+    flashPlayer.sendCommand('play', '')
+  } else if ($("#player").length>0){
+	 	 	player.play()
+	 }
+}
+
+function stopWebradio(){
+    var flashPlayer = swfobject.getObjectById('FlashID');
+	if(flashPlayer!=null){
+		flashPlayer.sendCommand('exit', '')
+	}
+}
+$(window).bind("beforeunload", function(event){
+    stopWebradio()
+});
+</script>
+
+<!--[if gte IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+<![endif]-->
+
+
+<script type="text/javascript">
+if(hasAcceptedCookie('webtrekk')){
+	document.write('<s'+'cript type="text/javascript" src="custom_widget/finelco/webtrekk/rmc/webtrekk_v3.min.js"></scrip'+'t>');
+	document.write('<s'+'cript src="custom_widget/finelco/webtrekk/webtrekk_media_flash.js" type="text/javascript"></scrip'+'t>');
+}
+</script>
+<script src="/js/swfobject.js" type="text/javascript"></script>
+<!--Begin::Google Analytics-->
+        <script>
+if(hasAcceptedCookie('google-analytics-cookies')){
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+          ga('create', 'UA-2255564-4', 'auto');
+          ga('require', 'displayfeatures');
+          ga('send', 'pageview');
+}
+        </script>
+        <!--End::Google Analytics-->
+
+<script type="text/javascript">
+  var fb_appId = '1394068684219792';
+  var fb_SOCIAL_CONTEXT = '';
+  var fb_SOCIAL_URL = 'http://podcasting.radiomontecarlo.net/404.jsp?null';  
+  
+    function fb_render() {
+        FB.login(function(response) {
+          if (response.status === 'connected') {
+            connected();
+          }
+        },{scope: 'public_profile,email'});
+    }
+    
+    function connected() {
+        FB.getLoginStatus(function(response) {
+          if (response.status === 'connected') {
+            statusChangeCallback(response);
+          }
+        });
+    }
+    
+    function statusChangeCallback(response) {
+        if (response.status === 'connected') {
+            fb_saveUser(response.authResponse.accessToken)
+        }
+    }
+    
+    function fb_saveUser(access_token) {
+        handleUser(access_token, 'facebook')
+    }
+
+    window.fbAsyncInit = function() {
+        FB.init({
+          appId      : fb_appId,
+          cookie     : true,  // enable cookies to allow the server to access 
+                              // the session
+          xfbml      : true,  // parse social plugins on this page
+          version    : 'v2.0' // use version 2.0
+        });
+    };
+
+    if(hasAcceptedCookie('facebook')){      
+      // Load the SDK asynchronously
+      (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));
+    }
+
+</script>
+
+    
+<meta name="google-signin-clientid" content="118646819467-olhbdu81v7qnlbpaaepmj344dv4oonb1.apps.googleusercontent.com" />
+<meta name="google-signin-scope" content="https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/plus.profile.emails.read" />
+<meta name="google-signin-requestvisibleactions" content="http://schema.org/AddAction" />
+<meta name="google-signin-cookiepolicy" content="single_host_origin" />
+<script type="text/javascript">
+  var gplus_SOCIAL_CONTEXT = '';
+  var gplus_SOCIAL_URL = 'http://podcasting.radiomontecarlo.net/404.jsp?null';  
+  (function() {
+    var po = document.createElement('script');
+    po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/client:plusone.js?onload=render';    
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(po, s);
+  })();
+  var clicked_trigger = false;
+
+  function gplus_render(clicked, noPopup) {
+    if (clicked==true) {
+        clicked_trigger=true;
+        var additionalParams = {
+          'callback': signinCallback
+        };
+        gapi.auth.signIn(additionalParams);
+    }
+  }
+
+  function signinCallback(authResult) {
+      if (typeof authResult['status'] != 'undefined' && authResult['status']['signed_in']) {
+        gplus_saveUser(authResult['access_token'])
+      }
+  }
+
+  function gplus_saveUser(access_token) {
+    if (clicked_trigger) {
+      handleUser(access_token, 'google')
+    }
+  }
+
+</script>
+<script type="text/javascript">
+if(hasAcceptedCookie('google-plus')){  
+  (function() {
+   var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+   po.src = 'https://apis.google.com/js/client:plusone.js';
+   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+}
+</script>
+
+    <script type="text/javascript">
+      var social_CONTEXTPATH = '';
+      var socialRegistrationUrl;
+
+      function socialLogin(social, registrationUrl){
+          if(typeof registrationUrl != 'undefined'){
+              socialRegistrationUrl=registrationUrl;
+          }
+          if(social=='facebook'){
+              if(hasAcceptedCookie('facebook')){
+                fb_render();
+              }
+          }else if(social=='google'){
+            if(hasAcceptedCookie('google-plus')){
+              gplus_render(true);
+            }
+          }
+      }
+      function handleUser(access_token, social) {
+
+        $.ajax({
+          url: social_CONTEXTPATH + "/webservices/socialResponse.jsp",
+          type: "POST",
+          dataType: "json",
+          async: false,
+          data: {social: social, accessToken: access_token},
+          success: function(data) {
+            var urlToRedirect;
+            if(!data.newUser){
+                if(data.url_redirect){
+                    urlToRedirect=data.url_redirect;
+                }else{
+                    if(parent!=null){
+                      urlToRedirect=parent.location.href;
+                    }else{
+                      urlToRedirect=location.href;
+                    }                    
+                }
+            }else{
+                urlToRedirect=(typeof socialRegistrationUrl != 'undefined'?socialRegistrationUrl:data.registrationURL);
+            }
+            if(parent!=null){
+              parent.location.href=urlToRedirect;
+            }else{
+              location.href=urlToRedirect;
+            }
+            $.fancybox.close()
+          }
+        })
+      }
+
+    </script>
+
+
+ 
+
+        
+        <script id="df4cb424-37df-45d3-976f-962bc8670693" class="banner_cms" type='text/javascript'>
+        var banner = {"html":"<script src='http://www6.smartadserver.com/config.js?nwid=845' type=\"text/javascript\"><\/script>\r\n<script type=\"text/javascript\">\r\nsas.setup({ domain: 'http://www6.smartadserver.com', inSequence: true, async: true, renderMode: 0});\r\n//  renderMode define when ads must be rendered :\r\n//  - DEFAULT (0): as soon as ad is ready\r\n//  - READY (1): render ads when document is ready\r\n//  - ON_DEMAND (2): user must call sas.callAds() - used to force ad refresh\r\n<\/script>\r\n      "};
+      if(hasAcceptedCookie('smartadserver')){
+          document.write(banner.html);
+        }
+      $('#df4cb424-37df-45d3-976f-962bc8670693').remove()
+      </script>
+        
+        <script type="text/javascript">
+          if(hasAcceptedCookie('addthis')){
+            document.write('<s'+'cript type="text/javascript" src="http://s7.addthis.com/js/300/addthis_widget.js" defer></scrip'+'t>');
+          }
+        </script>        
+    </head>
+    <body class="rmc">
+    <script language="JavaScript" type="text/javascript">
+    var seconds =10;
+    var url="http://www.radiomontecarlo.net";
+    
+    function redirect(){
+     if (seconds <=0){
+     // redirect to new url after counter  down.
+      window.location = url;
+     }else{
+      seconds--;
+      document.getElementById("container_info").innerHTML = "Sarai ridirezionato alla home page del sito tra "+seconds+" secondi."
+      setTimeout("redirect()", 1000)
+     }
+    }
+</script>
+<div id="container_404">
+    
+
+    <div class="logo box_logo_channel_1">
+        <a href="http://www.radiomontecarlo.net/sezioni/1/home"><img  alt="" title="" src="images/rmc-logo.png" /></a>        
+    </div>
+
+    <div class="container_text_info">
+        <div class="text_edit not_found_text_edit_404_titolo">
+    <p class="text " >...oops pagina non trovata</p>
+</div>
+
+        <div id="container_info"></div>
+    </div><!--container_text_info-->
+<script type="text/javascript">
+ redirect();
+</script>
+</div><!--container_404-->
+
+        <link rel="stylesheet" href="js/confirm/jquery.confirm.css?v=1436947786000" type="text/css" />
+        <link rel="stylesheet" href="js/fancybox/source/jquery.fancybox.css?v=1433319726000" type="text/css" media="screen" />
+        
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/flick/jquery-ui.css">
+        
+        <script id="bff517e9-58a3-4d88-a6d9-7813e84400dc" class="banner_cms" type='text/javascript'>
+        var banner = {"html":"<div data-render=\"true\"  class=\"bannervcms banner_bottom \" format=\"bottom\" ><script id=\"_forebaseplugin\" type=\"text/javascript\" src=\"http://votingplanet.forebase.com/plugin/loader.js\" data-baseUrl=\"votingplanet.forebase.com/plugin\" data-placementID=\"radiomontecarlo_home\" ><\/script><\/div>\r\n      "};
+      if(hasAcceptedCookie('smartadserver')){
+          document.write(banner.html);
+        }
+      $('#bff517e9-58a3-4d88-a6d9-7813e84400dc').remove()
+      </script>
+        <div id="fb-root"></div>
+<script>
+if(hasAcceptedCookie('facebook')){
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/it_IT/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+}
+</script>
+<script>
+if(hasAcceptedCookie('twitter')){
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+}
+</script>
+<script type="text/javascript">
+if(hasAcceptedCookie('google-plus')){
+  window.___gcfg = {
+  parsetags: 'explicit'
+};
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+}
+</script>        
+        
+<script type='text/javascript' src='/widget/servizi/domini_js.jsp'></script><!-- Webtrekk 3.2.7, (c) www.webtrekk.com -->
+
+<script type="text/javascript">
+    var section_id = 0;
+    
+      section_id=1
+    
+        section_id = 0
+    
+    function getContentIdByURL() {
+        var url = document.location.href;
+        if (url && url !== null) {
+            return url.split("?")[0].toLowerCase();
+        }
+        return "no_content";
+    }
+    function getExistsParameterByName(name) {
+        var match = RegExp('[?&]' + name).exec(window.location.search);
+        if (match)
+            return name;
+        else
+            return 'no-refresh';
+    }
+    var pageConfig = {
+        linkTrack: "link",
+        heatmap: ""+section_id,
+        form: "",
+        contentId: getContentIdByURL()
+    };
+    var wt = new webtrekkV3(pageConfig);
+    var refresh;
+    wt.ignorePrerendering = true;
+    wt.contentGroup = {
+        1: "Gruppo Finelco",
+        2: "Radiomontecarlo.net",
+                3: "404"
+                       
+    };
+    refresh = getExistsParameterByName("refresh_ce");
+    wt.customParameter = {
+        1: document.title,
+        2: refresh,
+        3: "normale"
+    };
+    if(hasAcceptedCookie('webtrekk')){
+        wt.sendinfo();
+    }
+//-->
+</script>
+<noscript>
+<div>
+    <img src="http://gruppofinelco01.webtrekk.net/390174765854018/wt.pl?p=327" height="1" width="1" alt="" />
+</div>
+</noscript>
+
+
+    <div id="nielsenCall"></div> 
+    <script type="text/javascript">
+        function _basicNielsenCall(url, contentGroup) {
+        var _img = $('<img id="ttt" />');
+        _img.attr(
+                'src',
+                '//secure-it.imrworldwide.com/cgi-bin/m?ci=105-it&cg=0&si='
+                + encodeURIComponent(url).replace(/\%2F/g, '/')
+                + '%26refresh_ce-awe&rnd='
+                + Math.random()
+                );
+        _img.attr('alt', '')
+                .attr('border', '0')
+                .attr('height', '1')
+                .attr('width', '1')
+                .attr('style', 'display:none;');
+
+        $('#nielsenCall').append(_img);
+
+        var contentGroupValue = contentGroup || { 1 : "Gruppo Finelco", 2 : "RMC.it", 3 : "404"};
+        if(hasAcceptedCookie('webtrekk')){
+            wt.sendinfo({ contentId: url, contentGroup : contentGroupValue });
+        }
+    }
+    </script>
+    <!-- START Nielsen Online SiteCensus V6.0 -->
+    <!-- COPYRIGHT 2012 Nielsen Online -->
+    <script type="text/javascript" src="//secure-it.imrworldwide.com/v60.js">
+    </script>
+    <script type="text/javascript">
+     var pvar = { cid: "105-it", content: "0", server: "secure-it" };
+     var feat = { check_cookie: 0 };
+     var trac = nol_t(pvar, feat);
+     trac.record().post();
+    </script>
+    <noscript>
+     <div>
+     <img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=105-it&amp;cg=0&amp;cc=0&amp;ts=noscript"
+     width="1" height="1" alt="" />
+     </div>
+    </noscript>
+    <!-- END Nielsen Online SiteCensus V6.0 -->
+
+
+
+
+
+
+    </body>
+</html>

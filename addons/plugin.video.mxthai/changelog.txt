@@ -1,0 +1,40 @@
+[B]Version 1.1.2 - 05DEC2014[/B]
+
+- updated links due to dead server so this maybe the final release for a while
+- some links will be geo-blocked
+
+
+[B]Version 1.1.1 - 27NOV2014[/B]
+
+- updated links due to dead server
+- some links will be geo-blocked
+
+[B]Version 1.0.9 - 09NOV2014[/B]
+
+- removed geoblocks
+
+[B]Version 1.0.3 - 13OCT2014[/B]
+
+- removed geoblocks
+- updated links
+- updated channels
+- Hey guys most annoyed this is being sold in Pattaya as another persons work!
+
+[B]Version 1.0.2 - 16JUN2014[/B]
+
+- due to local circumstances the channels have changed
+- updated icons
+- updated channels
+
+
+[B]Version 1.0.1 - 23MAR2014[/B]
+
+- the first release of the MX Thai TV addon for XBMC 
+- added over 30 popular Thai TV channels
+- this is a release to XBMCHUB
+- some countries maybe geo-blocked (nothing we can do about this)
+- this plugin is free and should never be purchased 
+
+[B]Disclaimer:[/B]
+
+We do not now or ever maintain or stream the content in this XBMC addon, if a channel is not working, simply wait to the next update and then it may or may not be working.

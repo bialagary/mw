@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="General">
+    <setting id="only_english" type="bool" label="Only show movies in english" default="false"/>
+    <setting id="show_adult" type="bool" label="Show adult section" default="false"/>
+    <setting id="clear_cache" type="bool" label="Clear cache" default="false"/>
+    <setting id="debug" type="bool" label="Enable logging" default="false"/>
+  </category>
+  <category label="Anti-block">
+    <setting id="use_alternative_site_url" type="bool" label="Use alternative Movie4k site" default="false" enable="eq(2,false)"/>
+    <setting id="alternative_site_url" type="text" subsetting="true" label="Alternative site address" default="https://movie4k.unblocked.pe/" enable="eq(-1,true)"/>
+    <setting id="use_anonymizer_site" type="bool" label="Use proxy" default="false" enable="eq(-2,false)"/>
+  </category>
+</settings>

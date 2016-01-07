@@ -1,0 +1,4 @@
+<settings>
+    <setting id="backup_custom_directory" value="false" />
+    <setting id="backup_path" value="/storage/emulated/0/Download/" />
+</settings>

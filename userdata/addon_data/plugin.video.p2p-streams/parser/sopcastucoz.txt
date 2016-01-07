@@ -1,0 +1,1 @@
+{'url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/sopcastucoz.tar.gz', 'md5_url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/sopcastucoz.md5', 'md5': '244d6ef17459243b8fc2cf14d7157867   sopcastucoz.tar.gz\n\n'}

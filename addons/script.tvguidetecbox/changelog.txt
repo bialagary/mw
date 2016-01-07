@@ -1,0 +1,27 @@
+#This TV guide has been re skinned using the original developers code all credits must go to them ie FXB78,Bluezed tommy winther dixie Ray Wilson as without them there
+#would not be a tv guide 
+--------------------------
+TECBOX Guide - 6.0.11
+--------------------------
+Initial release
+
+--------------------------
+TECBOX Guide - 6.0.12
+--------------------------
+bug fixed channel additions
+
+--------------------------
+TECBOX Guide - 6.0.13
+--------------------------
+source guide changed to freeview or skyuk
+addons.ini updated all channels working as of 18/02/2015
+
+--------------------------
+TECBOX Guide - 6.0.14
+--------------------------
+source guide changed to freeview or skyuk
+addons.ini updated all channels working as of 25/02/2015
+added sky skin
+added new channels to skyuk XML
+modified disclaimer
+

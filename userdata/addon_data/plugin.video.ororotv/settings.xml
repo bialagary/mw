@@ -1,0 +1,17 @@
+<settings>
+    <setting id="downloads" value="" />
+    <setting id="fanart" value="true" />
+    <setting id="fav_sort" value="0" />
+    <setting id="meta" value="true" />
+    <setting id="password" value="tkuser" />
+    <setting id="resume_playback" value="true" />
+    <setting id="sublang1" value="English" />
+    <setting id="sublang2" value="English" />
+    <setting id="subscriptions_interval" value="3" />
+    <setting id="subscriptions_run" value="2015-12-29 08:07:17.899642" />
+    <setting id="subscriptions_update" value="true" />
+    <setting id="subtitles" value="false" />
+    <setting id="tv_library" value="special://userdata/addon_data/plugin.video.ororotv/TVShows" />
+    <setting id="updatelibrary" value="true" />
+    <setting id="user" value="tk-99@hotmail.co.uk" />
+</settings>

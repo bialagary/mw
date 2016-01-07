@@ -1,0 +1,39 @@
+[B]v0.0.1[/B]
+Initial Release
+
+[B]v0.0.2[/B]
+Fixed Movies -> Featured
+
+[B]v0.0.3[/B]
+Code Cleanup
+
+[B]v0.0.4[/B]
+Minor Bug Fixes
+
+[B]v0.0.5[/B]
+Search Bug Fix
+
+[B]v0.0.6[/B]
+Minor bug fixes
+Added GA
+
+[B]v0.0.7[/B]
+Added support for My Watch History
+
+[B]v0.0.8[/B]
+Moved watch history to module
+
+[B]v0.0.9[/B]
+Added support for play-back-engine
+
+[B]v0.1.0[/B]
+Fixed bug with play-back-engine
+
+[B]v0.1.1[/B]
+Switched to Universal Watch History and Playback Engine
+
+[B]v0.1.2[/B]
+Removed GA
+
+[B]v0.1.3[/B]
+NA

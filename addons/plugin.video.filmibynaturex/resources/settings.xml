@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Movies">
+	<setting id="moviesPerPage" label="Movies per page" type="enum" default="0" lvalues="30051|30052|30053"/>
+	</category>
+	<category label="Video">
+		<setting label="[B]Playback[/B]" type="lsep" />
+		<setting id="playbackqual" label="Select preferred playback video quality" type="enum" default="0" lvalues="30021|30022|30023"/>
+		<setting id="autoplayback" label="Auto playback first video source [Google Docs]" type="bool" default="true" />
+		<setting label="[B]Download[/B]" type="lsep" />
+		<setting label="Download path" type="folder" id="downloadPath"/>
+	</category>
+</settings>

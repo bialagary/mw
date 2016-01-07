@@ -1,0 +1,8 @@
+v.0.1 INITIAL TEST TO THE WORLD:
+- Complete re-write of my various other addons and lots of new content all merged into one
+
+Credits:
+Spoyser who's code I've found very helpful and well written. Sifting through that I've learnt a lot over the past year, I've also used his youtube module.
+Blazetamer who's addon installer was used as my base on the initial early versions of Total Installer.
+Mikey1234 who's archiving code proved very useful in the earlier versions of the backup/restore functions.
+Everyone at the XBMC foundation for making this possible and everyone who's contributed to the forum and wiki - lots of useful info there!

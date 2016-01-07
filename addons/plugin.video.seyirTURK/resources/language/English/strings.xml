@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="44044">seyirTURK</string>
+    <string id="44000">Açık</string>
+    <string id="44001">Favorilerim</string>
+    <string id="44002"></string>
+    <string id="44002"></string>
+	<string id="44100">Yetişkin içerikli portallar :</string>
+	<string id="44200">Açılış sayfam :</string>
+	<string id="44300">Sistem girişi için, http://seyirturk.com da kayıtlı mail adresiniz :</string>
+	<string id="44400">Sistem girişi için, http://seyirturk.com da kayıtlı şifreniz :</string>
+	<string id="44500">Yerel xml adresiniz (sunucuda değil pc nizde ise değiştirmeyiniz):</string>
+</strings>

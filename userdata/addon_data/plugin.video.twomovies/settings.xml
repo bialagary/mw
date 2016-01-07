@@ -1,0 +1,19 @@
+<settings>
+    <setting id="adult" value="false" />
+    <setting id="auto-view" value="true" />
+    <setting id="banners" value="false" />
+    <setting id="default-view" value="50" />
+    <setting id="download_folder" value="" />
+    <setting id="episodes-view" value="504" />
+    <setting id="metadata" value="true" />
+    <setting id="movies-view" value="515" />
+    <setting id="movietags" value="true" />
+    <setting id="resolver" value="true" />
+    <setting id="seasons-view" value="504" />
+    <setting id="tmovies_account" value="true" />
+    <setting id="tmovies_domain" value="twomovies.us" />
+    <setting id="tmovies_pass" value="tkuser" />
+    <setting id="tmovies_user" value="teknokat" />
+    <setting id="tvshows" value="true" />
+    <setting id="tvshows-view" value="503" />
+</settings>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tvcatchup.addons" name="TVCatchup's XBMC Add-ons" version="1.0.3" provider-name="dj_gerbil and the Guys at TVC">
+	<extension point="xbmc.addon.repository" name="TVCatchup's XBMC Add-ons Repository">
+		<info compressed="true">http://plugins.tvcatchup.com/~xbmc/addons/addons.xml</info>
+		<checksum>http://plugins.tvcatchup.com/~xbmc/addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://plugins.tvcatchup.com/~xbmc/addons</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from TVCatchup.addons</summary>
+		<description>Download and install add-ons from TVCatchup's XBMC Add-on repository.[CR][CR]By using this Repository you will be able to take advantage of our cutting edge features.</description>
+		<disclaimer>Please respect TVCatchups Licence</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.mxncaa" name="MX NCAA HD" version="1.0.1" provider-name="Kiwi Systems">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Live NCAA Channels</summary>
+    <description lang="en">Live NCAA TV channels in 720 HD. Some of the channels in this addon may require a 16mbis or higher connection as they are high speed streams in their country of origin and may buffer from time to time or just not play if you have slower internet speeds.</description>
+    <disclaimer lang="en">This live TV content can change at anytime, we do not run the content server(s) for this addon</disclaimer>
+    <language>en</language>
+    <platform>all</platform>
+    <license>Restricted</license>
+    <rating>5</rating>
+    <forum></forum>
+    <website></website>
+    <email></email>
+    <source></source>
+  </extension>
+</addon>

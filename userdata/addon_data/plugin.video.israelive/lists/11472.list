@@ -1,0 +1,618 @@
+[
+  {
+    "group": "11472", 
+    "name": "ch 3", 
+    "url": "ch3?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11934"
+  }, 
+  {
+    "group": "11472", 
+    "name": "ch 3 SD", 
+    "url": "ch21?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11935"
+  }, 
+  {
+    "group": "11472", 
+    "name": "ch 5", 
+    "url": "ch5?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11936"
+  }, 
+  {
+    "group": "11472", 
+    "name": "mcot 9", 
+    "url": "ch9?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11937"
+  }, 
+  {
+    "group": "11472", 
+    "name": "nbt", 
+    "url": "ch11?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11938"
+  }, 
+  {
+    "group": "11472", 
+    "name": "nation", 
+    "url": "ch37?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11939"
+  }, 
+  {
+    "group": "11472", 
+    "name": "now26", 
+    "url": "ch32?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11940"
+  }, 
+  {
+    "group": "11472", 
+    "name": "media news", 
+    "url": "ch1?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11941"
+  }, 
+  {
+    "group": "11472", 
+    "name": "money channel", 
+    "url": "ch24?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11942"
+  }, 
+  {
+    "group": "11472", 
+    "name": "ch 2", 
+    "url": "ch22?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11943"
+  }, 
+  {
+    "group": "11472", 
+    "name": "ch 8", 
+    "url": "ch33?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11944"
+  }, 
+  {
+    "group": "11472", 
+    "name": "you channel", 
+    "url": "ch36?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11945"
+  }, 
+  {
+    "group": "11472", 
+    "name": "sabaidee", 
+    "url": "ch35?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11946"
+  }, 
+  {
+    "group": "11472", 
+    "name": "one hd", 
+    "url": "ch25?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11947"
+  }, 
+  {
+    "group": "11472", 
+    "name": "GMM25", 
+    "url": "ch0?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11949"
+  }, 
+  {
+    "group": "11472", 
+    "name": "GTH ON AIR", 
+    "url": "ch26?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11950"
+  }, 
+  {
+    "group": "11472", 
+    "name": "Thairath TV", 
+    "url": "ch39?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11951"
+  }, 
+  {
+    "group": "11472", 
+    "name": "workpoint", 
+    "url": "ch40?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11952"
+  }, 
+  {
+    "group": "11472", 
+    "name": "new tv", 
+    "url": "ch30?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11953"
+  }, 
+  {
+    "group": "11472", 
+    "name": "MONO29", 
+    "url": "ch38?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11954"
+  }, 
+  {
+    "group": "11472", 
+    "name": "true4u", 
+    "url": "ch23?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11955"
+  }, 
+  {
+    "group": "11472", 
+    "name": "bluesky", 
+    "url": "ch34?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11956"
+  }, 
+  {
+    "group": "11472", 
+    "name": "cartoon club", 
+    "url": "ch31?mode=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11957"
+  }, 
+  {
+    "group": "11472", 
+    "name": "amarintv", 
+    "url": "rtmp://112.121.152.34:80/stream playpath=5195e80fe1ed0 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf pageUrl=http://www.godearna.com/amarintv.html", 
+    "image": "https://www.vsn-tv.com/wp-content/uploads/2014/10/amarin-tv-vsn1.png", 
+    "type": "video", 
+    "id": "11889"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 3", 
+    "url": "http://49.231.20.66:8158/FreeTVChannel/StreamService/LowSpeed/CH3/heve.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12328"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 3HD", 
+    "url": "http://49.231.20.66:8158/FreeTVChannel/StreamService/LowSpeed/CH3/heve.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12330"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 5", 
+    "url": "http://61.91.12.34:1935/live/smil:tv5adaptive.smil/playlist.m3u8", 
+    "image": "http://www.tv5.co.th/web56/command/tv5.png", 
+    "type": "video", 
+    "id": "11477"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 5", 
+    "url": "rtmp://202.43.34.236/5/s1 swfUrl=http://www.stat.or.th/player5.10/player.swf pageUrl=http://tv.siamha.com/tv5-online.html", 
+    "image": "http://www.tv5.co.th/web56/command/tv5.png", 
+    "type": "video", 
+    "id": "11507"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 5", 
+    "url": "http://49.231.20.61:8158/FreeTVChannel/StreamService/LowSpeed/CH5/heve.m3u8", 
+    "image": "http://www.tv5.co.th/web56/command/tv5.png", 
+    "type": "video", 
+    "id": "12329"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 7", 
+    "url": "http://49.231.20.66:8158/FreeTVChannel/StreamService/LowSpeed/CH7/heve.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12327"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 8", 
+    "url": "http://stream.rs.co.th/ch8-hi/index.m3u8?d=web&time=1446062524289", 
+    "image": "http://www.onlinethailand.net/tv_online/images/ch8.jpg", 
+    "type": "video", 
+    "id": "11566"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 8", 
+    "url": "http://202.142.207.150:1935/live/_definst_/mp4:liveinfinity3/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/ch8.jpg", 
+    "type": "video", 
+    "id": "11509"
+  }, 
+  {
+    "group": "11472", 
+    "name": "onehd", 
+    "url": "rtmp://122.155.206.56:1935/onehdlive playpath=onehd_cdn.stream swfUrl=http://www.onehd.net/jwplayer2015/jwplayer.flash5.swf pageUrl=http://www.onehd.net/live", 
+    "image": "http://www.onehd.net/images/share/share.jpg", 
+    "type": "video", 
+    "id": "11890"
+  }, 
+  {
+    "group": "11472", 
+    "name": "moderine tv (MCOT)", 
+    "url": "rtmp://mediaxi.mcot.net:1935/live/ playpath=mp4:tcr1_ch1_1200 swfUrl=http://image.mcot.net/media/js/jwplayer/jwplayer.flash.swf pageUrl=http://www.mcot.net/tv/mod9", 
+    "image": "", 
+    "type": "video", 
+    "id": "11475"
+  }, 
+  {
+    "group": "11472", 
+    "name": "moderine tv (MCOT)", 
+    "url": "rtmp://202.43.34.236/9/s1 swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.tvzza.com/channel-9/hd/", 
+    "image": "http://gimmecover.files.wordpress.com/2013/08/logoe0b88ae0b988e0b8ade0b8879.png", 
+    "type": "video", 
+    "id": "11508"
+  }, 
+  {
+    "group": "11472", 
+    "name": "pptvhd", 
+    "url": "http://pptv.cdn.byteark.com/live/playlist_360p/index.m3u8", 
+    "image": "http://tv-live.in/wp-content/uploads/tv-online/Channel/Thailand/Top%20thailand%20tv/top%20thai%20tv_files/pptv-hd.png", 
+    "type": "video", 
+    "id": "11891"
+  }, 
+  {
+    "group": "11472", 
+    "name": "pptvhd", 
+    "url": "http://pptv.cdn.byteark.com/live/playlist.m3u8", 
+    "image": "http://tv-live.in/wp-content/uploads/tv-online/Channel/Thailand/Top%20thailand%20tv/top%20thai%20tv_files/pptv-hd.png", 
+    "type": "video", 
+    "id": "11892"
+  }, 
+  {
+    "group": "11472", 
+    "name": "Thairath TV", 
+    "url": "http://live.thairath.co.th/trtv2/trtv720/index.m3u8", 
+    "image": "http://www.gmmz.tv/_uploads/images/LOGOThairath_.jpg", 
+    "type": "video", 
+    "id": "11487"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CH 17", 
+    "url": "http://rtmp.thaitv.co.th/live/thaitv.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/thaitv.jpg", 
+    "type": "video", 
+    "id": "11527"
+  }, 
+  {
+    "group": "11472", 
+    "name": "Thai PBS HD", 
+    "url": "http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8", 
+    "image": "http://www.lyngsat-logo.com/hires/tt/thai_pbs.png", 
+    "type": "video", 
+    "id": "11474"
+  }, 
+  {
+    "group": "11472", 
+    "name": "workpoint", 
+    "url": "rtmp://workpoint.radical-enlighten.com/workpoint/ playpath=workpoint_720p swfUrl=http://radical-enlighten.com/project/player.swf pageUrl=http://workpointtv.web-nilecon.com/player/desktop-player-hd.html", 
+    "image": "http://www.onlinethailand.net/tv_online/images/workpoint-tv.jpg", 
+    "type": "video", 
+    "id": "11519"
+  }, 
+  {
+    "group": "11472", 
+    "name": "bright tv", 
+    "url": "rtmp://iam.brighttv.co.th/BrightTV playpath=live swfUrl=http://tv.siamha.com/play/player.swf pageUrl=http://tv.siamha.com/brighttv.html", 
+    "image": "http://www.bangkokbusinessbrief.com/wp-content/uploads/2014/12/168.jpg", 
+    "type": "video", 
+    "id": "11516"
+  }, 
+  {
+    "group": "11472", 
+    "name": "MCOT1", 
+    "url": "rtmp://mediaxi.mcot.net/live/ playpath=tcr1_ch3_800 swfUrl=http://www.mcot.net/ui-object/flowplayer/flowplayer-3.2.9.swf pageUrl=http://www.mcot.net/mcot1", 
+    "image": "http://static.tlcdn1.com/data/11/pictures/0213/01-10-2014/p18dtdh0n5tmt3ah1vt3322j5.png", 
+    "type": "video", 
+    "id": "11476"
+  }, 
+  {
+    "group": "11472", 
+    "name": "nation", 
+    "url": "rtmp://202.170.127.178/dcinode001 playpath=nation.sdp swfUrl=http://tv.siamha.com/play/player.swf pageUrl=http://tv.siamha.com/nationchannel.html", 
+    "image": "http://www.onlinethailand.net/tv_online/images/nationchannel.jpg", 
+    "type": "video", 
+    "id": "11514"
+  }, 
+  {
+    "group": "11472", 
+    "name": "nation", 
+    "url": "http://183.90.170.8:1935/dcinode001/nation.sdp/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/nationchannel.jpg", 
+    "type": "video", 
+    "id": "11515"
+  }, 
+  {
+    "group": "11472", 
+    "name": "nation", 
+    "url": "https://www.youtube.com/watch?v=xIoc34i6-X8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/nationchannel.jpg", 
+    "type": "video", 
+    "id": "12152"
+  }, 
+  {
+    "group": "11472", 
+    "name": "NBT", 
+    "url": "rtmp://202.43.34.236/11/s1", 
+    "image": "http://cdn2.dootvimage.com/images/live_channels_product/logo_nbt_us.png", 
+    "type": "video", 
+    "id": "11482"
+  }, 
+  {
+    "group": "11472", 
+    "name": "spring news", 
+    "url": "http://202.44.53.116:1935/live/mp4:springnews.sdp/plalist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/springnews.jpg", 
+    "type": "video", 
+    "id": "11523"
+  }, 
+  {
+    "group": "11472", 
+    "name": "TNN24", 
+    "url": "rtmp://202.43.34.236/TNN/ playpath=s1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.onlinethailand.net/tv_online/TNN24.php?link=2", 
+    "image": "http://www.onlinethailand.net/tv_online/images/tnn24.jpg", 
+    "type": "video", 
+    "id": "11480"
+  }, 
+  {
+    "group": "11472", 
+    "name": "VOICE TV 21", 
+    "url": "http://livestream.voicetv.co.th:1935/live-edge/smil:voicetv_all.smil/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/voicetv.jpg", 
+    "type": "video", 
+    "id": "11479"
+  }, 
+  {
+    "group": "11472", 
+    "name": "BANG CHANNEL", 
+    "url": "http://49.231.20.87:8158/FreeTVChannel/StreamService/LowSpeed/19/heve.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/bang-channel.jpg", 
+    "type": "video", 
+    "id": "11478"
+  }, 
+  {
+    "group": "11472", 
+    "name": "sabaidee", 
+    "url": "rtmp://202.142.207.150/live playpath=livesabaidee2 swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf pageUrl=http://www.godearna.com/sabaideetv.html", 
+    "image": "http://www.sabaideetv.com/images/logo.jpg", 
+    "type": "video", 
+    "id": "11893"
+  }, 
+  {
+    "group": "11472", 
+    "name": "DMC", 
+    "url": "111?mode=6", 
+    "image": "http://www.onlinethailand.net/tv_online/images/dmctv.jpg", 
+    "type": "video", 
+    "id": "11483"
+  }, 
+  {
+    "group": "11472", 
+    "name": "DMC", 
+    "url": "http://live-us.dmc.tv/live/_definst_/th_platinum.stream/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/dmctv.jpg", 
+    "type": "video", 
+    "id": "11517"
+  }, 
+  {
+    "group": "11472", 
+    "name": "TGN", 
+    "url": "106?mode=6", 
+    "image": "http://www.tvzza.com/images/channel/screen/tgn.jpg", 
+    "type": "video", 
+    "id": "11484"
+  }, 
+  {
+    "group": "11472", 
+    "name": "TGN", 
+    "url": "http://61.91.12.34:1935/live/smil:tgnadaptive.smil/playlist.m3u8", 
+    "image": "http://www.tvzza.com/images/channel/screen/tgn.jpg", 
+    "type": "video", 
+    "id": "11526"
+  }, 
+  {
+    "group": "11472", 
+    "name": "TV2", 
+    "url": "rtmp://202.142.207.150/live playpath=liveyaaktv1 swfUrl=http://tv.siamha.com/play/player.swf pageUrl=http://tv.siamha.com/ch2.html", 
+    "image": "http://www.onlinethailand.net/tv_online/images/ch2Starmax.jpg", 
+    "type": "video", 
+    "id": "11512"
+  }, 
+  {
+    "group": "11472", 
+    "name": "chocolate", 
+    "url": "rtmp://tv-origin01.saifar.com:1937/thundervision_origin playpath=chocolate_sd swfUrl=http://tv.siamha.com/play/player.swf pageUrl=http://tv.siamha.com/chocolate.html", 
+    "image": "http://www.onlinethailand.net/tv_online/images/chocolate-tv.jpg", 
+    "type": "video", 
+    "id": "11513"
+  }, 
+  {
+    "group": "11472", 
+    "name": "youchannel", 
+    "url": "rtmp://202.142.207.150/live playpath=liveyouchannel1 swfUrl=http://tv.siamha.com/play/player.swf pageUrl=http://tv.siamha.com/youchannel.html", 
+    "image": "http://www.onlinethailand.net/tv_online/images/you-channel.jpg", 
+    "type": "video", 
+    "id": "11518"
+  }, 
+  {
+    "group": "11472", 
+    "name": "bluesky", 
+    "url": "rtmp://live.blueskychannel.tv/bluesky_live/ playpath=myStream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.onlinethailand.net/tv_online/Fahwonmai.php?link=3", 
+    "image": "http://www.onlinethailand.net/tv_online/images/Fahwonmai.jpg", 
+    "type": "video", 
+    "id": "11521"
+  }, 
+  {
+    "group": "11472", 
+    "name": "ASTV NEWS", 
+    "url": "http://202.170.127.178:1935/dcinode001/astvtotv.sdp/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/news1.jpg", 
+    "type": "video", 
+    "id": "11524"
+  }, 
+  {
+    "group": "11472", 
+    "name": "channel 13", 
+    "url": "http://stream.13livetv.com:1935/rtplive/13livetv/playlist.m3u8", 
+    "image": "http://www.thaitvonline.tv/wp-content/uploads/2010/03/13-Siamthai.jpg", 
+    "type": "video", 
+    "id": "11525"
+  }, 
+  {
+    "group": "11472", 
+    "name": "M channel", 
+    "url": "http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/m-channel.jpg", 
+    "type": "video", 
+    "id": "11528"
+  }, 
+  {
+    "group": "11472", 
+    "name": "TCCTV", 
+    "url": "http://solution01.stream.3bb.co.th:1935/tcctv_ch002/tcctv02.stream_live1/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/tcctv.jpg", 
+    "type": "video", 
+    "id": "11529"
+  }, 
+  {
+    "group": "11472", 
+    "name": "CAT CHANNEL", 
+    "url": "http://61.19.18.237/live/m1.sdp/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/cat-channel.jpg", 
+    "type": "video", 
+    "id": "11530"
+  }, 
+  {
+    "group": "11472", 
+    "name": "Travel-CHThai", 
+    "url": "rtmp://mobile.wezatv.com/live/ playpath=travel swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.travelchannel.co.th/", 
+    "image": "http://cdn2.dootvimage.com/images/live_channels_product/logo_nbt_us.png", 
+    "type": "video", 
+    "id": "11511"
+  }, 
+  {
+    "group": "11472", 
+    "name": "ta tv", 
+    "url": "242?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11596"
+  }, 
+  {
+    "group": "11472", 
+    "name": "pop TV", 
+    "url": "http://live.poptv.co.th:1935/poptv/live/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/pop-channel.jpg", 
+    "type": "video", 
+    "id": "10546"
+  }, 
+  {
+    "group": "11472", 
+    "name": "pop TV", 
+    "url": "http://49.231.20.94:8158/FreeTVChannel/StreamService/LowSpeed/39/heve.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/pop-channel.jpg", 
+    "type": "video", 
+    "id": "12331"
+  }, 
+  {
+    "group": "11472", 
+    "name": "thaichaiyotv", 
+    "url": "http://live.thaichaiyotv.co.th:1935/thaichaiyotv/live/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/thaichaiyo.jpg", 
+    "type": "video", 
+    "id": "11565"
+  }, 
+  {
+    "group": "11472", 
+    "name": "V Like", 
+    "url": "http://vlike.live.co.th:1935/vlike/live/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/V-Like.jpg", 
+    "type": "video", 
+    "id": "11564"
+  }, 
+  {
+    "group": "11472", 
+    "name": "Hi-Sport", 
+    "url": "http://nakorn4.dyndns.tv:1935/live/sd1/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/hi-sport.jpg", 
+    "type": "video", 
+    "id": "11563"
+  }, 
+  {
+    "group": "11472", 
+    "name": "SMM TV", 
+    "url": "http://edge2-bkk.3bb.co.th:1935/smmtv_livestream/smmtv.stream_live3/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/smmtv.jpg", 
+    "type": "video", 
+    "id": "11562"
+  }, 
+  {
+    "group": "11472", 
+    "name": "TV-LAO", 
+    "url": "http://live10.netdesignhost.com/tvlaolive/tvlaolive/playlist.m3u8", 
+    "image": "http://www.onlinethailand.net/tv_online/images/tvlao.jpg", 
+    "type": "video", 
+    "id": "11561"
+  }, 
+  {
+    "group": "11472", 
+    "name": "blue sky news", 
+    "url": "http://live.blueskychannel.tv:1935/bluesky_live/myStream/playlist.m3u8", 
+    "image": "http://www.lyngsat-logo.com/hires/bb/blue_sky_channel.png", 
+    "type": "video", 
+    "id": "11567"
+  }, 
+  {
+    "group": "11472", 
+    "name": "nat tv", 
+    "url": "http://iphone-streaming.ustream.tv/ustreamVideo/18937843/streams/live/playlist.m3u8", 
+    "image": "http://www.nattv.com/images/natlogo02.jpg", 
+    "type": "video", 
+    "id": "11620"
+  }, 
+  {
+    "group": "11472", 
+    "name": "true4u", 
+    "url": "http://49.231.20.84:8158/FreeTVChannel/StreamService/LowSpeed/12/heve.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12332"
+  }
+]

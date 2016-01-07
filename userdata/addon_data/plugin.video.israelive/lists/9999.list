@@ -1,0 +1,82 @@
+[
+  {
+    "group": "9999", 
+    "name": "Radio From Israel - רדיו", 
+    "url": "", 
+    "image": "http://mdmorrope.gob.pe/portalweb/imagenes/radioss.png", 
+    "type": "playlist", 
+    "id": "10000"
+  }, 
+  {
+    "group": "9999", 
+    "name": "Israel", 
+    "url": "", 
+    "image": "http://ftp5.bizportal.co.il/web/giflib/news/idan_plus_gay.jpg", 
+    "type": "playlist", 
+    "id": "10065"
+  }, 
+  {
+    "group": "9999", 
+    "name": "Entertainment - בידור", 
+    "url": "", 
+    "image": "http://digitalmediafilms.webs.com/Variety%20of%20Your%20Favortie%20Channels.jpg", 
+    "type": "playlist", 
+    "id": "10087"
+  }, 
+  {
+    "group": "9999", 
+    "name": "Kids - ילדים", 
+    "url": "", 
+    "image": "http://4hdwall.com/wp-content/uploads/2012/09/HD-cartoon-wallpaper.jpg", 
+    "type": "playlist", 
+    "id": "10219"
+  }, 
+  {
+    "group": "9999", 
+    "name": "Movies - סרטים", 
+    "url": "", 
+    "image": "http://www.attractherdateher.com/wp-content/uploads/2012/08/movie_night.jpg", 
+    "type": "playlist", 
+    "id": "10238"
+  }, 
+  {
+    "group": "9999", 
+    "name": "Music - מוזיקה", 
+    "url": "", 
+    "image": "http://www.hdwallpapers.in/wallpapers/dance_with_me_hd_wide-1920x1200.jpg", 
+    "type": "playlist", 
+    "id": "10277"
+  }, 
+  {
+    "group": "9999", 
+    "name": "News - חדשות", 
+    "url": "", 
+    "image": "http://www.realtrends.com/application/view/theme/default/docs/scroll/blog6.jpg", 
+    "type": "playlist", 
+    "id": "10359"
+  }, 
+  {
+    "group": "9999", 
+    "name": "Science & nature - מדע וטבע", 
+    "url": "", 
+    "image": "http://wallpapers.free-review.net/wallpapers/23/Nature_-_Wallpaper_for_Windows_7.jpg", 
+    "type": "playlist", 
+    "id": "10451"
+  }, 
+  {
+    "group": "9999", 
+    "name": "Sport - ספורט", 
+    "url": "", 
+    "image": "http://4vector.com/i/free-vector-sport-vector-pack_098139_sportsvector%20pack.jpg", 
+    "type": "playlist", 
+    "id": "10492"
+  }, 
+  {
+    "group": "9999", 
+    "name": "World - עולם", 
+    "url": "", 
+    "image": "http://www.icangiveyouhouse.com/audio/2010/09/world-in-black-and-white-hands-1.jpg", 
+    "type": "playlist", 
+    "id": "10556"
+  }
+]

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Show/Hide Content">
+		<setting id="addonportal" type="bool" label="Add-On Portal Section" default="true"/>
+		<setting id="hardwareportal" type="bool" label="Hardware Reviews Section" default="true"/>
+		<setting id="latestnews" type="bool" label="Latest News Section" default="true"/>
+		<setting id="maintenance" type="bool" label="Maintenance Section" default="true"/>
+		<setting id="tutorialportal" type="bool" label="Tutorials Section" default="true"/>
+		<setting id="adult" type="bool" label="Enable XXX Content" default="false"/>
+		<setting id="trcheck" default="false" visible="false"/>
+	</category>
+
+    <category label="Backup Storage">
+        <setting id="zip" type="folder"    label="Choose Backup Storage Location"      default=""/>
+		<setting id="mastercopy" type="bool" label="Create full duplicate backup AS WELL as a universal build" default="false"/>
+		<setting type="lsep" label="[CR][CR]"/>
+		<setting type="lsep" label="[COLOR=yellow]Universal Build:[/COLOR] Will work on any device and is trimmed down in size."/>
+		<setting type="lsep" label="[CR][COLOR=yellow]Full duplicate backup:[/COLOR] Will only work on your existing device."/>
+	</category>
+
+    <category label="Maintenance">
+    	<setting id="email" type="text" label="E-Mail Address (used for log uploader)"/>
+		<setting type="lsep" label="[CR][CR][CR]"/>
+ 		<setting id="dummy" label="[B]Upload Log[/B]" type="action" action="XBMC.RunScript(special://home/addons/plugin.program.TotalRevolution/uploadLog.py)"/>
+		<setting type="lsep" label="Once your log is uploaded you will receive an email with the link."/>
+		<setting type="lsep" label="[CR][CR][CR]"/>
+        <setting id="dummy" label="[COLOR=yellow]RESET[/COLOR] - use this option if you encounter errors opening the addon" type="action" action="RunScript($CWD/resetAddon.py)" />
+    </category>
+
+</settings>

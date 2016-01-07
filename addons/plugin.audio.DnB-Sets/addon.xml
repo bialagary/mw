@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<addon id="plugin.audio.DnB-Sets" version="1.0.2" name="DnB-Sets" provider-name="Mucky_Duck">
+		<requires>
+			<import addon="xbmc.python"   version="2.1.0"/>
+            <import addon="script.module.t0mm0.common" version="2.0.0"/>
+        </requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>audio</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">Welcome to dnb-sets.de - the Drum'n'Bass mix search engine! - See more at: http://www.dnb-sets.de</summary>
+			<description lang="en">dnb-sets.de is a search engine like Google or Yahoo which looks through various websites for independent DJ-sets and mixes.</description>
+			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon</disclaimer>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+			<language>en</language>
+		</extension>
+	</addon>

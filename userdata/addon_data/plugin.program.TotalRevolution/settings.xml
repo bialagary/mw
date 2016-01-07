@@ -1,0 +1,13 @@
+<settings>
+    <setting id="addonportal" value="true" />
+    <setting id="adult" value="true" />
+    <setting id="dummy" value="" />
+    <setting id="email" value="" />
+    <setting id="hardwareportal" value="true" />
+    <setting id="latestnews" value="true" />
+    <setting id="maintenance" value="true" />
+    <setting id="mastercopy" value="false" />
+    <setting id="trcheck" value="false" />
+    <setting id="tutorialportal" value="true" />
+    <setting id="zip" value="/storage/emulated/0/Download/" />
+</settings>

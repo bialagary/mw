@@ -1,0 +1,298 @@
+[
+  {
+    "group": "10938", 
+    "name": "TVC Latino", 
+    "url": "plugin://plugin.video.israelive/?url=213&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/213/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10940"
+  }, 
+  {
+    "group": "10938", 
+    "name": "RTPi America", 
+    "url": "63?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/303/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10942"
+  }, 
+  {
+    "group": "10938", 
+    "name": "RTP1", 
+    "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/303/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11537"
+  }, 
+  {
+    "group": "10938", 
+    "name": "RTP2", 
+    "url": "http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11536"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Hispan TV", 
+    "url": "plugin://plugin.video.israelive/?url=1997&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/1997/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10947"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Hispan TV", 
+    "url": "rtmp://mtv.fms-01.visionip.tv/live/mtv-m_tv-live-25f-4x3-SDh", 
+    "image": "http://static.filmon.com/couch/channels/1997/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10948"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Telenovelas TV", 
+    "url": "plugin://plugin.video.israelive/?url=2624&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2624/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10949"
+  }, 
+  {
+    "group": "10938", 
+    "name": "24h", 
+    "url": "http://iphonelive.rtve.es/24H_LV3_IPH/24H_LV3_IPH.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/2777/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10951"
+  }, 
+  {
+    "group": "10938", 
+    "name": "STV Rioja -spain", 
+    "url": "mms://www.riojasintonia.com/stv", 
+    "image": "", 
+    "type": "video", 
+    "id": "10953"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Huesca Television", 
+    "url": "rtmp://streaming2.radiohuesca.com/live swfUrl=http://www.radiohuesca.com/swf/JWPlayer/player.swf pageUrl=http://www.radiohuesca.com/directo-htv playpath=huescatv live=true", 
+    "image": "", 
+    "type": "video", 
+    "id": "10955"
+  }, 
+  {
+    "group": "10938", 
+    "name": "RTPA", 
+    "url": "http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone-multi/main.m3u8", 
+    "image": "http://1.bp.blogspot.com/_65hJ08LWbYo/S_qxLqe2IaI/AAAAAAAAAQU/9pHTMkIgT-4/s320/tpa%5B1%5D.jpg", 
+    "type": "video", 
+    "id": "10956"
+  }, 
+  {
+    "group": "10938", 
+    "name": "LA1", 
+    "url": "http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10958"
+  }, 
+  {
+    "group": "10938", 
+    "name": "LA2", 
+    "url": "http://iphonelive.rtve.es/LA2_LV3_IPH/LA2_LV3_IPH.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10959"
+  }, 
+  {
+    "group": "10938", 
+    "name": "tv3", 
+    "url": "http://www.tv3.cat/directetv3cat/tv3catpc.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10961"
+  }, 
+  {
+    "group": "10938", 
+    "name": "TV Galicia", 
+    "url": "http://media3.crtvg.es/live/tvge/sota.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10963"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Antena 3", 
+    "url": "http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on", 
+    "image": "", 
+    "type": "video", 
+    "id": "10966"
+  }, 
+  {
+    "group": "10938", 
+    "name": "lasexta", 
+    "url": "http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_1_av-p.m3u8?sd=10&rebase=on", 
+    "image": "", 
+    "type": "video", 
+    "id": "10970"
+  }, 
+  {
+    "group": "10938", 
+    "name": "COSTASOL", 
+    "url": "rtmp://flash0.80385-live0.dna.qbrick.com:1935/80385-live0/costa", 
+    "image": "", 
+    "type": "video", 
+    "id": "10974"
+  }, 
+  {
+    "group": "10938", 
+    "name": "MALAGA", 
+    "url": "mms://canallocal.ptvtelecom.com/PTV-MALAGA", 
+    "image": "", 
+    "type": "video", 
+    "id": "10977"
+  }, 
+  {
+    "group": "10938", 
+    "name": "El Dia tv (Santa Cruz de Tenerife)", 
+    "url": "http://teledifusion.tv:1935/dia/dia/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10978"
+  }, 
+  {
+    "group": "10938", 
+    "name": "RTV Andorra", 
+    "url": "http://194.158.80.31:443/live/rtva/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10984"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Encuentro", 
+    "url": "plugin://plugin.video.f4mTester/?url=http://lsdencuentrohds-lh.akamaihd.net/z/encuentrohds_1@96963/manifest.f4m?hdcore=3.3.0", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Logo_canal_encuentro.png/200px-Logo_canal_encuentro.png", 
+    "type": "video", 
+    "id": "10989"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Telesur", 
+    "url": "http://cdn.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/TeleSur.png/200px-TeleSur.png", 
+    "type": "video", 
+    "id": "10990"
+  }, 
+  {
+    "group": "10938", 
+    "name": "La Otra", 
+    "url": "rtmp://laotralivefs.fplive.net:1935/laotralive-live?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= playpath=stream1?videoId=3706120795001&lineUpId=&pubId=104403117001&playerId=111868723001&affiliateId= swfUrl=http://admin.brightcove.com/viewer/us20140807.1543/federatedVideoUI/BrightcovePlayer.swf?uid=1410613691359 live=1 pageUrl=http://www.telemadrid.es/emision_en_directo_laotra", 
+    "image": "", 
+    "type": "video", 
+    "id": "10993"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Levante", 
+    "url": "rtmp://teledifusion.tv:1935/levantetvlive playpath=levantetvlive swfUrl=http://www.levantetv.es//servicios/...evantetvlive&autostart=true&wmode=transparent live=1", 
+    "image": "", 
+    "type": "video", 
+    "id": "10994"
+  }, 
+  {
+    "group": "10938", 
+    "name": "LA RED EN VIVO", 
+    "url": "http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11008"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Local Sevilla", 
+    "url": "http://cls.elitehd-audiovisuales.com/luztv/livestream/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11010"
+  }, 
+  {
+    "group": "10938", 
+    "name": "TV Extremadura", 
+    "url": "rtmp://corporacionextremenaocclivefs.fplive.net/corporacionextremenalive-live/ playpath=stream1 swfUrl=http://www.canalextremadura.es/site...slx_reproductor/js/mediaplayer-5.7/player.swf live=1 pageUrl=http://www.canalextremadura.es/alacarta/tv/directo", 
+    "image": "", 
+    "type": "video", 
+    "id": "11021"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Telefuturo (Dominican Republic)", 
+    "url": "http://ss7.domint.net:1950/tf_str/futu/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11028"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Teleantillas (Dominican Republic)", 
+    "url": "http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11029"
+  }, 
+  {
+    "group": "10938", 
+    "name": "TiVa (Puerto Rico)", 
+    "url": "http://live-h1.frontlayer.net/fl729845/live/live.m3u8?wowzasessionid=1243637292", 
+    "image": "", 
+    "type": "video", 
+    "id": "11030"
+  }, 
+  {
+    "group": "10938", 
+    "name": "canal 3/24", 
+    "url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8?DVR", 
+    "image": "", 
+    "type": "video", 
+    "id": "11032"
+  }, 
+  {
+    "group": "10938", 
+    "name": "3cat", 
+    "url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_web/playlist.m3u8?DVR", 
+    "image": "", 
+    "type": "video", 
+    "id": "11033"
+  }, 
+  {
+    "group": "10938", 
+    "name": "tvge", 
+    "url": "rtmp://media3.crtvg.es:80/live playpath=tvge_2 swfUrl=http://www.crtvg.es/flow3/flowplayer.commercial.swf pageUrl=http://www.crtvg.es/tvg/tvg-en-directo", 
+    "image": "", 
+    "type": "video", 
+    "id": "11039"
+  }, 
+  {
+    "group": "10938", 
+    "name": "TeleMadrid", 
+    "url": "rtmp://telemadridlivefs.fplive.net:1935/telemadridlive-live app=telemadridlive-live?videoId=3706676620001 swfUrl=http://admin.brightcove.com/viewer/us20140807.1543/federatedVideoUI/BrightcovePlayer.swf pageUrl=http://www.telemadrid.es/emision_en_directo playpath=stream1?videoId=3706676620001 live=true timeout=10 swfVfy=1", 
+    "image": "http://images.gofreedownload.net/telemadrid-85154.jpg", 
+    "type": "video", 
+    "id": "11040"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Canal de las Estrellas", 
+    "url": "http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/b/b3/Canal_de_las_Estrellas_logo.png", 
+    "type": "video", 
+    "id": "11041"
+  }, 
+  {
+    "group": "10938", 
+    "name": "Proyecto 40", 
+    "url": "http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8", 
+    "image": "http://en.wikipedia.org/wiki/Proyecto_40#mediaviewer/File:Proyecto_40_logo.PNG", 
+    "type": "video", 
+    "id": "11044"
+  }
+]

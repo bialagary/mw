@@ -1,0 +1,57 @@
+v0.9.4
+- Fixed CloudyVideos link parsing
+
+v0.9.3
+- Fixed CloudyVideos link parsing
+
+v0.9.2
+- Fixed Google Drive link parsing
+
+v0.9.1
+- Fixed Gotham dependency issue
+
+v0.9.0
+- Improved navigation
+- Added saved searches
+
+v0.8.1
+- Fixed link scraper
+
+v0.8.0
+- Added support for CloudyVideos
+
+v0.7.0
+- Added support for YouTube
+- Added setting for DASH video playback
+- Fixed issue with unicode urls
+
+v0.6.1
+- Added setting to disable post filtering
+
+v0.6.0
+- Scrapes comments in addition to posts
+- Added pagination
+
+v0.5.0
+- Added support for Dailymotion playback without add-on requirement
+- Improved HTTP exception handling
+
+v0.4.1
+- Added video quality settings for Google Drive
+
+v0.4.0
+- Added support for high quality Google Drive playback without add-on requirement
+
+v0.3.1
+- Added descriptive user agent
+- Fixed regular expression issues
+- Added notification on unsuccessful HTTP request
+
+v0.3.0
+- Added support for multiple videos per post
+
+v0.2.0
+- Added support for Dailymotion
+
+v0.1.0
+- Initial working version

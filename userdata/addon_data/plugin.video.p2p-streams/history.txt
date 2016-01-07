@@ -1,0 +1,14 @@
+Sky Sport 1  |acestream://fddae8fe7dfcde2b06c4f53651ab1220f05e4a8c|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/torrenttvrusports/icon.png
+Sky Sports News|acestream://3177e9e9bbbfb071a21da721177c9d09b4e142aa|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/torrenttvrusports/icon.png
+Disney Channel|6dd64cbc2b509643a09ec635ec05f12d99b824be|1|http://1torrent.tv/uploads/D8RSqcnZY30D3GQjuc92LwkLwz4OLq.png
+[B][Sopcast][/B]-ArenaVision 1 - (es) - (2350 Kbs)|sop://broker.sopcast.com:3912/172996|2|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/rojadirecta/icon.png
+Sopcast [sop://broker.sopcast.com:3912/173000]|sop://broker.sopcast.com:3912/173000|2|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/art/sopcast_logo.jpg
+BT Sport 2 |acestream://e02aaded1fbc13752fe707765fb1a9a8d1129d3c|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/torrenttvrusports/icon.png
+BT Sport 1 |acestream://d0b4902c217b7e0e6eb3628d485cb92c1f7f9f2b|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/torrenttvrusports/icon.png
+[Sky Bundesliga 1 [DE]] [B][COLOR orange]AceStream[/B][/COLOR] (3500 Kbps)|acestream://895419a3e3040c075000a44be34752f8975a7b27|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/wiziwig/icon.png
+Disney Channel|6dd64cbc2b509643a09ec635ec05f12d99b824be|1|http://1torrent.tv/uploads/D8RSqcnZY30D3GQjuc92LwkLwz4OLq.png
+Sky Sports News|acestream://3177e9e9bbbfb071a21da721177c9d09b4e142aa|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/torrenttvrusports/icon.png
+BT Sport 1 |acestream://d0b4902c217b7e0e6eb3628d485cb92c1f7f9f2b|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/torrenttvrusports/icon.png
+Sky Sports News|acestream://3177e9e9bbbfb071a21da721177c9d09b4e142aa|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/torrenttvrusports/icon.png
+BT Sport 1 |acestream://d0b4902c217b7e0e6eb3628d485cb92c1f7f9f2b|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/core/parsers/torrenttvrusports/icon.png
+acestream title|acestream://8c36055c2f276c9c514f0b6c99dc62cb697d18ce|1|/storage/emulated/0/Android/data/org.xbmc.xbmc/files/.xbmc/addons/plugin.video.p2p-streams/resources/art/acelogofull.jpg

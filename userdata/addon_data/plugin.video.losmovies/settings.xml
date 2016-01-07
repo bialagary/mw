@@ -1,0 +1,6 @@
+<settings>
+    <setting id="Enable-Fanart" value="true" />
+    <setting id="Enable-Meta" value="true" />
+    <setting id="Set-DVD" value="false" />
+    <setting id="url" value="http://www.losmovies.is" />
+</settings>

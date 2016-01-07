@@ -1,0 +1,8 @@
+<settings>
+    <setting id="autoplay" value="true" />
+    <setting id="download_path" value="" />
+    <setting id="jtv" value="" />
+    <setting id="playerType" value="0" />
+    <setting id="veetle" value="" />
+    <setting id="youtube" value="" />
+</settings>

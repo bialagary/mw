@@ -1,0 +1,39 @@
+Credits for any sources used in full or part can be found below
+##########################
+
+--
+Date source use started
+
+whereSourceUsed.py / How much and what part of source used
+
+    Author of source
+    Location of source
+
+##########################
+
+--
+08/25/2015
+
+addon.py & common.py / ALL:base source for module(s)
+
+    Eldorado (original: t0mm0)
+    script.module.addon.common\lib\addon\common\addon.py
+    https://github.com/Eldorados/script.module.addon.common/blob/master/lib/addon/common/addon.py
+
+--
+08/25/2015
+
+net.py / ALL:base source for module
+
+    Eldorado (original: t0mm0)
+    script.module.addon.common\lib\addon\common\net.py
+    https://github.com/Eldorados/script.module.addon.common/blob/master/lib/addon/common/net.py
+
+--
+09/10/2015
+
+net.py / parseJSString(ALL):cloudflare(Part)
+
+    lambda
+    plugin.video.genesis\resources\lib\libraries\cloudflare.py
+    https://offshoregit.com/lambda81/

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+    <!-- general settings -->
+    <string id="55001">Login settings</string>
+    <string id="55002">Username:</string>
+	<string id="55003">Password:</string>
+	<string id="55004">Quality settings</string>
+	<string id="55005">The highest quality (as available)</string>
+	<string id="55006">Settings channels display</string>
+	<string id="55007">Display type:</string>
+	<string id="55008">Account status</string>
+	<string id="55009">Disable information when account is premium:</string>
+	<!--<string id="55010">Player settings</string>
+	<string id="55011">Pause disable:</string>-->
+	
+	<!-- main menu -->
+	<string id="56001">Sorted channels A-Z [live]</string>
+	<string id="56002">Sorted most viewed channels now [live]</string>
+	<string id="56003">Sorted most viewed channels general [live]</string>
+	<string id="56004">Offline channels</string>
+	<string id="56005">Show all channels</string>
+	<string id="56006">Favorites</string>
+	<string id="56007">Update (check is new version)</string>
+	<string id="56100">Settings</string>
+	
+	<!-- errors & messages -->
+	<string id="57001">API error</string>
+	<string id="57002">Could not connect to website.</string>
+	<string id="57003">Check your network connection.</string>
+	<string id="57004">No channels received from website.</string>
+	<string id="57005">WARNING.</string>
+	<string id="57006">Play has been stopped.</string>
+	<string id="57007">This channel is currenlty offline.</string>
+	<string id="57008">Please try again later.</string>
+	<string id="57009">Script error.</string>
+	<string id="57010">Error on method getJsonFromAPI.</string>
+	<string id="57011">API connection didn't get any data.</string>
+	<string id="57012">It could be network connection problem,.</string>
+	<string id="57013">or wrong website API address.</string>
+	<string id="57014">Error! (API: setPlayer)</string>
+	<string id="57015">Could not get authorization data.</string>
+	<string id="57016">No description.</string>
+	<string id="57017">No tags.</string>
+	<string id="57018">Playing error!</string>
+	<string id="57019">Exceeded the limit of free viewing, or too many users.</string>
+	<string id="57020">Buy premium account now to watch unlimited!</string>
+	<string id="57021">Playing has been stopped.</string>
+	<string id="57022">Wrong video address. Playing has been stopped.</string>
+	<string id="57023">Information.</string>
+	<string id="57024">This option should be avaible in the future.</string>
+	<string id="57025">Bad key got from API.</string>
+	<string id="57026">No channel name.</string>
+	<string id="57027">Server has closed connection for unknown reason! Please try again.</string>
+	<string id="57028">Playing has been stopped.</string>
+	<string id="57029">LIVE</string>
+	<string id="57030">OFFLINE</string>
+	<string id="57031">on</string>
+	<string id="57032">by</string>
+	<string id="57033">unknown</string>
+	<string id="57034">Information about user account</string>
+	<string id="57035">Your account have premium status.</string>
+	<string id="57036">You do not have a premium account. Starting a sponsored broadcast.</string>
+	<string id="57037">To purchase a premium right now go to:</string>
+	<string id="57038">http://www.sportsebooks.eu</string>
+	<string id="57039">If you want to disable this info, please check your settings.</string>
+	<string id="57040">The "pause" button stopped playing video media.</string>
+	<string id="57041">Do not use it with "live" streams!</string>
+	<string id="57042">Error connection with website!</string>
+	<string id="57043">Selected channel does not exist!</string>
+	<string id="57044">No channel selected!</string>
+	<string id="57045">No active server. We are sorry.</string>
+	<string id="57046">Rules are not accepted!</string>
+	<string id="57047">Go to http://www.sportsebooks.eu and accept it, to use service.</string>
+	<string id="57048">Go to http://www.sportsebooks.eu/xbmc and download the latest version.</string>
+	<string id="57049">This is current actual version of plugin.</string>
+	<string id="57050">This version of the plugin is out of date! (critical)</string>
+	<string id="57051">This version of the plugin is out of date! (warning)</string>
+	<string id="57052">This version of plugin is not compatible with the official release.</string>
+	<string id="57053">An error occurred while checking updates!</string>
+	<string id="57054">Please try again later.</string>
+	<string id="57055">Do not have a premium account - redemption account to use the service.</string>
+	<string id="57056">An incorrect username and / or password.</string>
+    
+	<!-- Channel informations -->
+	<string id="58000">Channel information</string>
+	<string id="58001">Broadcaster</string>
+	<string id="58002">Platform</string>
+	<string id="58003">Tags</string>
+</strings>

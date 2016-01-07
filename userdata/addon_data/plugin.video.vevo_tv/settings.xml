@@ -1,0 +1,27 @@
+<settings>
+    <setting id="blacklist" value="" />
+    <setting id="cat1" value="true" />
+    <setting id="cat10" value="true" />
+    <setting id="cat11" value="true" />
+    <setting id="cat12" value="true" />
+    <setting id="cat13" value="true" />
+    <setting id="cat2" value="true" />
+    <setting id="cat3" value="true" />
+    <setting id="cat4" value="true" />
+    <setting id="cat5" value="true" />
+    <setting id="cat6" value="true" />
+    <setting id="cat7" value="true" />
+    <setting id="cat8" value="true" />
+    <setting id="cat9" value="true" />
+    <setting id="cdnCustom" value="0" />
+    <setting id="infoDelay" value="5" />
+    <setting id="infoDuration" value="5" />
+    <setting id="infoType" value="1" />
+    <setting id="resolutionCustom" value="2" />
+    <setting id="resolutionOfficial" value="2" />
+    <setting id="showInfo" value="true" />
+    <setting id="tv1" value="false" />
+    <setting id="tv2" value="false" />
+    <setting id="tv3" value="false" />
+    <setting id="tv4" value="false" />
+</settings>

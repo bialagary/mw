@@ -1,0 +1,73 @@
+<settings>
+    <setting id="DefaultCDN" value="Default" />
+    <setting id="GLArabServerHD" value="Try All" />
+    <setting id="GLArabServerLOW" value="Try All" />
+    <setting id="GLArabServerLOWNP" value="Try All" />
+    <setting id="GLArabServerLR" value="Try All" />
+    <setting id="GLArabServerMED" value="Try All" />
+    <setting id="GLArabUserName" value="Anonymous" />
+    <setting id="GLArabUserPwd" value="Anonymous" />
+    <setting id="GLproxyName" value="127.0.0.1" />
+    <setting id="KARPWD" value="" />
+    <setting id="KARUSER" value="" />
+    <setting id="ShahidVodLogin" value="" />
+    <setting id="ShahidVodPwd" value="" />
+    <setting id="YOPWD" value="" />
+    <setting id="YOUSER" value="" />
+    <setting id="clearLogonSettings" value="false" />
+    <setting id="filmonDontPlayplayHigh" value="False" />
+    <setting id="icdnSourceDisabled" value="false" />
+    <setting id="isEmadSourceDisabled" value="false" />
+    <setting id="isFilmonSourceDisabled" value="false" />
+    <setting id="isGLArabSourceDisabled" value="false" />
+    <setting id="isGLCommonProxyEnabled" value="false" />
+    <setting id="isGLProxyEnabled" value="false" />
+    <setting id="isIPTVPlanetSourceDisabled" value="false" />
+    <setting id="isLocalSourceDisabled" value="false" />
+    <setting id="isOfficialSourceDisabled" value="false" />
+    <setting id="isPCSourceDisabled" value="false" />
+    <setting id="isProxyEnabled" value="false" />
+    <setting id="isShaniSourceDisabled" value="false" />
+    <setting id="isTeledunetcomSourceDisabled" value="false" />
+    <setting id="isTelvzaSourceDisabled" value="false" />
+    <setting id="isZombiSourceDisabled" value="false" />
+    <setting id="iskarSourceDisabled" value="false" />
+    <setting id="islivetvtnSourceDisabled" value="false" />
+    <setting id="ismagictvBoxSourceDisabled" value="false" />
+    <setting id="isssSourceDisabled" value="false" />
+    <setting id="isttvSourceDisabled" value="false" />
+    <setting id="isyoSourceDisabled" value="false" />
+    <setting id="lastupdate" value="03/10/2015" />
+    <setting id="liveTvLogin" value="" />
+    <setting id="liveTvNonPremiumCode" value="" />
+    <setting id="liveTvPassword" value="" />
+    <setting id="liveTvPremiumCode" value="" />
+    <setting id="localstreampath" value="" />
+    <setting id="localyoutubexmlpath" value="" />
+    <setting id="order1" value="Teledunet.com" />
+    <setting id="order10" value="FilmOn" />
+    <setting id="order11" value="Official" />
+    <setting id="order12" value="Telvza" />
+    <setting id="order13" value="IPTVPlanet" />
+    <setting id="order14" value="ss" />
+    <setting id="order15" value="ttv" />
+    <setting id="order16" value="cdn" />
+    <setting id="order17" value="yo" />
+    <setting id="order18" value="kar" />
+    <setting id="order2" value="livetv.tn" />
+    <setting id="order3" value="Shani" />
+    <setting id="order4" value="PC" />
+    <setting id="order5" value="Zombi" />
+    <setting id="order6" value="Local" />
+    <setting id="order7" value="GLArab" />
+    <setting id="order8" value="magictvBox" />
+    <setting id="order9" value="Emad" />
+    <setting id="playFirstChannel" value="false" />
+    <setting id="playOneByOne" value="False" />
+    <setting id="proxyName" value="" />
+    <setting id="stopAutoUpdate" value="False" />
+    <setting id="teledunetRetryCount" value="5" />
+    <setting id="teledunetTvLogin" value="" />
+    <setting id="teledunetTvPassword" value="" />
+    <setting id="usethisviewmode" value="" />
+</settings>

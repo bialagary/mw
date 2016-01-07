@@ -1,0 +1,43 @@
+<strings>
+	
+
+<!-- Options -->
+    <string id="30121">Graphics Theme</string>
+	<string id="30100">Meta data</string>
+	    	<string id="30102">Use posters</string>
+	<string id="30103">Use fanart</string>
+	<string id="30104">Image quality</string>
+    <string id="30113">Other</string>
+        <string id="30125">Trailers</string>
+
+            
+    <!-- Download -->
+	<string id="30800">Download path - Movies</string>
+	<string id="30801">Download path - TV Shows</string>
+    <string id="30806">Download path for Download, Play & Delete</string>
+                    
+	<!-- Account -->
+	<string id="30300">2Movies account</string>
+	<string id="30301">    Username</string>
+    <string id="30302">    Password</string>
+    <</string>
+        
+           <!-- Downloads Section -->     
+   	<string id="30405">Use custom TV-show directory</string>
+    <string id="30406">    TV-show directory</string>	
+    <string id="30407">Use custom  movie directory</string>
+    <string id="30408">    Movie directory</string>	
+        
+
+	<!-- Auto View -->
+    <string id="30600">Enable Automatic View</string>
+    <string id="30601">Movies View</string>
+    <string id="30602">TV Shows View</string>
+    <string id="30603">Seasons View</string>
+    <string id="30604">Episodes View</string>
+    <string id="30605">Default View</string>
+    <!-- Parental Control -->
+    <string id="31001">Enable Parental Control</string>
+        <string id="31004">Set PIN</string>
+    </string>
+</strings>

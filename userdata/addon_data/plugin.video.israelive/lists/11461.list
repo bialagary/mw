@@ -1,0 +1,50 @@
+[
+  {
+    "group": "11461", 
+    "name": "CCTV 1", 
+    "url": "cctv1?mode=8", 
+    "image": "http://p1.img.cctvpic.com/nettv/cctv/cctv1/20101228/images/100762_1293500335146.jpg", 
+    "type": "video", 
+    "id": "11463"
+  }, 
+  {
+    "group": "11461", 
+    "name": "CCTV 4", 
+    "url": "cctv4?mode=8", 
+    "image": "http://v.guojitv.com/upfile/ca954340-0934-4fe0-bd7c-84316f9ed4f3.jpg", 
+    "type": "video", 
+    "id": "11464"
+  }, 
+  {
+    "group": "11461", 
+    "name": "CCTV 4", 
+    "url": "rtsp://wms.wcetv.net/cctv4-200", 
+    "image": "http://v.guojitv.com/upfile/ca954340-0934-4fe0-bd7c-84316f9ed4f3.jpg", 
+    "type": "video", 
+    "id": "11623"
+  }, 
+  {
+    "group": "11461", 
+    "name": "CCTV 4 Europe", 
+    "url": "cctveurope?mode=8", 
+    "image": "http://v.guojitv.com/upfile/ca954340-0934-4fe0-bd7c-84316f9ed4f3.jpg", 
+    "type": "video", 
+    "id": "11465"
+  }, 
+  {
+    "group": "11461", 
+    "name": "CCTV 4 America", 
+    "url": "cctvamerica?mode=8", 
+    "image": "http://v.guojitv.com/upfile/ca954340-0934-4fe0-bd7c-84316f9ed4f3.jpg", 
+    "type": "video", 
+    "id": "11466"
+  }, 
+  {
+    "group": "11461", 
+    "name": "Jiangsu", 
+    "url": "158?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11652"
+  }
+]

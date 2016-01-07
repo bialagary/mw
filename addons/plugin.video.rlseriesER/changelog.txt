@@ -1,0 +1,11 @@
+[B]Version 0.0.5[/B]
+- fixed changes to site code
+
+[B]Version 0.0.4[/B]
+- fixed changes to site code
+
+[B]Version 0.0.2[/B]
+- added talk shows
+
+[B]Version 0.0.1[/B]
+- Initial beta version 

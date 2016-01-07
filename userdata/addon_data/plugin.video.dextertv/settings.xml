@@ -1,0 +1,8 @@
+<settings>
+    <setting id="active" value="" />
+    <setting id="passw" value="" />
+    <setting id="port" value="81" />
+    <setting id="site" value="http://50.7.136.90" />
+    <setting id="type" value="m3u8" />
+    <setting id="usern" value="" />
+</settings>

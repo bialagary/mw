@@ -1,0 +1,394 @@
+[
+  {
+    "group": "10757", 
+    "name": "romania tvh", 
+    "url": "http://tvhflash.smcmobile.ro:8011/tvh20.flv", 
+    "image": "", 
+    "type": "video", 
+    "id": "10758"
+  }, 
+  {
+    "group": "10757", 
+    "name": "antena 3 ro", 
+    "url": "rtmp://93.115.84.226/live playpath=a3 swfUrl=http://ivm.inin.ro/swf/player_licensed.swf swfVfy=1 live=1 pageUrl=http://www.antena3.ro/live.php timeout=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "10760"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Agron-tv ro", 
+    "url": "http://agrotv.streamnet.ro:9000/", 
+    "image": "", 
+    "type": "video", 
+    "id": "10761"
+  }, 
+  {
+    "group": "10757", 
+    "name": "REALITATEA TV", 
+    "url": "http://realitatea.m247.ro/hls/live.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11964"
+  }, 
+  {
+    "group": "10757", 
+    "name": "digi24", 
+    "url": "http://82.76.249.77/digi24edge/digi24hdhqhls/index.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11965"
+  }, 
+  {
+    "group": "10757", 
+    "name": "banat", 
+    "url": "http://81.18.66.155:1935/live/banat-tv/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11966"
+  }, 
+  {
+    "group": "10757", 
+    "name": "iasi_tv_life", 
+    "url": "http://82.208.151.248:8989/1.flv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11967"
+  }, 
+  {
+    "group": "10757", 
+    "name": "jurnal_tv", 
+    "url": "http://ch0.jurnaltv.md/channel0.flv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11968"
+  }, 
+  {
+    "group": "10757", 
+    "name": "plus_tv_suceava", 
+    "url": "http://85.186.146.34:8080", 
+    "image": "", 
+    "type": "video", 
+    "id": "11969"
+  }, 
+  {
+    "group": "10757", 
+    "name": "telem_neamt", 
+    "url": "http://telem.ambra.ro", 
+    "image": "", 
+    "type": "video", 
+    "id": "11970"
+  }, 
+  {
+    "group": "10757", 
+    "name": "tvm_piatra_neamt", 
+    "url": "http://tvm.ambra.ro/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11971"
+  }, 
+  {
+    "group": "10757", 
+    "name": "utv", 
+    "url": "http://82.76.249.77:80/utvedge/utvlive/index.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11972"
+  }, 
+  {
+    "group": "10757", 
+    "name": "protv news", 
+    "url": "http://m.live.protv.ro:1935/news/1.stream/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11973"
+  }, 
+  {
+    "group": "10757", 
+    "name": "kanal D", 
+    "url": "http://80.86.107.169:8100/stream.flv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11974"
+  }, 
+  {
+    "group": "10757", 
+    "name": "6tv", 
+    "url": "http://89.149.7.178:8800/flv-audio-video/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11975"
+  }, 
+  {
+    "group": "10757", 
+    "name": "dartv", 
+    "url": "http://89.45.164.235:8042/stream.flv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11976"
+  }, 
+  {
+    "group": "10757", 
+    "name": "ttm", 
+    "url": "http://89.45.164.236:8049/stream.flv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11977"
+  }, 
+  {
+    "group": "10757", 
+    "name": "tvr international", 
+    "url": "live-tvr-international?mode=14", 
+    "image": "", 
+    "type": "video", 
+    "id": "11978"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Moldova 1 (1st national network)", 
+    "url": "rtmp://212.0.209.209:1935/live/ playpath=MoldovaUnu1 swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf", 
+    "image": "", 
+    "type": "video", 
+    "id": "11990"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Moldova 1 (1st national network)", 
+    "url": "http://87.248.160.8/edge/smil:m1/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11991"
+  }, 
+  {
+    "group": "10757", 
+    "name": "proTV chisinau (semi national)", 
+    "url": "rtmp://185.28.104.2/live playpath=direct swfUrl=http://m.protv.md/design/mediaplayer/player_embed.swf?0_20 swfVfy=1 live=1  timeout=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "11992"
+  }, 
+  {
+    "group": "10757", 
+    "name": "proTV chisinau (semi national)", 
+    "url": "http://87.248.160.8/edge/smil:protv/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11993"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Jurnal TV", 
+    "url": "http://ch0.jurnaltv.md/channel0.flv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11994"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Jurnal TV", 
+    "url": "http://87.248.160.8/edge/smil:jurnaltv/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11995"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Publika TV (semi national)", 
+    "url": "http://87.248.160.8/edge/smil:publica/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11996"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Publika TV (semi national)", 
+    "url": "http://livebeta.publika.md/LIVE/P/6810.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11997"
+  }, 
+  {
+    "group": "10757", 
+    "name": "prime", 
+    "url": "http://87.248.160.8/edge/smil:prime/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11998"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Canal 3 (semi national)", 
+    "url": "http://87.248.160.8/edge/smil:canal3/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11999"
+  }, 
+  {
+    "group": "10757", 
+    "name": "canal 2", 
+    "url": "http://87.248.160.8/edge/smil:2plus/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12000"
+  }, 
+  {
+    "group": "10757", 
+    "name": "super tv (Russia)", 
+    "url": "http://87.248.160.8/edge/smil:set/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12001"
+  }, 
+  {
+    "group": "10757", 
+    "name": "mbc", 
+    "url": "http://87.248.160.8/edge/smil:mbc/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12002"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Fight", 
+    "url": "http://87.248.160.8/edge/smil:boet/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12003"
+  }, 
+  {
+    "group": "10757", 
+    "name": "TVC 21", 
+    "url": "http://87.248.160.8/edge/smil:tvc21/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12004"
+  }, 
+  {
+    "group": "10757", 
+    "name": "TVR", 
+    "url": "http://87.248.160.8/edge/smil:tvr/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12005"
+  }, 
+  {
+    "group": "10757", 
+    "name": "tnt Bravo (Russia)", 
+    "url": "http://87.248.160.8/edge/smil:tnt/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12006"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Rtr (Russia)", 
+    "url": "http://87.248.160.8/edge/smil:rtrp/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12007"
+  }, 
+  {
+    "group": "10757", 
+    "name": "N4 (semi national)", 
+    "url": "http://87.248.160.8/edge/smil:n4/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12008"
+  }, 
+  {
+    "group": "10757", 
+    "name": "CTC (Russia)", 
+    "url": "http://87.248.160.8/edge/smil:sts/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12009"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Alt tv", 
+    "url": "http://87.248.160.8/edge/smil:alttv/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12010"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Accent", 
+    "url": "http://87.248.160.8/edge/smil:accent/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12011"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Sor tv", 
+    "url": "http://87.248.160.8/edge/smil:sortv/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12012"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Ren tv", 
+    "url": "http://87.248.160.8/edge/smil:rentv/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12013"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Noroc tv", 
+    "url": "http://87.248.160.8/edge/smil:noroc/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12014"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Busuioc tv", 
+    "url": "http://87.248.160.8/edge/smil:busuioc/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12015"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Animaux", 
+    "url": "http://87.248.160.8/edge/smil:animaux/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12017"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Encyclo", 
+    "url": "http://87.248.160.8/edge/smil:encyclo/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12018"
+  }, 
+  {
+    "group": "10757", 
+    "name": "RU TV (Russia)", 
+    "url": "rtmp://217.12.116.122/live playpath=rutv_direct swfUrl=http://stream.tvmd.info/player.swf swfVfy=1 live=1  timeout=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "12019"
+  }, 
+  {
+    "group": "10757", 
+    "name": "Kids TV", 
+    "url": "rtmp://stream.trilulilu.ro:1936/live/ playpath=kids swfUrl=http://static.trilulilu.ro/flash/player/playerLive.swf swfVfy=1 live=1  timeout=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "12020"
+  }, 
+  {
+    "group": "10757", 
+    "name": "gurinel", 
+    "url": "http://87.248.160.8/edge/smil:gurinel/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12021"
+  }
+]

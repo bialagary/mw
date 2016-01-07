@@ -1,0 +1,8 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=dd9808a1812fc1d1a8d345c1386ca4a571450121876; path="/"; domain=".viewmovies.is"; path_spec; domain_dot; expires="2016-12-13 19:37:56Z"; HttpOnly=None; version=0
+Set-Cookie3: mc_session_ids[default]=8db8d79e06e83f4caa8f1bdbc72f306bdb257e8e; path="/"; domain="www.viewmovies.is"; path_spec; expires="2015-12-19 21:51:36Z"; httponly=None; version=0
+Set-Cookie3: mc_session_ids[multi][0]=104e05814f29fa44c8d78c0d995c7d5971826784; path="/"; domain="www.viewmovies.is"; path_spec; expires="2015-12-19 21:51:36Z"; version=0
+Set-Cookie3: mc_session_ids[multi][1]=8c5389a5310c6e64567d9c7d02c2d47ef5f69daf; path="/"; domain="www.viewmovies.is"; path_spec; expires="2015-12-19 21:51:36Z"; version=0
+Set-Cookie3: mc_session_ids[multi][2]=cc60fc34a7fcf3054bf374f464b78c522d4c732c; path="/"; domain="www.viewmovies.is"; path_spec; expires="2015-12-19 21:51:36Z"; version=0
+Set-Cookie3: mc_session_ids[multi][3]=4e24f6e0c6dadc85f10266b0781c5c83057c839c; path="/"; domain="www.viewmovies.is"; path_spec; expires="2015-12-19 21:51:36Z"; version=0
+Set-Cookie3: mc_session_ids[multi][4]=b743291373eedc88a234580c61e5d139d0c519e4; path="/"; domain="www.viewmovies.is"; path_spec; expires="2015-12-19 21:51:36Z"; version=0

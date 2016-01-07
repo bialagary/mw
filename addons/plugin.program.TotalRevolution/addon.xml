@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.TotalRevolution" name="[COLOR=blue]T[/COLOR]otal[COLOR=dodgerblue]R[/COLOR]evolution" version="0.0.1" provider-name="whufclee">
+  <requires>
+	<import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">TotalRevolution</summary>
+	<description>Absolutely everything you could ever need, addons, community builds, backups, tutorials, maintenance... you name it, if it's Kodi related you'll find it here! A massive thanks to all of you that contribute to the project at [COLOR=lime][B]www.totalxbmc.tv[/COLOR][/B]</description>
+    <platform>all</platform>
+  </extension>
+</addon>

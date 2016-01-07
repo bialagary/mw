@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+	<string id="20000">Stream Settings:</string>
+	<string id="20001">Please input your USTVNOW login details below:</string>
+    <string id="30000">USTV Now</string>
+    <string id="30001">Live</string>
+    <string id="30002">Recordings</string>
+    <string id="30003">Delete Recording</string>
+    <string id="30004">Are you sure you want to</string>
+    <string id="30005">delete this recording?</string>
+    <string id="30100">Quality</string>
+    <string id="30101">Stream Type</string>
+    <string id="30102">Email</string>
+    <string id="30103">Password</string>
+	<string id="30104">HAVE YOU VERIFIED EMAIL and PASSWORD?</string>
+	<string id="200000">"Thank you for choosing USTVNOW for XBMC."</string>
+	<string id="200100">"Please visit http://forums/tvaddons.ag should you have any questions or comments."</string>
+	<string id="200200">"ENJOY!!!"</string>
+</strings>

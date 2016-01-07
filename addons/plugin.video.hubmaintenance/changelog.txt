@@ -1,0 +1,357 @@
+120001.0.2
+Added Add XunityTalk Playlist To iStream
+
+
+120001.0.1
+Fix Fanart and Thumbs
+
+120000.9.8
+added xbmconnect tutorials
+
+120000.8.3
+Fixed NowVideo
+
+v120000.7.2
+Fix Uk Repo
+
+v120000.7.0
+Wizard Linux Network Fix
+
+120000.6.9
+Toys4Me Fix
+
+120000.6.8
+Added Clean Addon Database/Update Repos
+Added Clean Video/Music Library Database
+Fixed Uk repos
+
+v120000.6.6
+Sports Devil Fix
+TLBB BETA FLASH FIX
+
+v5.6.3
+Taking Back What Always Was Mine
+
+v5.6.2
+Revert BAck To Normal
+Added Subscription Fix
+
+
+v5.6.1
+Fixed All Repos
+Took Out Ads
+
+v5.6.0
+Added Fix Subscriptions
+
+v5.5.9
+Super Repo Check
+
+v5.5.7
+Deleted 1Channel Domain Fix Not Needed
+
+v5.5.6
+Added TLBB Beta Flashing
+
+v5.5.3
+Added Notification
+
+v5.1.1
+MOved Mikey1234 Repo
+
+v5.5.0
+BBC iPlayer Fix
+
+v5.4b
+Fixed Fixes directory
+
+v5.4a
+1Channel Domain Name Change
+
+v5.4
+Added the right way to add homescreen icons
+
+v5.3b
+Added Back UP/Restore XML
+
+v5.3a
+1channels new plugin to relieve Tuxens Server
+
+v5.3
+Added Make JDownloader Work With NaviX
+
+v5.2k
+Fixed Android 1channel issue
+
+v5.2j
+Added Grab All Repos From Fusion
+
+v5.2i
+Added 1channel Down Fix/Restore
+
+v5.2h
+Added Homecreen Shortcuts
+
+v5.2g
+Better Downloading of files
+Added Compulsary Watching of Lucy Simmonds Video
+
+v5.2f
+Quick Fix
+
+v5.2e
+Added 1Channel In Developers
+
+v5.2d
+Now you Can use the developers scripts
+Plus restore back to original
+
+v5.2a
+Made Flashing Better
+Move UserData to usb/sdcard
+
+
+v5.1
+Fixed Remove Checks you will need room on your device for necessary files to download (PLEASE REMOVE OLD CACHE AND THUMBNAILS !!) 
+
+v5.0a
+Sorry My Bad Fixed
+
+v5.0
+Thanks to our very own LEGEND Spoyser who has worked so hard in achieving remove checks and resign M3 images 
+Added MyGica Flash
+
+
+v4.8g
+Added Uk Plugins/Repo Download
+
+v4.8f
+Added Wallpaper Downloads
+
+v4.8e
+Changed Silly American Date Format
+
+v4.8d
+Added Toys4Me Linux Flash
+
+v4.8c
+Better Lib File Handling
+Added Delete Crash Logs
+
+v4.8b
+Fixed Linux Flashing Put Back Option To choose your own Directory
+Tidied up addon settings so you can understand it Better
+
+v4.8
+Fixed Linux Flash
+
+v4.7b
+Fixed YOutube Properly
+
+v4.6h
+Quick Fix
+
+v4.6g
+Added Linux Flash To Nightlies
+
+v4.6f
+Fixed Linux Flash
+Fixed Log Uploaer Works For Any Platform
+
+v4.6e
+Fixed ATV2 Not Getting 7 Icons
+
+v4.6d
+Added Add 7 Icons To Home Menu (frodo Only)
+
+
+v4.6b
+Added Add 7 Icons To Home Menu (windows Only)
+Fixed Log Uploader For Every Device
+
+v4.6
+Added POP UP
+
+v4.4f
+Finally fixed all if folder is false/true (so no more empty directories after clicking ok)
+Added Refreshing of list of addon/repo/skin after deletion
+Added Better Descriptive help with Flash Linux Any Box
+Added Voinage pop up
+
+
+v4.4e
+Added Flash Linux Any Box
+
+v4.4d
+Added XBMC Cache Directory for deletion
+Fixed Cydia Archive Delete
+
+v4.4c
+Added Hulu Fix
+
+v4.4b
+Added GSH PlayerCoreFactory.xml for android
+
+v4.4a
+Added Remove Skin
+Added Remove Repository
+
+v4.4
+Added Download All Repos Off Fusion
+
+v4.3e
+Check for new M1/M3 update.img and upgrade easily
+
+v4.3d
+Temporary Fix For Log Uploader
+Added Need Help !
+
+v4.3c
+Better GA
+
+v4.3b
+Added ITV Player Fix (Gets More Results)
+
+v4.3
+YouTube Fix
+
+v4.2j
+Better GA
+
+v4.2h
+Added Check Xml
+
+V4.2g
+GA Fix
+
+V4.2e
+GA Fix
+
+V4.2d
+GA Fix
+
+4.2c
+Quick Fix
+Added Analytics
+
+v4.2b
+Added Subtitle Fix For 1Channel
+Added Slow GUi Fix
+
+v4.2a
+Added Remove Plugin The EasyWay (for noobs)
+
+v4.2 
+Changed Userdata Restore So its Easier for people
+
+v4.1a
+Added Change Captcha so you can see it for 3 seconds before keyboard pops up
+
+v4.1
+Added Restore your usedata folders for new installs
+
+v4.0a
+Added Automatic removal of Mikey1234 Repo
+Added Automatic Install Of XBMCHUB Repo
+
+v4.0
+Added Android One Click Enter Recovery/Upgrade (Thanks Spoyser)
+
+v3.9a
+Quick Fix
+
+v3.9
+Added Eden Skin
+Removed Youtube fix
+Added more Description
+
+v3.8
+1Channel Reboot Fix
+Added Install XBMCHUB Repo
+
+v3.7
+YouTube Fix
+
+v3.6
+Added Fusion Installer
+
+v3.5
+Si02 Skin For Any OS
+
+v3.3
+Added Install Si02 Skin For Eden ATV2 Only
+
+v3.2
+Added Upload Your Logfile
+
+V3.1
+Repo Changed
+
+v2.9.9
+Youtube Fix
+
+v2.9.1
+Fixed 10min Skip
+
+v2.9
+No settings to be enaboed now!!
+Bloody newbies lol
+
+v2.8
+Lib Downloads instead of writing if you had issues with streams please re run lib fix
+
+v2.7
+Lib File OSX Fix
+Fix To Video Guides
+More Error Catching
+
+v2.6
+Update your lib File (ATV2 Windows OSX And IOS)
+
+v2.5
+Added How To Videos
+Added Update your lib File
+
+v2.2
+Added Meta_cache/video_cache.db fix
+Added onchannel.db delete for .db issues
+
+v2.1
+Quick Fix
+Added Descriptions
+Catergorised Settings
+
+v2.0
+Added Install advancedsettings.xml
+Added Install ATV2 keymaps so you can skip forward 10 minutes
+You Gonna Love it !!!!!!
+
+v1.9
+Fix 1Channel
+
+v1.8
+Added enable Thumbnails and Packages in Settings
+
+v1.7
+Changed So People Wont Have to Input Anything In Settings (Makes it Safer!!)
+
+v1.6
+Added Delete Thumbnails (will Also ammend Textures.db)
+
+v1.5b
+Changed So Atv2 Users Dont need to add packages in addon settings
+
+v1.4
+Added Delete Zipped Packages (Set path In Addon Settings)
+
+v1.3
+ATV2 Fix
+
+v1.2
+Added More 
+
+v1.1
+Added More plus its now any Version Not Just ATV2
+
+v1.0
+Initial Release

@@ -1,0 +1,954 @@
+[
+  {
+    "group": "10625", 
+    "name": "NEX1", 
+    "url": "84;;nex1tv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12103"
+  }, 
+  {
+    "group": "10625", 
+    "name": "eins festival", 
+    "url": "plugin://plugin.video.israelive/?url=421&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/421/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11896"
+  }, 
+  {
+    "group": "10625", 
+    "name": "eins plus", 
+    "url": "plugin://plugin.video.israelive/?url=418&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/418/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11897"
+  }, 
+  {
+    "group": "10625", 
+    "name": "KIKA", 
+    "url": "plugin://plugin.video.israelive/?url=2756&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/2756/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10626"
+  }, 
+  {
+    "group": "10625", 
+    "name": "KIKA", 
+    "url": "deutsch/KiKa?mode=4", 
+    "image": "http://static.filmon.com/couch/channels/2756/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10627"
+  }, 
+  {
+    "group": "10625", 
+    "name": "KIKA", 
+    "url": "izle/kika?mode=12", 
+    "image": "http://static.filmon.com/couch/channels/2756/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11848"
+  }, 
+  {
+    "group": "10625", 
+    "name": "N-TV", 
+    "url": "plugin://plugin.video.israelive/?url=1033&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/1033/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10628"
+  }, 
+  {
+    "group": "10625", 
+    "name": "N-TV", 
+    "url": "deutsch/NTV?mode=4", 
+    "image": "http://static.filmon.com/couch/channels/1033/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10629"
+  }, 
+  {
+    "group": "10625", 
+    "name": "N-TV", 
+    "url": "izle/n-tv?mode=12", 
+    "image": "http://static.filmon.com/couch/channels/1033/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11830"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDF", 
+    "url": "plugin://plugin.video.israelive/?url=2759&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10630"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDF", 
+    "url": "deutsch/ZDF?mode=4", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10631"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDF", 
+    "url": "220;;zdftv?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10632"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDF", 
+    "url": "izle/zdf?mode=12", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11872"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDF", 
+    "url": "zdf-live?mode=19", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12039"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDF", 
+    "url": "http://origin2.live.web.tv.streamprovider.net/streams/6a2e9dc6da13378896229b49470945d6/index.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/2759/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12397"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDFneo", 
+    "url": "plugin://plugin.video.israelive/?url=360&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/360/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10633"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDFneo", 
+    "url": "deutsch/ZDFNEO?mode=4", 
+    "image": "http://static.filmon.com/couch/channels/360/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10634"
+  }, 
+  {
+    "group": "10625", 
+    "name": "zdf.kultur", 
+    "url": "plugin://plugin.video.israelive/?url=359&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/359/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10635"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ZDF INFOKANAL", 
+    "url": "plugin://plugin.video.israelive/?url=2762&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/2762/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10636"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Tagesschau 24", 
+    "url": "plugin://plugin.video.israelive/?url=415&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/415/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11895"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Tagesschau 24", 
+    "url": "http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/master.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/415/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10640"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Tagesschau 24", 
+    "url": "izle/tagesschau24?mode=12", 
+    "image": "http://static.filmon.com/couch/channels/415/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "12067"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Phoenix", 
+    "url": "plugin://plugin.video.israelive/?url=424&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/424/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11894"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Phoenix", 
+    "url": "deutsch/phoenix?mode=4", 
+    "image": "http://static.filmon.com/couch/channels/424/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10643"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Phoenix", 
+    "url": "izle/phoenix?mode=12", 
+    "image": "http://static.filmon.com/couch/channels/424/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "12060"
+  }, 
+  {
+    "group": "10625", 
+    "name": "daserste", 
+    "url": "deutsch/ARD?mode=4", 
+    "image": "http://images.live-stream.tv/picons/ard.png", 
+    "type": "video", 
+    "id": "10644"
+  }, 
+  {
+    "group": "10625", 
+    "name": "daserste", 
+    "url": "204;;daserste?mode=6", 
+    "image": "http://images.live-stream.tv/picons/ard.png", 
+    "type": "video", 
+    "id": "10645"
+  }, 
+  {
+    "group": "10625", 
+    "name": "daserste", 
+    "url": "http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8", 
+    "image": "http://images.live-stream.tv/picons/ard.png", 
+    "type": "video", 
+    "id": "10646"
+  }, 
+  {
+    "group": "10625", 
+    "name": "daserste", 
+    "url": "izle/ard-daserste?mode=12", 
+    "image": "http://images.live-stream.tv/picons/ard.png", 
+    "type": "ignore", 
+    "id": "11873"
+  }, 
+  {
+    "group": "10625", 
+    "name": "daserste", 
+    "url": "das-erste-live?mode=19", 
+    "image": "http://images.live-stream.tv/picons/ard.png", 
+    "type": "video", 
+    "id": "12038"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SAT1", 
+    "url": "deutsch/SAT1?mode=4", 
+    "image": "http://images.live-stream.tv/picons/sat1.png", 
+    "type": "video", 
+    "id": "10647"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SAT1", 
+    "url": "izle/sat-1?mode=12", 
+    "image": "http://images.live-stream.tv/picons/sat1.png", 
+    "type": "ignore", 
+    "id": "11874"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SAT1", 
+    "url": "sat-1-live?mode=19", 
+    "image": "http://images.live-stream.tv/picons/sat1.png", 
+    "type": "video", 
+    "id": "12041"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RTL", 
+    "url": "deutsch/RTL?mode=4", 
+    "image": "http://images.live-stream.tv/picons/rtl.png", 
+    "type": "video", 
+    "id": "10648"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RTL", 
+    "url": "izle/rtl?mode=12", 
+    "image": "http://images.live-stream.tv/picons/rtl.png", 
+    "type": "ignore", 
+    "id": "11876"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RTL2", 
+    "url": "deutsch/RTL2?mode=4", 
+    "image": "http://images.live-stream.tv/picons/rtl2.png", 
+    "type": "video", 
+    "id": "10649"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RTL2", 
+    "url": "izle/rtl-2?mode=12", 
+    "image": "http://images.live-stream.tv/picons/rtl2.png", 
+    "type": "ignore", 
+    "id": "11877"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RTL2", 
+    "url": "rtl2-de-live?mode=19", 
+    "image": "http://images.live-stream.tv/picons/rtl2.png", 
+    "type": "video", 
+    "id": "12042"
+  }, 
+  {
+    "group": "10625", 
+    "name": "PRO7", 
+    "url": "deutsch/PRO7?mode=4", 
+    "image": "http://images.live-stream.tv/picons/pro7.png", 
+    "type": "video", 
+    "id": "10650"
+  }, 
+  {
+    "group": "10625", 
+    "name": "PRO7", 
+    "url": "izle/pro-sieben?mode=12", 
+    "image": "http://images.live-stream.tv/picons/pro7.png", 
+    "type": "ignore", 
+    "id": "11878"
+  }, 
+  {
+    "group": "10625", 
+    "name": "PRO7", 
+    "url": "prosieben-live?mode=19", 
+    "image": "http://images.live-stream.tv/picons/pro7.png", 
+    "type": "video", 
+    "id": "12043"
+  }, 
+  {
+    "group": "10625", 
+    "name": "PRO7 Maxx", 
+    "url": "izle/pro-7-maxx?mode=12", 
+    "image": "http://www.vas-systeme.de/blog/wp-content/uploads/2013/07/pro7maxx.jpg", 
+    "type": "ignore", 
+    "id": "12056"
+  }, 
+  {
+    "group": "10625", 
+    "name": "VOX", 
+    "url": "deutsch/VOX?mode=4", 
+    "image": "http://images.live-stream.tv/picons/vox.png", 
+    "type": "video", 
+    "id": "10651"
+  }, 
+  {
+    "group": "10625", 
+    "name": "VOX", 
+    "url": "izle/vox?mode=12", 
+    "image": "http://images.live-stream.tv/picons/vox.png", 
+    "type": "ignore", 
+    "id": "11879"
+  }, 
+  {
+    "group": "10625", 
+    "name": "KABEL1", 
+    "url": "deutsch/KABEL1?mode=4", 
+    "image": "http://images.live-stream.tv/picons/kabel1.png", 
+    "type": "video", 
+    "id": "10652"
+  }, 
+  {
+    "group": "10625", 
+    "name": "KABEL1", 
+    "url": "izle/kabel-eins?mode=12", 
+    "image": "http://images.live-stream.tv/picons/kabel1.png", 
+    "type": "ignore", 
+    "id": "11875"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SIXX", 
+    "url": "deutsch/SIXX?mode=4", 
+    "image": "http://images.live-stream.tv/picons/sixx.png", 
+    "type": "video", 
+    "id": "10653"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SIXX", 
+    "url": "izle/sixx?mode=12", 
+    "image": "http://images.live-stream.tv/picons/sixx.png", 
+    "type": "ignore", 
+    "id": "11883"
+  }, 
+  {
+    "group": "10625", 
+    "name": "DMAX", 
+    "url": "deutsch/DMAX?mode=4", 
+    "image": "http://images.live-stream.tv/picons/dmax.png", 
+    "type": "video", 
+    "id": "10654"
+  }, 
+  {
+    "group": "10625", 
+    "name": "DMAX", 
+    "url": "izle/dmax?mode=12", 
+    "image": "http://images.live-stream.tv/picons/dmax.png", 
+    "type": "ignore", 
+    "id": "11880"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SUPER RTL", 
+    "url": "deutsch/SUPERRTL?mode=4", 
+    "image": "http://images.live-stream.tv/picons/superrtl.png", 
+    "type": "video", 
+    "id": "10655"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SUPER RTL", 
+    "url": "izle/super-rtl?mode=12", 
+    "image": "http://images.live-stream.tv/picons/superrtl.png", 
+    "type": "ignore", 
+    "id": "11847"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RTL NITRO", 
+    "url": "deutsch/RTLNITRO?mode=4", 
+    "image": "http://images.live-stream.tv/picons/rtlnitro.png", 
+    "type": "video", 
+    "id": "10656"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RTL NITRO", 
+    "url": "izle/rtl-nitro?mode=12", 
+    "image": "http://images.live-stream.tv/picons/rtlnitro.png", 
+    "type": "ignore", 
+    "id": "12058"
+  }, 
+  {
+    "group": "10625", 
+    "name": "3SAT", 
+    "url": "deutsch/3SAT?mode=4", 
+    "image": "http://images.live-stream.tv/picons/3sat.png", 
+    "type": "video", 
+    "id": "10657"
+  }, 
+  {
+    "group": "10625", 
+    "name": "3SAT", 
+    "url": "izle/3sat?mode=12", 
+    "image": "http://images.live-stream.tv/picons/3sat.png", 
+    "type": "ignore", 
+    "id": "12059"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Eurosport", 
+    "url": "deutsch/Eurosport?mode=4", 
+    "image": "http://images.live-stream.tv/picons/eurosport.png", 
+    "type": "video", 
+    "id": "10658"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Eurosport", 
+    "url": "eurosport-hd-francais-en-direct?mode=19", 
+    "image": "http://images.live-stream.tv/picons/eurosport.png", 
+    "type": "video", 
+    "id": "11558"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Eurosport", 
+    "url": "izle/eurosport-deutschland?mode=12", 
+    "image": "http://images.live-stream.tv/picons/eurosport.png", 
+    "type": "ignore", 
+    "id": "12065"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Sport1", 
+    "url": "deutsch/Sport1?mode=4", 
+    "image": "http://images.live-stream.tv/picons/sport1.png", 
+    "type": "video", 
+    "id": "10659"
+  }, 
+  {
+    "group": "10625", 
+    "name": "nick", 
+    "url": "deutsch/nickcc?mode=4", 
+    "image": "http://images.live-stream.tv/picons/nickcc.png", 
+    "type": "video", 
+    "id": "10660"
+  }, 
+  {
+    "group": "10625", 
+    "name": "nick", 
+    "url": "izle/nickelodeon?mode=12", 
+    "image": "http://images.live-stream.tv/picons/nickcc.png", 
+    "type": "ignore", 
+    "id": "11881"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Disney Channel", 
+    "url": "izle/disney-channel-de?mode=12", 
+    "image": "http://cdnvideo.dolimg.com/cdn_assets/0dfecd0d9b7870bcb6037932bb22a5ea366ba029.png", 
+    "type": "ignore", 
+    "id": "12066"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Disney Channel", 
+    "url": "deutsch/disney_channel?mode=4", 
+    "image": "http://cdnvideo.dolimg.com/cdn_assets/0dfecd0d9b7870bcb6037932bb22a5ea366ba029.png", 
+    "type": "video", 
+    "id": "12070"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Comedy Central", 
+    "url": "deutsch/VIVA?mode=4", 
+    "image": "http://images.live-stream.tv/picons/viva.png", 
+    "type": "video", 
+    "id": "10661"
+  }, 
+  {
+    "group": "10625", 
+    "name": "VIVA", 
+    "url": "izle/viva-tv?mode=12", 
+    "image": "http://images.live-stream.tv/picons/viva.png", 
+    "type": "ignore", 
+    "id": "12061"
+  }, 
+  {
+    "group": "10625", 
+    "name": "JOIZ", 
+    "url": "deutsch/JOIZ?mode=4", 
+    "image": "http://images.live-stream.tv/picons/joiz.png", 
+    "type": "video", 
+    "id": "10662"
+  }, 
+  {
+    "group": "10625", 
+    "name": "arte", 
+    "url": "deutsch/arte?mode=4", 
+    "image": "http://images.live-stream.tv/picons/arte.png", 
+    "type": "video", 
+    "id": "10663"
+  }, 
+  {
+    "group": "10625", 
+    "name": "WDR", 
+    "url": "deutsch/WDR?mode=4", 
+    "image": "http://images.live-stream.tv/picons/wdr.png", 
+    "type": "video", 
+    "id": "10664"
+  }, 
+  {
+    "group": "10625", 
+    "name": "WDR", 
+    "url": "http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8", 
+    "image": "http://images.live-stream.tv/picons/wdr.png", 
+    "type": "video", 
+    "id": "10665"
+  }, 
+  {
+    "group": "10625", 
+    "name": "WDR", 
+    "url": "http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/master.m3u8", 
+    "image": "http://images.live-stream.tv/picons/wdr.png", 
+    "type": "video", 
+    "id": "10666"
+  }, 
+  {
+    "group": "10625", 
+    "name": "WDR", 
+    "url": "izle/wdr?mode=12", 
+    "image": "http://images.live-stream.tv/picons/wdr.png", 
+    "type": "ignore", 
+    "id": "11882"
+  }, 
+  {
+    "group": "10625", 
+    "name": "WDR", 
+    "url": "wdr-live?mode=19", 
+    "image": "http://images.live-stream.tv/picons/wdr.png", 
+    "type": "video", 
+    "id": "12040"
+  }, 
+  {
+    "group": "10625", 
+    "name": "MDR", 
+    "url": "deutsch/MDR?mode=4", 
+    "image": "http://images.live-stream.tv/picons/mdr.png", 
+    "type": "video", 
+    "id": "10667"
+  }, 
+  {
+    "group": "10625", 
+    "name": "MDR", 
+    "url": "izle/mdr?mode=12", 
+    "image": "http://images.live-stream.tv/picons/mdr.png", 
+    "type": "ignore", 
+    "id": "12062"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SWR", 
+    "url": "deutsch/SWR?mode=4", 
+    "image": "http://images.live-stream.tv/picons/swr.png", 
+    "type": "video", 
+    "id": "10668"
+  }, 
+  {
+    "group": "10625", 
+    "name": "BR", 
+    "url": "deutsch/BR?mode=4", 
+    "image": "http://images.live-stream.tv/picons/br.png", 
+    "type": "video", 
+    "id": "10669"
+  }, 
+  {
+    "group": "10625", 
+    "name": "HR", 
+    "url": "izle/hr?mode=12", 
+    "image": "http://www.tv14.net/wp-content/uploads/2013/05/HR-Fernsehen-Logo.jpg", 
+    "type": "ignore", 
+    "id": "12064"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ORF1", 
+    "url": "deutsch/ORF1?mode=4", 
+    "image": "http://images.live-stream.tv/picons/orf1.png", 
+    "type": "video", 
+    "id": "10670"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ORF1", 
+    "url": "izle/orf-1?mode=12", 
+    "image": "http://images.live-stream.tv/picons/orf1.png", 
+    "type": "ignore", 
+    "id": "11885"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ORF2", 
+    "url": "deutsch/ORF2?mode=4", 
+    "image": "http://images.live-stream.tv/picons/orf2.png", 
+    "type": "video", 
+    "id": "10671"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ORF2", 
+    "url": "izle/orf-2?mode=12", 
+    "image": "http://images.live-stream.tv/picons/orf2.png", 
+    "type": "ignore", 
+    "id": "11886"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ATV", 
+    "url": "deutsch/ATV?mode=4", 
+    "image": "http://images.live-stream.tv/picons/atv.png", 
+    "type": "video", 
+    "id": "10672"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SF1", 
+    "url": "deutsch/SF1?mode=4", 
+    "image": "http://images.live-stream.tv/picons/sf1.png", 
+    "type": "video", 
+    "id": "10673"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SF2", 
+    "url": "deutsch/SF2?mode=4", 
+    "image": "http://images.live-stream.tv/picons/sf2.png", 
+    "type": "video", 
+    "id": "10674"
+  }, 
+  {
+    "group": "10625", 
+    "name": "3PLUS", 
+    "url": "deutsch/3PLUS?mode=4", 
+    "image": "http://images.live-stream.tv/picons/3plus.png", 
+    "type": "video", 
+    "id": "10675"
+  }, 
+  {
+    "group": "10625", 
+    "name": "3PLUS", 
+    "url": "izle/3plus?mode=12", 
+    "image": "http://images.live-stream.tv/picons/3plus.png", 
+    "type": "ignore", 
+    "id": "11887"
+  }, 
+  {
+    "group": "10625", 
+    "name": "NDR", 
+    "url": "http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png", 
+    "type": "video", 
+    "id": "10683"
+  }, 
+  {
+    "group": "10625", 
+    "name": "NDR", 
+    "url": "izle/ndr?mode=12", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/NDR_Dachmarke.svg/2000px-NDR_Dachmarke.svg.png", 
+    "type": "ignore", 
+    "id": "12063"
+  }, 
+  {
+    "group": "10625", 
+    "name": "N24", 
+    "url": "http://n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream2.m3u8", 
+    "image": "http://images.live-stream.tv/picons/n24.png", 
+    "type": "video", 
+    "id": "10685"
+  }, 
+  {
+    "group": "10625", 
+    "name": "N24", 
+    "url": "deutsch/N24?mode=4", 
+    "image": "http://images.live-stream.tv/picons/n24.png", 
+    "type": "video", 
+    "id": "10686"
+  }, 
+  {
+    "group": "10625", 
+    "name": "N24", 
+    "url": "izle/n24?mode=12", 
+    "image": "http://images.live-stream.tv/picons/n24.png", 
+    "type": "ignore", 
+    "id": "11884"
+  }, 
+  {
+    "group": "10625", 
+    "name": "ServusTV", 
+    "url": "http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-b.m3u8", 
+    "image": "http://www.presseportal.de/bild/79385-logo-servustv.jpg", 
+    "type": "video", 
+    "id": "10707"
+  }, 
+  {
+    "group": "10625", 
+    "name": "E RF", 
+    "url": "rtmp://x2908erfeic14000.f.l.f.lb.core-cdn.net/14000erf pageUrl=http://livetvstreaming.ucoz.com live=1  playpath=live/2908erfeins/live_de_450", 
+    "image": "", 
+    "type": "video", 
+    "id": "10676"
+  }, 
+  {
+    "group": "10625", 
+    "name": "TV AKTUELL", 
+    "url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/playlist.m3u8", 
+    "image": "http://metadata.br-online.de/imda/logos/B5_aktuell_imda_tv_16_9.png", 
+    "type": "video", 
+    "id": "10678"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Suedtirol TV", 
+    "url": "rtsp://77.72.196.214:8554/live/mp4:SuedtirolTV", 
+    "image": "", 
+    "type": "video", 
+    "id": "10680"
+  }, 
+  {
+    "group": "10625", 
+    "name": "OKTO TV", 
+    "url": "http://atwse.lbs.atusmedia.cc:1935/oktolive/okto-low.stream/playlist.m3u8", 
+    "image": "http://en.wikipedia.org/wiki/Okto#mediaviewer/File:MediaCorp_okto.jpg", 
+    "type": "video", 
+    "id": "10681"
+  }, 
+  {
+    "group": "10625", 
+    "name": "TV Aktuell", 
+    "url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_3/.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10684"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RBW", 
+    "url": "http://62.113.210.250/medienasa-live/rbw_high/bratumarian.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10688"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RAN 1 Dessau", 
+    "url": "rtmp://62.113.210.250/medienasa-live/ran1_high", 
+    "image": "", 
+    "type": "video", 
+    "id": "10689"
+  }, 
+  {
+    "group": "10625", 
+    "name": "PUNKTum", 
+    "url": "http://62.113.210.250/medienasa-live/punktum_high/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10690"
+  }, 
+  {
+    "group": "10625", 
+    "name": "MDF1", 
+    "url": "http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10691"
+  }, 
+  {
+    "group": "10625", 
+    "name": "RFH", 
+    "url": "http://62.113.210.250/medienasa-live/RFH_high/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10692"
+  }, 
+  {
+    "group": "10625", 
+    "name": "wernigerode", 
+    "url": "http://62.113.210.250/medienasa-live/ok-wernigerode_high/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10693"
+  }, 
+  {
+    "group": "10625", 
+    "name": "stendal", 
+    "url": "http://62.113.210.250/medienasa-live/ok-stendal_high/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10694"
+  }, 
+  {
+    "group": "10625", 
+    "name": "salzwedel", 
+    "url": "http://62.113.210.250/medienasa-live/ok-salzwedel_high/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10695"
+  }, 
+  {
+    "group": "10625", 
+    "name": "magdeburg", 
+    "url": "http://62.113.210.250/medienasa-live/ok-magdeburg_high/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10696"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Elbekanal Schรถnebeck", 
+    "url": "rtmp://62.113.210.250/medienasa-live/elbe_high", 
+    "image": "", 
+    "type": "video", 
+    "id": "10697"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Halle TV", 
+    "url": "rtmp://62.113.210.250/medienasa-live/tvhalle_high", 
+    "image": "", 
+    "type": "video", 
+    "id": "10698"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Family TV", 
+    "url": "rtmp://83.169.58.36/live/Stream3", 
+    "image": "", 
+    "type": "video", 
+    "id": "10699"
+  }, 
+  {
+    "group": "10625", 
+    "name": "BW Family TV", 
+    "url": "rtmp://live.bwfamily.tv:1935/rtplive/vlc.sdp", 
+    "image": "", 
+    "type": "video", 
+    "id": "10700"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Filstalwelle", 
+    "url": "rtmp://62.113.210.27/filstalwelle-live/livestream", 
+    "image": "", 
+    "type": "video", 
+    "id": "10702"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Juwelo TV", 
+    "url": "rtmp://85.214.107.68/juwelo_hd/live_DE1", 
+    "image": "", 
+    "type": "video", 
+    "id": "10703"
+  }, 
+  {
+    "group": "10625", 
+    "name": "Light Channel TV Deutschland", 
+    "url": "rtsp://streamer1.streamhost.org:1935/salive/lctvde", 
+    "image": "", 
+    "type": "video", 
+    "id": "10704"
+  }, 
+  {
+    "group": "10625", 
+    "name": "NOA4 Hamburg", 
+    "url": "mms://wt-wm1.wtnet.de/noa4hh-stream-mid?.wma", 
+    "image": "", 
+    "type": "video", 
+    "id": "10706"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SRF1", 
+    "url": "plugin://plugin.video.israelive/?url=3908&mode=1", 
+    "image": "http://api.teletext.ch/online/channels/SRF1.png", 
+    "type": "video", 
+    "id": "12391"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SRF1", 
+    "url": "ch/14?mode=9", 
+    "image": "http://api.teletext.ch/online/channels/SRF1.png", 
+    "type": "ignore", 
+    "id": "11587"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SRF1", 
+    "url": "izle/srf-1?mode=12", 
+    "image": "http://api.teletext.ch/online/channels/SRF1.png", 
+    "type": "ignore", 
+    "id": "12068"
+  }, 
+  {
+    "group": "10625", 
+    "name": "SRF Zwei", 
+    "url": "ch/5?mode=9", 
+    "image": "http://images.worldsoft-cms.info/wcms/ftp/l/linthsignal.ch/siteimages/2542.jpg", 
+    "type": "ignore", 
+    "id": "11588"
+  }
+]

@@ -1,0 +1,6 @@
+<settings>
+    <setting id="autostart" value="true" />
+    <setting id="debug" value="true" />
+    <setting id="port" value="59994" />
+    <setting id="timeout" value="15" />
+</settings>

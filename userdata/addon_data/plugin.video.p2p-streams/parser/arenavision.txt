@@ -1,0 +1,1 @@
+{'url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/arenavision.tar.gz', 'md5_url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/arenavision.md5', 'md5': '775c9c7ab967c949d60cad65a93397d6  arenavision.tar.gz\n'}

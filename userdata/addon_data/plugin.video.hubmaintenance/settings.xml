@@ -1,0 +1,24 @@
+<settings>
+    <setting id="MAIN" value="500" />
+    <setting id="SUB" value="503" />
+    <setting id="add7" value="false" />
+    <setting id="already_shown" value="true" />
+    <setting id="auto-view" value="true" />
+    <setting id="boxbackupzip" value="" />
+    <setting id="boxnumber" value="" />
+    <setting id="download_linux" value="" />
+    <setting id="download_wallpaper" value="" />
+    <setting id="ga_time" value="2000-01-01 00:00:00" />
+    <setting id="id" value="0" />
+    <setting id="lucy" value="false" />
+    <setting id="lucyagain" value="false" />
+    <setting id="message" value="true" />
+    <setting id="opt_out" value="false" />
+    <setting id="pop_time" value="2000-01-01 00:00:00" />
+    <setting id="skip_oldlog" value="true" />
+    <setting id="storage" value="false" />
+    <setting id="thumbnails" value="true" />
+    <setting id="userdata" value="false" />
+    <setting id="videos" value="500" />
+    <setting id="visitor_ga" value="" />
+</settings>

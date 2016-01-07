@@ -1,0 +1,6 @@
+<settings>
+    <setting id="Thumbnail_On" value="true" />
+    <setting id="Updatecommonresolvers" value="false" />
+    <setting id="autoplay" value="false" />
+    <setting id="default_player" value="p2p-streams" />
+</settings>

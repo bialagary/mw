@@ -1,0 +1,7 @@
+<settings>
+    <setting id="add_playlist" value="false" />
+    <setting id="browse_tuiptv" value="true" />
+    <setting id="debug" value="false" />
+    <setting id="save_location" value="" />
+    <setting id="use_thumb" value="false" />
+</settings>

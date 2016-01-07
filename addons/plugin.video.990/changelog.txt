@@ -1,0 +1,154 @@
+0.4.19
+-> fixed: subtitle problem
+
+0.4.18
+-> fixed: error in Recently Added movies 
+
+0.4.17
+-> fixed: video links not available
+-> fixed: empty list in last added section for tvshows
+-> fixed: incorrect year display for movies
+-> changed: rename of Last Added category to Recently Added :)
+
+0.4.16
+-> fixed: subtitle problem
+
+0.4.15
+-> fixed: video links not available
+
+0.4.14
+-> fixed: last added section for movies, issue reported by fanelaru
+-> fixed: YouTube trailers, issue reported by fanelaru
+
+0.4.13
+-> fixed: Vodafone injection, issue reported by dhongu
+
+0.4.12
+-> solved: empty list for movies
+-> changed: movies are listed on multiple pages for better loading speed
+
+0.4.11
+-> solved: empty list for tvshows
+
+0.4.10
+-> solved: video links not available
+-> some other various changes
+
+0.4.9
+-> solved slowdowns
+
+0.4.8
+-> removed repository entry from addon.xml, this should solve
+   installation problem for other addons in the repository
+
+0.4.7
+-> some bug fixes
+
+0.4.6
+-> added episodes list cache for tvshows
+-> added option to clear the cache
+-> removed watched status (new versions of XBMC has it built in)
+-> added play trailer feature on movie right click menu
+
+0.4.5
+-> improved for reliability and speed
+-> got rid of list number
+-> code cleanup
+
+0.4.4
+-> added movies list cache for faster load times (see settings)
+-> corrected some mistakes
+
+0.4.3
+-> function for getting the list of movies was rewritten
+-> solved: movies list is displayed with duplicates
+-> solved: not display the entire list of movies
+-> other changes for compatibility with the new changes in the website
+-> some other various fixes
+
+0.4.2
+-> added support for unhardcoded subtitles
+-> some other various fixes
+
+0.4.1
+-> solved: "Can't play movies when I select option Movies", problem reported by fanelaru
+
+0.4.0
+-> resolving video links improved
+-> added dialog box for selecting stream source
+-> other improvements and bug fixes
+-> code cleanup
+
+0.3.4
+-> fixed: empty list for last added movies
+-> some bug fixes
+
+0.3.3
+-> some bug fixes
+
+0.3.2
+-> should now support Gotham version
+
+0.3.1
+-> added search history on last search (requested by my girlfriend)
+
+0.3.0
+-> implemented video bookmarks
+-> implemented video watched status
+
+0.2.5
+-> fixed error: video link not available for movies
+
+0.2.4
+-> fixed error: can't play video if youtube trailer isn't available
+
+0.2.3
+-> some bug fixes
+-> implemented GA
+
+0.2.2
+-> some minor improvements and bug fixes
+
+0.2.1
+-> fixed some mistakes
+
+0.2.0
+-> major change: plugin completely revised to work with the new 990.ro platform
+-> added: menu to see latest videos uploaded
+-> added: movie trailers
+-> Note: use search to find cartoons
+
+0.1.0
+-> searching video links improved
+-> added video quality info for movies
+
+0.0.9
+-> some minor improvements and bug fixes
+
+0.0.8
+-> fixed error: video links cannot be played
+
+0.0.7
+-> bug fix: startup error on Android devices
+
+0.0.6
+-> movies category implemented
+-> movies listed with thumbnail support
+-> search function improved
+-> search results listed with thumbnail support
+
+0.0.5
+-> bug fix: empty episodes list for some TV Shows
+
+0.0.4
+-> search function implemented
+
+0.0.3
+-> TV Shows sorted alphabetically
+
+0.0.2
+-> added thumbnails for TV Shows
+-> parsing video links optimized
+
+0.0.1
+-> initial version

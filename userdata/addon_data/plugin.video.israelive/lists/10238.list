@@ -1,0 +1,170 @@
+[
+  {
+    "group": "10238", 
+    "name": "MBC MAX", 
+    "url": "http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8", 
+    "image": "http://static.timefor.tv/imgs/epg/logos/mbcmax_big.png", 
+    "type": "video", 
+    "id": "10240"
+  }, 
+  {
+    "group": "10238", 
+    "name": "MBC MAX", 
+    "url": "mbcmax?mode=16", 
+    "image": "http://static.timefor.tv/imgs/epg/logos/mbcmax_big.png", 
+    "type": "video", 
+    "id": "11984"
+  }, 
+  {
+    "group": "10238", 
+    "name": "MBC2", 
+    "url": "http://63.237.48.23/ios/MBC2/MBC2.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/368/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10248"
+  }, 
+  {
+    "group": "10238", 
+    "name": "MBC2", 
+    "url": "mbc2?mode=16", 
+    "image": "http://static.filmon.com/couch/channels/368/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11983"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Fox Movies", 
+    "url": "foxmovies?mode=16", 
+    "image": "", 
+    "type": "video", 
+    "id": "11982"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Lotus Macau", 
+    "url": "http://122.152.139.15/zerox/LOTUS-42.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg", 
+    "type": "video", 
+    "id": "11424"
+  }, 
+  {
+    "group": "10238", 
+    "name": "iFilm", 
+    "url": "313?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/908/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10249"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Film4", 
+    "url": "plugin://plugin.video.israelive/?url=13&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/13/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10250"
+  }, 
+  {
+    "group": "10238", 
+    "name": "YesterFilm", 
+    "url": "plugin://plugin.video.israelive/?url=3419&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3419/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11486"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Campy Channel", 
+    "url": "plugin://plugin.video.israelive/?url=3083&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3083/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10251"
+  }, 
+  {
+    "group": "10238", 
+    "name": "The Western Channel", 
+    "url": "plugin://plugin.video.israelive/?url=384&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/384/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10252"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Banned Westerns", 
+    "url": "plugin://plugin.video.israelive/?url=2951&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2951/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10253"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Chillings", 
+    "url": "plugin://plugin.video.israelive/?url=2699&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2699/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10254"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Major Crimes", 
+    "url": "plugin://plugin.video.israelive/?url=3095&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3095/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10255"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Bloodzillathon", 
+    "url": "plugin://plugin.video.israelive/?url=2948&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2948/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10256"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Zombie Underworld", 
+    "url": "plugin://plugin.video.israelive/?url=3071&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3071/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10257"
+  }, 
+  {
+    "group": "10238", 
+    "name": "SciScape", 
+    "url": "plugin://plugin.video.israelive/?url=514&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/514/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "10258"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Alien (invasion) channel", 
+    "url": "plugin://plugin.video.israelive/?url=3122&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3122/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10259"
+  }, 
+  {
+    "group": "10238", 
+    "name": "FilmOn Horror Network", 
+    "url": "plugin://plugin.video.israelive/?url=1684&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1684/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10260"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Kung Fu Classics", 
+    "url": "plugin://plugin.video.israelive/?url=1967&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1967/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10261"
+  }, 
+  {
+    "group": "10238", 
+    "name": "Double Feature TV", 
+    "url": "plugin://plugin.video.israelive/?url=1693&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1693/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10262"
+  }
+]

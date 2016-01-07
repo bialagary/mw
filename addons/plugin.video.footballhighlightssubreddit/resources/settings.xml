@@ -1,0 +1,7 @@
+<settings>
+	<setting id="max_video_quality" type="enum" label="Maximum playback quality" values="360p|480p|720p|1080p" default="2"/>
+	<setting id="saved_searches_1" type="text" label="Saved searches (comma separated)" default="BBC Match of the Day,Uefa Champions League,Monday Night Football,Arsenal,Aston Villa,Bournemouth,Chelsea,Crystal Palace,Everton,Leicester,Liverpool,Man City,Man Utd,Newcastle,Norwich,Southampton,Stoke,Sunderland,Swansea,Tottenham,Watford,West Brom,West Ham,Revista de la Liga,MLS,Eredivisie,Ligue 1,Serie A,Football League Show,SPL,Rangers,Celtic"/>
+	<setting id="saved_searches_2" type="text" label="Saved searches (comma separated)" default=""/>
+	<setting id="saved_searches_3" type="text" label="Saved searches (comma separated)" default=""/>
+	<setting id="DASH" type="bool" label="Enable DASH videos" default="false"/>
+</settings>

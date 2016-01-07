@@ -1,0 +1,6 @@
+[B]v1.1.0 - Sept. 9, 2015[/B]
+    - changed path
+    - added lock and author link icons   
+
+[B]v1.0.0 - Aug. 21, 2015[/B]
+    - Initial release

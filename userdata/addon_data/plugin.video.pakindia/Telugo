@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+
+                        <rss version="2.0">
+
+		      	        <channel>
+
+						<title>Techxoul</title>
+
+						<link>http://store.techxoul.com/</link>
+
+						<description>http://store.techxoul.com/</description>
+
+						<language>en-us</language>
+
+						<pubDate>Wed, 29 Apr 2015 07:38:36 Wed, 29 Apr 2015 07:38:36 +0000 </pubDate>
+
+						<lastBuildDate>Wed, 29 Apr 2015 07:38:36 Wed, 29 Apr 2015 07:38:36 +0000 </lastBuildDate>
+
+						<docs>http://store.techxoul.com/</docs>
+
+						<image>
+
+					  <url>http://store.techxoul.com/images/flogo.png</url>
+
+					  <title>Techxoul PVT LTD</title>
+
+					  <link>http://store.techxoul.com/</link>
+
+					  <width>200</width> 
+
+					  <height>79</height>
+
+					</image>
+<item>
+
+					<app>Paid Apps</app>
+
+					<proSeq>0</proSeq>
+
+					<program_genre>Paid Channels</program_genre>
+
+					<program>Telugo</program>
+
+					<title>News 9 Telugu</title>
+
+					<description>news 9 telugu</description>
+
+					<pubDate>2015-01-29</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/outside/news9telugu/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Paid Apps</app>
+
+					<proSeq>0</proSeq>
+
+					<program_genre>Paid Channels</program_genre>
+
+					<program>Telugo</program>
+
+					<title>Tv 5 News</title>
+
+					<description>tv5 news</description>
+
+					<pubDate>2015-01-29</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/" />
+<youtubeUrl url="" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="" />
+<otherUrl url="http://techstream.dynns.com:1935/outside/tv5news/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item></channel></rss>

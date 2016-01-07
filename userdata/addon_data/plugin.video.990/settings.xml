@@ -1,0 +1,5 @@
+<settings>
+    <setting id="cacheExpire" value="120" />
+    <setting id="enableCache" value="false" />
+    <setting id="enableSub" value="false" />
+</settings>

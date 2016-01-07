@@ -1,0 +1,7 @@
+#LWP-Cookies-2.0
+Set-Cookie3: SESSION_1="wf_flowId%3D%3D%3Daccount.login%7Estage%3D%3D%3D7%7EflowId%3D%3D%3Daccount.login"; path="/"; domain=".wwe.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: appacc=wwe; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-07-23 21:19:22Z"; version=0
+Set-Cookie3: fprt="TGpLMnhyaEFZSFlZQ3FDc0kxNWNrOENtQzJ3PXwxNDM3NzcyNzYwMDczfGlwdD1lbWFpbC1wYXNzd29yZA%3D%3D"; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-07-23 21:19:22Z"; version=0
+Set-Cookie3: guid=0c6643e8f3b8c36199f9b507bc330467; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-07-23 21:19:22Z"; version=0
+Set-Cookie3: ipid=630942; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-07-23 21:19:22Z"; version=0
+Set-Cookie3: mai="parental_control_sw%3D%5BN%5D%2ClastName%3D%5BLiberman%5D%2CfirstName%3D%5BJeffrey%5D%2C_useruuid%3D%5B973b1d7c51a0e79a47aea2114a50cfca%5D"; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-07-23 21:19:22Z"; version=0

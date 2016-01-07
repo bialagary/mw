@@ -1,0 +1,31 @@
+1.0 - 21/08/15
+- First stage of live release.
+
+1.0.1 - 22/08/15
+- Fixed a possible Bug.
+
+1.0.2 - 26/08/15
+- Out of beta.
+
+1.0.3 - 13/09/15
+- Moved to new server.
+
+1.0.4 - 13/09/15
+- Fixed a possible Bug.
+
+1.0.5 - 11/10/15
+- Fixed a possible Bug.
+
+1.0.6 - 15/10/15
+- moved to new server.
+- Search other plugin`s added, Using the main search function - more to be added.
+- Search by imdb tag which can be user defined, pulsar or default genesis.
+- Youtube playlist`s now supported.
+- P2P catcher updated to plexus allowing list makers to use the <p2p> tag.
+- List maker`s can use imdb tag to call Genesis.
+
+1.0.7 - 24/10/15[/COLOR]
+- updated images.
+
+[B][COLOR lawngreen]1.0.8[/B] - 28/10/15[/COLOR]
+- fixed bug. sublinks now working.

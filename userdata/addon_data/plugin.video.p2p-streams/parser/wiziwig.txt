@@ -1,0 +1,1 @@
+{'url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/wiziwig.tar.gz', 'md5_url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/wiziwig.md5', 'md5': '13bc662feb6884130b8b8ca1bf7cc2be  wiziwig.tar.gz\n\n'}

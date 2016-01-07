@@ -1,0 +1,594 @@
+[
+  {
+    "group": "10608", 
+    "name": "iTELE", 
+    "url": "plugin://plugin.video.f4mTester/?url=http://hds_live_itv_aka-lh.akamaihd.net/z/itv_hds@179599/manifest.f4m?hdcore=2.11.3&g=NAPCTPXUXMHG", 
+    "image": "http://static.filmon.com/couch/channels/1726/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10611"
+  }, 
+  {
+    "group": "10608", 
+    "name": "iTELE", 
+    "url": "i-tele?mode=22", 
+    "image": "http://static.filmon.com/couch/channels/1726/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "12253"
+  }, 
+  {
+    "group": "10608", 
+    "name": "ARTE Fran", 
+    "url": "plugin://plugin.video.israelive/?url=1729&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/1729/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10612"
+  }, 
+  {
+    "group": "10608", 
+    "name": "ARTE Fran", 
+    "url": "http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8", 
+    "image": "http://passion-xbmc.org/fichiers_multimedia/upploadimages/images/1264891126-arte.png", 
+    "type": "video", 
+    "id": "10613"
+  }, 
+  {
+    "group": "10608", 
+    "name": "ARTE Fran", 
+    "url": "fr/3?mode=9", 
+    "image": "http://passion-xbmc.org/fichiers_multimedia/upploadimages/images/1264891126-arte.png", 
+    "type": "ignore", 
+    "id": "11568"
+  }, 
+  {
+    "group": "10608", 
+    "name": "ARTE Fran", 
+    "url": "arte?mode=19", 
+    "image": "http://passion-xbmc.org/fichiers_multimedia/upploadimages/images/1264891126-arte.png", 
+    "type": "video", 
+    "id": "12032"
+  }, 
+  {
+    "group": "10608", 
+    "name": "ARTE Fran", 
+    "url": "arte?mode=22", 
+    "image": "http://passion-xbmc.org/fichiers_multimedia/upploadimages/images/1264891126-arte.png", 
+    "type": "ignore", 
+    "id": "12250"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TV5MONDE EUROPE", 
+    "url": "plugin://plugin.video.israelive/?url=517&mode=1&&filmonmethod=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/517/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10614"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TV5MONDE EUROPE", 
+    "url": "izle/tv-5-monde?mode=12", 
+    "image": "http://static.filmon.com/couch/channels/517/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11871"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TV5MONDE EUROPE", 
+    "url": "fr/12?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/517/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11569"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TV5MONDE EUROPE", 
+    "url": "tv5-hd?mode=22", 
+    "image": "http://static.filmon.com/couch/channels/517/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "12301"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France o", 
+    "url": "plugin://plugin.video.israelive/?url=3884&mode=1", 
+    "image": "http://static.francetv.fr/arches/franceo/default/img/og-image.jpg?20150823", 
+    "type": "video", 
+    "id": "12386"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France o", 
+    "url": "france-o-live?mode=19", 
+    "image": "http://static.francetv.fr/arches/franceo/default/img/og-image.jpg?20150823", 
+    "type": "video", 
+    "id": "12035"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France o", 
+    "url": "france-o?mode=22", 
+    "image": "http://static.francetv.fr/arches/franceo/default/img/og-image.jpg?20150823", 
+    "type": "ignore", 
+    "id": "12260"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 2", 
+    "url": "plugin://plugin.video.israelive/?url=1717&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/1717/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11330"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 2", 
+    "url": "france-2-live?mode=19", 
+    "image": "http://static.filmon.com/couch/channels/1717/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11552"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 2", 
+    "url": "fr/5?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/1717/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11989"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 2", 
+    "url": "france-2-direct?mode=22", 
+    "image": "http://static.filmon.com/couch/channels/1717/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "12243"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 3", 
+    "url": "plugin://plugin.video.israelive/?url=1723&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/1723/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11331"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 3", 
+    "url": "france-3-live?mode=19", 
+    "image": "http://static.filmon.com/couch/channels/1723/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11555"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 3", 
+    "url": "fr/6?mode=9", 
+    "image": "http://static.filmon.com/couch/channels/1723/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11570"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 3", 
+    "url": "france-3-live?mode=22", 
+    "image": "http://static.filmon.com/couch/channels/1723/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "12246"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 3 Rhone", 
+    "url": "plugin://plugin.video.israelive/?url=3890&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1723/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12388"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 3 Alpes", 
+    "url": "plugin://plugin.video.israelive/?url=3893&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1723/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12389"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 4", 
+    "url": "plugin://plugin.video.israelive/?url=3905&mode=1", 
+    "image": "http://static.francetv.fr/arches/france4/default/img/og-image.jpg", 
+    "type": "video", 
+    "id": "12390"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 4", 
+    "url": "fr/18?mode=9", 
+    "image": "http://static.francetv.fr/arches/france4/default/img/og-image.jpg", 
+    "type": "ignore", 
+    "id": "11575"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 4", 
+    "url": "france-4-live?mode=19", 
+    "image": "http://static.francetv.fr/arches/france4/default/img/og-image.jpg", 
+    "type": "video", 
+    "id": "12029"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 4", 
+    "url": "france-4?mode=22", 
+    "image": "http://static.francetv.fr/arches/france4/default/img/og-image.jpg", 
+    "type": "ignore", 
+    "id": "12266"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 5", 
+    "url": "plugin://plugin.video.israelive/?url=1720&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1720/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11332"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 5", 
+    "url": "france-5-live?mode=19", 
+    "image": "http://static.filmon.com/couch/channels/1720/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11553"
+  }, 
+  {
+    "group": "10608", 
+    "name": "France 5", 
+    "url": "france-5-live?mode=22", 
+    "image": "http://static.filmon.com/couch/channels/1720/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "12249"
+  }, 
+  {
+    "group": "10608", 
+    "name": "Gulli", 
+    "url": "fr/20?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/archive/a/a1/20130313220030!Gulli_Logo.png", 
+    "type": "ignore", 
+    "id": "11571"
+  }, 
+  {
+    "group": "10608", 
+    "name": "Gulli", 
+    "url": "gulli?mode=19", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/archive/a/a1/20130313220030!Gulli_Logo.png", 
+    "type": "video", 
+    "id": "12033"
+  }, 
+  {
+    "group": "10608", 
+    "name": "W9", 
+    "url": "fr/22?mode=9", 
+    "image": "http://img4.wikia.nocookie.net/__cb20110904184902/logopedia/images/8/86/W9_2010.png", 
+    "type": "ignore", 
+    "id": "11572"
+  }, 
+  {
+    "group": "10608", 
+    "name": "W9", 
+    "url": "w9-live?mode=19", 
+    "image": "http://img4.wikia.nocookie.net/__cb20110904184902/logopedia/images/8/86/W9_2010.png", 
+    "type": "video", 
+    "id": "12031"
+  }, 
+  {
+    "group": "10608", 
+    "name": "W9", 
+    "url": "w9-live?mode=22", 
+    "image": "http://img4.wikia.nocookie.net/__cb20110904184902/logopedia/images/8/86/W9_2010.png", 
+    "type": "ignore", 
+    "id": "12245"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TF1", 
+    "url": "tf1-live?mode=19", 
+    "image": "http://img2.wikia.nocookie.net/__cb20130929160901/logopedia/images/archive/d/d7/20150110062303!TF1_HD_(2013).png", 
+    "type": "video", 
+    "id": "11550"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TF1", 
+    "url": "fr/11?mode=9", 
+    "image": "http://img2.wikia.nocookie.net/__cb20130929160901/logopedia/images/archive/d/d7/20150110062303!TF1_HD_(2013).png", 
+    "type": "ignore", 
+    "id": "11573"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TF1", 
+    "url": "tf1?mode=22", 
+    "image": "http://img2.wikia.nocookie.net/__cb20130929160901/logopedia/images/archive/d/d7/20150110062303!TF1_HD_(2013).png", 
+    "type": "ignore", 
+    "id": "12240"
+  }, 
+  {
+    "group": "10608", 
+    "name": "M6", 
+    "url": "m6-live?mode=19", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a8/M6-tv-logo.png/150px-M6-tv-logo.png", 
+    "type": "video", 
+    "id": "11551"
+  }, 
+  {
+    "group": "10608", 
+    "name": "M6", 
+    "url": "fr/10?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a8/M6-tv-logo.png/150px-M6-tv-logo.png", 
+    "type": "ignore", 
+    "id": "11574"
+  }, 
+  {
+    "group": "10608", 
+    "name": "M6", 
+    "url": "m6-live?mode=22", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/thumb/a/a8/M6-tv-logo.png/150px-M6-tv-logo.png", 
+    "type": "ignore", 
+    "id": "12242"
+  }, 
+  {
+    "group": "10608", 
+    "name": "D8", 
+    "url": "fr/16?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/4/45/Logo_D8.png", 
+    "type": "ignore", 
+    "id": "11576"
+  }, 
+  {
+    "group": "10608", 
+    "name": "D8", 
+    "url": "d8-live?mode=19", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/4/45/Logo_D8.png", 
+    "type": "video", 
+    "id": "12030"
+  }, 
+  {
+    "group": "10608", 
+    "name": "D8", 
+    "url": "d8-live?mode=22", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/4/45/Logo_D8.png", 
+    "type": "ignore", 
+    "id": "12244"
+  }, 
+  {
+    "group": "10608", 
+    "name": "D17", 
+    "url": "d17-live?mode=19", 
+    "image": "https://yt3.ggpht.com/-FnDEcZjdqDY/AAAAAAAAAAI/AAAAAAAAAAA/mdd3wN4l-bI/s900-c-k-no/photo.jpg", 
+    "type": "video", 
+    "id": "12034"
+  }, 
+  {
+    "group": "10608", 
+    "name": "D17", 
+    "url": "d17?mode=22", 
+    "image": "https://yt3.ggpht.com/-FnDEcZjdqDY/AAAAAAAAAAI/AAAAAAAAAAA/mdd3wN4l-bI/s900-c-k-no/photo.jpg", 
+    "type": "ignore", 
+    "id": "12255"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTL9", 
+    "url": "fr/26?mode=9", 
+    "image": "http://blog.lenodal.com/uploads/rtl9-logo2011.png", 
+    "type": "ignore", 
+    "id": "11888"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTL9", 
+    "url": "izle/rtl-9?mode=12", 
+    "image": "http://blog.lenodal.com/uploads/rtl9-logo2011.png", 
+    "type": "ignore", 
+    "id": "12057"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTL9", 
+    "url": "rtl9?mode=22", 
+    "image": "http://blog.lenodal.com/uploads/rtl9-logo2011.png", 
+    "type": "ignore", 
+    "id": "12252"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTS Un", 
+    "url": "plugin://plugin.video.israelive/?url=3911&mode=1", 
+    "image": "http://www.les-cles-du-plaisir-a-la-course-a-pied.ch/img/logo-rts-un.png", 
+    "type": "video", 
+    "id": "12392"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTS Un", 
+    "url": "fr/1?mode=9", 
+    "image": "http://www.les-cles-du-plaisir-a-la-course-a-pied.ch/img/logo-rts-un.png", 
+    "type": "ignore", 
+    "id": "11589"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTS Un", 
+    "url": "rts-un-live?mode=19", 
+    "image": "http://www.les-cles-du-plaisir-a-la-course-a-pied.ch/img/logo-rts-un.png", 
+    "type": "video", 
+    "id": "12036"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTS Deux", 
+    "url": "plugin://plugin.video.israelive/?url=3914&mode=1", 
+    "image": "http://www.frosat.net/images/logotv/original/rts-deux-hd.jpg", 
+    "type": "video", 
+    "id": "12393"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTS Deux", 
+    "url": "fr/2?mode=9", 
+    "image": "http://www.frosat.net/images/logotv/original/rts-deux-hd.jpg", 
+    "type": "ignore", 
+    "id": "11590"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RTS Deux", 
+    "url": "rts-deux-live?mode=19", 
+    "image": "http://www.frosat.net/images/logotv/original/rts-deux-hd.jpg", 
+    "type": "video", 
+    "id": "12037"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TVM Est Parisien", 
+    "url": "rtmp://rtmp.infomaniak.ch/livecast playpath=cineplume swfUrl=http://static.infomaniak.ch/livetv/player-v3.swf?cfg=http://static.infomaniak.ch/configvideo/cineplume/tvm/359_config.xml pageUrl=http://www.playtv.fr/television/#tvm-est-parisien swfVfy=true live=true", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "10618"
+  }, 
+  {
+    "group": "10608", 
+    "name": "Correze TV", 
+    "url": "rtmp://www.correzetelevision.fr/playlist/ pageUrl=http://livetvstreaming.ucoz.com live=1 playpath=webtv", 
+    "image": "", 
+    "type": "video", 
+    "id": "10619"
+  }, 
+  {
+    "group": "10608", 
+    "name": "YVELINES TV", 
+    "url": "rtmp://rtmp.infomaniak.ch/livecast/yveline1", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "10620"
+  }, 
+  {
+    "group": "10608", 
+    "name": "LATELE", 
+    "url": "rtsp://rtmp.infomaniak.ch:1935/livecast/latele", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "10622"
+  }, 
+  {
+    "group": "10608", 
+    "name": "teleclub", 
+    "url": "http://teleclub.fr/club1.mp4", 
+    "image": "", 
+    "type": "video", 
+    "id": "10623"
+  }, 
+  {
+    "group": "10608", 
+    "name": "Rouge TV French", 
+    "url": "rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true", 
+    "image": "http://www.lyngsat-logo.com/logo/tv/rr/rouge_tv.jpg", 
+    "type": "video", 
+    "id": "10348"
+  }, 
+  {
+    "group": "10608", 
+    "name": "WEO", 
+    "url": "rtmp://str81.creacast.com:80/weo playpath=high swfUrl=http://www.tvlizer.com/live47/player.swf pageUrl=http://www.tvlizer.com/weo-tv-fra/", 
+    "image": "http://www.tv14.net/wp-content/uploads/2010/06/Weo-TV.gif", 
+    "type": "video", 
+    "id": "11310"
+  }, 
+  {
+    "group": "10608", 
+    "name": "national geographic", 
+    "url": "national-geographic?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12241"
+  }, 
+  {
+    "group": "10608", 
+    "name": "national geographic wild", 
+    "url": "nature-hd?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12251"
+  }, 
+  {
+    "group": "10608", 
+    "name": "TMC", 
+    "url": "tmc?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12247"
+  }, 
+  {
+    "group": "10608", 
+    "name": "nrj12", 
+    "url": "nrj-12?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12248"
+  }, 
+  {
+    "group": "10608", 
+    "name": "RMC DECOUVERTE", 
+    "url": "rmc?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12256"
+  }, 
+  {
+    "group": "10608", 
+    "name": "6TER", 
+    "url": "6ter?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12257"
+  }, 
+  {
+    "group": "10608", 
+    "name": "NT1", 
+    "url": "nt1?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12259"
+  }, 
+  {
+    "group": "10608", 
+    "name": "L'équipe 21", 
+    "url": "l-equipe-21?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12262"
+  }, 
+  {
+    "group": "10608", 
+    "name": "HD1", 
+    "url": "hd1?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12265"
+  }, 
+  {
+    "group": "10608", 
+    "name": "Discovery Channel", 
+    "url": "discovery?mode=22", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12300"
+  }, 
+  {
+    "group": "10608", 
+    "name": "LCP", 
+    "url": "plugin://plugin.video.israelive/?url=3887&mode=1", 
+    "image": "", 
+    "type": "video", 
+    "id": "12387"
+  }
+]

@@ -1,0 +1,6 @@
+<settings>
+<category label="Account">
+<setting id="enable_trakt" type="bool" label="Enable Trakt Watchlist:" default="false" />
+<setting id="username" type="text" label="Trakt Username:" default="Enter your trakt username" enable="eq(-1,true)" />
+</category>
+</settings>

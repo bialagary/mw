@@ -1,0 +1,6 @@
+<settings>
+<category label="General">
+<setting id="custom_url" type="labelenum" label="URL" default="http://www.free-tv-video-online.me/" values="Custom|http://www.free-tv-video-online.me/|http://pftv.uncensor.co.uk/" />
+<setting id="custom_text_url" type="text" label="     Custom" default="" enable="eq(-1,0)" />
+</category>
+</settings>

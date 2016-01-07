@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+
+                        <rss version="2.0">
+
+		      	        <channel>
+
+						<title>Techxoul</title>
+
+						<link>http://store.techxoul.com/</link>
+
+						<description>http://store.techxoul.com/</description>
+
+						<language>en-us</language>
+
+						<pubDate>Sun, 03 May 2015 05:12:26 Sun, 03 May 2015 05:12:26 +0000 </pubDate>
+
+						<lastBuildDate>Sun, 03 May 2015 05:12:26 Sun, 03 May 2015 05:12:26 +0000 </lastBuildDate>
+
+						<docs>http://store.techxoul.com/</docs>
+
+						<image>
+
+					  <url>http://store.techxoul.com/images/flogo.png</url>
+
+					  <title>Techxoul PVT LTD</title>
+
+					  <link>http://store.techxoul.com/</link>
+
+					  <width>200</width> 
+
+					  <height>79</height>
+
+					</image>
+<item>
+
+					<app>Footy</app>
+
+					<proSeq>0</proSeq>
+
+					<program_genre>live</program_genre>
+
+					<program>world cup</program>
+
+					<title>IPL 2015</title>
+
+					<description>haha</description>
+
+					<pubDate>2015-02-08</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/587524833eaf98eb779a387e33768c6aworldcuplogo.png" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/587524833eaf98eb779a387e33768c6aworldcuplogo.png" />
+<youtubeUrl url="?wmsAuthSign=" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="http://adstreams.dynns.com/token_login_new.php" />
+<otherUrl url="http://cric.dynns.com:1935/sports/sonysix/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Footy</app>
+
+					<proSeq>1</proSeq>
+
+					<program_genre>live</program_genre>
+
+					<program>world cup</program>
+
+					<title>Star Sports 1</title>
+
+					<description>haha</description>
+
+					<pubDate>2015-02-08</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/" />
+<youtubeUrl url="?wmsAuthSign=" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="http://adstreams.dynns.com/token_login_new.php" />
+<otherUrl url="http:/cric.dynns.com:1935/sports/starsports1233/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Footy</app>
+
+					<proSeq>2</proSeq>
+
+					<program_genre>live</program_genre>
+
+					<program>world cup</program>
+
+					<title>Star Sports 2</title>
+
+					<description>haha</description>
+
+					<pubDate>2015-02-08</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/" />
+<youtubeUrl url="?wmsAuthSign=" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="http://adstreams.dynns.com/token_login_new.php" />
+<otherUrl url="http:/cric.dynns.com:1935/sports/starsports2233/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Footy</app>
+
+					<proSeq>3</proSeq>
+
+					<program_genre>live</program_genre>
+
+					<program>world cup</program>
+
+					<title>Star Sports 3</title>
+
+					<description>haha</description>
+
+					<pubDate>2015-02-08</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/" />
+<youtubeUrl url="?wmsAuthSign=" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="http://adstreams.dynns.com/token_login_new.php" />
+<otherUrl url="http:/cric.dynns.com:1935/sports/starsports3233/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item><item>
+
+					<app>Footy</app>
+
+					<proSeq>4</proSeq>
+
+					<program_genre>live</program_genre>
+
+					<program>world cup</program>
+
+					<title>Starsports 4</title>
+
+					<description>haha</description>
+
+					<pubDate>2015-02-08</pubDate>
+<smallImage url="http://adstreams.dynns.com/apps/prog_data/thumbs/" />
+<largeImage url="http://adstreams.dynns.com/apps/prog_data/medium/" />
+<youtubeUrl url="?wmsAuthSign=" />
+<dailyMotionUrl url="" />
+<tunePkUrl url="http://adstreams.dynns.com/token_login_new.php" />
+<otherUrl url="http:/cric.dynns.com:1935/sports/starsports4233/playlist.m3u8" />
+<localUrl1 url="" />
+<localUrl2 url="" /></item></channel></rss>

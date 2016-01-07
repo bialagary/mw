@@ -1,0 +1,690 @@
+[
+  {
+    "group": "10277", 
+    "name": "MTV HITS", 
+    "url": "mtv-hits-tv-online?mode=25", 
+    "image": "http://www.1000tvchannel.com/media/channel_images/2013/06/05/MTV_HITS.jpg", 
+    "type": "video", 
+    "id": "12297"
+  }, 
+  {
+    "group": "10277", 
+    "name": "VH1 Classic", 
+    "url": "vh1-classic-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12298"
+  }, 
+  {
+    "group": "10277", 
+    "name": "VH1 Europe", 
+    "url": "vh1-russia-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12299"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Retro music TV", 
+    "url": "rtmp://stream.mediawork.cz/retrotv/ playpath=retrotvHQ1 swfUrl=http://vjs.zencdn.net/4.10/video-js.swf pageUrl=http://www.retromusic.cz/index.php?language=en", 
+    "image": "http://files.dvb-s.webnode.com/200000463-82105830a6/retro_music_tv.jpg", 
+    "type": "video", 
+    "id": "12105"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Ocko Gold", 
+    "url": "rtmp://194.79.52.76/goldi/ playpath=goldHQ2 swfUrl=http://ocko.tv/shared/player/embed/playerLiveStatsNew_ockoGold_col_ffaa01_build_1.swf?17142 pageUrl=http://ocko.tv/ocko-gold/", 
+    "image": "http://www.ktct.cz/files/images/loga/ocko-gold.jpg", 
+    "type": "video", 
+    "id": "12120"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Ocko Expres", 
+    "url": "rtmp://194.79.52.77/expresi/ playpath=expresHQ2 swfUrl=http://ocko.tv/shared/player/embed/playerLiveStatsNew_ockoExpres2darkRed_col_920000_build_1.swf?26758 pageUrl=http://ocko.tv/ocko-expres/", 
+    "image": "http://ocko.tv/content/www/annotations/logoockoexpres-web-jak-nas-naladite-1375816278.jpg", 
+    "type": "video", 
+    "id": "12121"
+  }, 
+  {
+    "group": "10277", 
+    "name": "ONE By SD", 
+    "url": "rtmp://rtmp.one.by/SD/ playpath=1muz swfUrl=http://stream.one.by/jw/jwplayer.flash.swf pageUrl=http://stream.one.by/", 
+    "image": "", 
+    "type": "video", 
+    "id": "12092"
+  }, 
+  {
+    "group": "10277", 
+    "name": "ONE By HD 1080P", 
+    "url": "http://rtmp.one.by:1300/", 
+    "image": "", 
+    "type": "video", 
+    "id": "12090"
+  }, 
+  {
+    "group": "10277", 
+    "name": "ONE By UHD 2160P 4K", 
+    "url": "http://rtmp.one.by:1400/", 
+    "image": "", 
+    "type": "video", 
+    "id": "12091"
+  }, 
+  {
+    "group": "10277", 
+    "name": "One By RUSSIA HD 720P", 
+    "url": "http://rtmp.one.by:2300/", 
+    "image": "", 
+    "type": "video", 
+    "id": "12093"
+  }, 
+  {
+    "group": "10277", 
+    "name": "O2 HD 720P", 
+    "url": "http://live.cache.eaglecdn.com/stream/o2tv/amlst:translation_meta_10787/index.m3u8", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12094"
+  }, 
+  {
+    "group": "10277", 
+    "name": "cityTV", 
+    "url": "http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/live.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12099"
+  }, 
+  {
+    "group": "10277", 
+    "name": "A-ONE", 
+    "url": "http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8", 
+    "image": "http://freerutube.com/wp-content/uploads/2012/12/a-one-online.jpg", 
+    "type": "video", 
+    "id": "10278"
+  }, 
+  {
+    "group": "10277", 
+    "name": "A-ONE", 
+    "url": "http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8", 
+    "image": "http://freerutube.com/wp-content/uploads/2012/12/a-one-online.jpg", 
+    "type": "ignore", 
+    "id": "10279"
+  }, 
+  {
+    "group": "10277", 
+    "name": "MTV UK", 
+    "url": "rtmp://83.218.202.202/live swfUrl=http://webtv.md/swf/WebTV.swf playpath=wt_mtv.stream", 
+    "image": "", 
+    "type": "video", 
+    "id": "11481"
+  }, 
+  {
+    "group": "10277", 
+    "name": "gotv music", 
+    "url": "rtmp://stream007.gotv.at:1935/live playpath=gotvlive_source swfUrl=http://www.gotv.at/stream/flowplayer/flowplayer-3.2.18.swf pageUrl=http://www.gotv.at/stream/?format=_source", 
+    "image": "https://www.wownet.ro/logo/0126.png", 
+    "type": "video", 
+    "id": "11958"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Classic Arts Showcase", 
+    "url": "plugin://plugin.video.israelive/?url=309&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/309/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10298"
+  }, 
+  {
+    "group": "10277", 
+    "name": "The Soundtrack Channel", 
+    "url": "plugin://plugin.video.israelive/?url=350&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/350/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10299"
+  }, 
+  {
+    "group": "10277", 
+    "name": "THE COOL TV", 
+    "url": "plugin://plugin.video.israelive/?url=272&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/272/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "10300"
+  }, 
+  {
+    "group": "10277", 
+    "name": "JBTV", 
+    "url": "plugin://plugin.video.israelive/?url=2999&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2999/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10301"
+  }, 
+  {
+    "group": "10277", 
+    "name": "BLISS", 
+    "url": "uk/24?mode=9", 
+    "image": "http://www.stream2watch.com/images/thumbs/bliss_uk%20live%20stream.png", 
+    "type": "ignore", 
+    "id": "11500"
+  }, 
+  {
+    "group": "10277", 
+    "name": "FLAVA", 
+    "url": "uk/19?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/3/31/Flava_TV_logo.png", 
+    "type": "ignore", 
+    "id": "11501"
+  }, 
+  {
+    "group": "10277", 
+    "name": "IConcerts", 
+    "url": "uk/20?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/6/61/Logo_iConcerts.png", 
+    "type": "ignore", 
+    "id": "11502"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Chilled", 
+    "url": "CHIL_1BR?mode=7", 
+    "image": "http://www.weareshameless.com/wp-content/uploads/2015/09/rsz_chilled_plane_ident.jpg", 
+    "type": "ignore", 
+    "id": "10302"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Chilled", 
+    "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=CHIL_1BR&type=live&service=wowza&protocol=http&output=playlist.m3u8", 
+    "image": "http://www.weareshameless.com/wp-content/uploads/2015/09/rsz_chilled_plane_ident.jpg", 
+    "type": "ignore", 
+    "id": "11611"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Planet POP", 
+    "url": "uk/22?mode=9", 
+    "image": "http://www.musicweek.com/cimages/99aafad55a27480326ff9e49902742ef.jpg", 
+    "type": "ignore", 
+    "id": "11499"
+  }, 
+  {
+    "group": "10277", 
+    "name": "NOW THATS WHAT I CALL MUSIC", 
+    "url": "nowmusic?mode=7", 
+    "image": "http://www.broadbandtvnews.com/wp-content/uploads/2013/10/NOW-MUSIC-300x211.jpg", 
+    "type": "ignore", 
+    "id": "10303"
+  }, 
+  {
+    "group": "10277", 
+    "name": "NOW THATS WHAT I CALL MUSIC", 
+    "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8", 
+    "image": "http://www.broadbandtvnews.com/wp-content/uploads/2013/10/NOW-MUSIC-300x211.jpg", 
+    "type": "ignore", 
+    "id": "11610"
+  }, 
+  {
+    "group": "10277", 
+    "name": "AKA", 
+    "url": "akanew?mode=7", 
+    "image": "http://www.astra2sat.com/wp-content/uploads/channel-aka.jpg", 
+    "type": "ignore", 
+    "id": "10304"
+  }, 
+  {
+    "group": "10277", 
+    "name": "AKA", 
+    "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&output=playlist.m3u8", 
+    "image": "http://www.astra2sat.com/wp-content/uploads/channel-aka.jpg", 
+    "type": "ignore", 
+    "id": "11612"
+  }, 
+  {
+    "group": "10277", 
+    "name": "CLUBLAND", 
+    "url": "clublandtv?mode=7", 
+    "image": "http://www.mediauk.com/logos/100/344206.png", 
+    "type": "ignore", 
+    "id": "10305"
+  }, 
+  {
+    "group": "10277", 
+    "name": "CLUBLAND", 
+    "url": "http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8", 
+    "image": "http://www.mediauk.com/logos/100/344206.png", 
+    "type": "ignore", 
+    "id": "11609"
+  }, 
+  {
+    "group": "10277", 
+    "name": "CAPITAL TV", 
+    "url": "http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on", 
+    "image": "http://www.thisisglobal.com/wp-content/uploads/2012/10/Capital-TV-430x160.png", 
+    "type": "video", 
+    "id": "10306"
+  }, 
+  {
+    "group": "10277", 
+    "name": "CAPITAL TV", 
+    "url": "uk/25?mode=9", 
+    "image": "http://www.thisisglobal.com/wp-content/uploads/2012/10/Capital-TV-430x160.png", 
+    "type": "ignore", 
+    "id": "11497"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Heart TV", 
+    "url": "http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on", 
+    "image": "http://4.bp.blogspot.com/-uB91vxe1PS8/UbTZ5Ada0rI/AAAAAAAAAsI/VWRa6har84E/w200/1.png", 
+    "type": "video", 
+    "id": "10307"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Heart TV", 
+    "url": "uk/21?mode=9", 
+    "image": "http://4.bp.blogspot.com/-uB91vxe1PS8/UbTZ5Ada0rI/AAAAAAAAAsI/VWRa6har84E/w200/1.png", 
+    "type": "ignore", 
+    "id": "11496"
+  }, 
+  {
+    "group": "10277", 
+    "name": "THE BOX UK", 
+    "url": "uk/23?mode=9", 
+    "image": "http://www.specialeffects.uk.com/communities/9/004/008/213/639/images/4536665957.jpg", 
+    "type": "ignore", 
+    "id": "10308"
+  }, 
+  {
+    "group": "10277", 
+    "name": "1music.ro", 
+    "url": "http://www.livestream.com/1_music_channel/?mode=3", 
+    "image": "http://upload.wikimedia.org/wikipedia/ro/e/e4/1music.jpg", 
+    "type": "video", 
+    "id": "10314"
+  }, 
+  {
+    "group": "10277", 
+    "name": "1HD", 
+    "url": "rtmp://109.239.142.62/live/livestream3", 
+    "image": "http://pr.adcontext.net/files2/Logo_from_vk.png", 
+    "type": "ignore", 
+    "id": "11320"
+  }, 
+  {
+    "group": "10277", 
+    "name": "StarsTV", 
+    "url": "http://starstv-live.e55-po.insyscd.net/starstv.isml/manifest(format=m3u8-aapl).m3u8", 
+    "image": "http://media2.pl/g/0/31809.jpg", 
+    "type": "ignore", 
+    "id": "10316"
+  }, 
+  {
+    "group": "10277", 
+    "name": "MTV Switzerland", 
+    "url": "ch/19?mode=9", 
+    "image": "https://revistainsomnia.files.wordpress.com/2010/01/logo-mtv.jpg", 
+    "type": "ignore", 
+    "id": "11503"
+  }, 
+  {
+    "group": "10277", 
+    "name": "MAD CY", 
+    "url": "rtmp://eradio.networksolutions.com.cy/live/ playpath=livestream swfUrl=http://jwplayer.mediaserve.com/player.swf pageUrl=http://madtv.networksolutions.com.cy/player/", 
+    "image": "http://www.kathimerini.com.cy/assets/modules/kat/articles/201112/68811/images/det__new_site_main_1309529616.jpg", 
+    "type": "video", 
+    "id": "11634"
+  }, 
+  {
+    "group": "10277", 
+    "name": "4fun.tv", 
+    "url": "rtmp://153.19.248.4:1935/publishlive?play=123452 playpath=4funtv swfUrl=http://images.popler.tv/player/flowplayer.commercial.swf pageUrl=http://www.popler.tv/4funtv", 
+    "image": "http://www.4funmedia.pl/pub/uploadimages/gtx/3_2014-11-25_4fun.tv2014.jpg", 
+    "type": "video", 
+    "id": "10339"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Tuba TV", 
+    "url": "rtmp://fms.gazeta.pl/aglive/tuba_tv playpath=tuba_tv swfUrl=http://bi.gazeta.pl/im/Player.swf pageUrl=http://www.megawypas.pl/readarticle.php?article_id=358  live=true swfVfy=true", 
+    "image": "http://hd-opinie.pl/wp-content/uploads/2012/05/tuba-tv-icon-200x162.png", 
+    "type": "video", 
+    "id": "10317"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Vox olds cool TV", 
+    "url": "rtmp://stream.smcloud.net/live2/vox/vox_360p", 
+    "image": "http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg", 
+    "type": "video", 
+    "id": "10318"
+  }, 
+  {
+    "group": "10277", 
+    "name": "music Vox TV", 
+    "url": "rtmp://stream.smcloud.net/live/vox2/stream1", 
+    "image": "http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg", 
+    "type": "video", 
+    "id": "10319"
+  }, 
+  {
+    "group": "10277", 
+    "name": "eska rock", 
+    "url": "rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p", 
+    "image": "http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg", 
+    "type": "video", 
+    "id": "10320"
+  }, 
+  {
+    "group": "10277", 
+    "name": "eska polo", 
+    "url": "rtmp://stream.smcloud.net/live/polotv", 
+    "image": "http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg", 
+    "type": "video", 
+    "id": "10321"
+  }, 
+  {
+    "group": "10277", 
+    "name": "eska party", 
+    "url": "rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p", 
+    "image": "http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg", 
+    "type": "video", 
+    "id": "10322"
+  }, 
+  {
+    "group": "10277", 
+    "name": "eska best Music", 
+    "url": "rtmp://stream.smcloud.net/live2/best/best_360p", 
+    "image": "http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg", 
+    "type": "video", 
+    "id": "10323"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Eska Tv", 
+    "url": "rtmp://stream.smcloud.net/live/eskatv", 
+    "image": "http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg", 
+    "type": "video", 
+    "id": "10324"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Eska Wawa TV Polska", 
+    "url": "rtmp://stream.smcloud.net/live2/wawa/wawa_360p", 
+    "image": "http://www.mediagroupinfo.pl/uploads/Hiphop-wraca-do-muzycznych-TV.-Od-teraz-w-Eska-TV-300x169.jpg", 
+    "type": "video", 
+    "id": "10325"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Clubbing TV", 
+    "url": "plugin://plugin.video.israelive/?url=691&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/691/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10326"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Clubbing TV", 
+    "url": "http://46.249.213.87/iPhone/HLS_TS/broadcast/clubbingtv-tablet.3gp/clubbingtv-tablet.3gp-mr648k.m3u8?trackingid=3011270000&os=desktop", 
+    "image": "http://static.filmon.com/couch/channels/691/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "11458"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Clubbing TV", 
+    "url": "play?mode=17", 
+    "image": "http://static.filmon.com/couch/channels/691/extra_big_logo.png", 
+    "type": "video", 
+    "id": "12022"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Djing HotHotHot", 
+    "url": "http://cdn.djing.com/tv/h-05.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10327"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Djing Underground", 
+    "url": "http://cdn.djing.com/tv/u-05.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10328"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Virgin TV", 
+    "url": "http://wow01.105.net/live/virgin1/playlist.m3u8", 
+    "image": "http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png", 
+    "type": "video", 
+    "id": "10329"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Virgin TV", 
+    "url": "rtmp://fms.105.net:1935/live/ playpath=virgin1 swfUrl=http://www.widih.org/player.swf pageUrl=http://www.widih.org/watch-tv/357/virgin-1 live=1 timeout=10", 
+    "image": "http://www.lyngsat-logo.com/hires/vv/virgin_1_plus1.png", 
+    "type": "video", 
+    "id": "12108"
+  }, 
+  {
+    "group": "10277", 
+    "name": "m2o TV", 
+    "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png", 
+    "type": "video", 
+    "id": "10330"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Radio 105 TV", 
+    "url": "rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf live=1 timeout=10", 
+    "image": "http://www.105.net/gfx/lgo/radio-105-network.png", 
+    "type": "video", 
+    "id": "10331"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Supersonic TV", 
+    "url": "rtmp://str103.setplex.net:1935/228 playpath=stv_online swfUrl=http://online.super-sonic.tv/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://online.super-sonic.tv/tv-live/", 
+    "image": "http://www.lyngsat-logo.com/hires/ss/supersonic_tv_al.png", 
+    "type": "video", 
+    "id": "11324"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Amazing", 
+    "url": "http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2", 
+    "image": "http://www.amazingtv.pl/resources/public/multimedia/css/_common/image/template/logo.png", 
+    "type": "video", 
+    "id": "11325"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Europa Plus TV", 
+    "url": "rtmp://europaplus.cdnvideo.ru/europaplus/hires_eptv_main.sdp?md5=OWDcbbm7AiuytCL2KNp9Og&amp;e=1450254349", 
+    "image": "http://www.europaplustv.com/index_files/logo.png", 
+    "type": "ignore", 
+    "id": "10332"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Europa Plus TV", 
+    "url": "rtmp://83.218.202.202/live playpath=wt_europa_plus.stream swfUrl=http://webtv.md/swf/WebTV.swf pageUrl=http://webtv.md/view_channel.jsp?id=180&url=http%3A//webtv.md/content/emblemas/wt_europa_plus.stream.jpg", 
+    "image": "http://www.europaplustv.com/index_files/logo.png", 
+    "type": "video", 
+    "id": "12398"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Kiss TV", 
+    "url": "rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/ playpath=live swfUrl=http://www.kisstelevision.es/flowplayer-3.2.16.swf pageUrl=http://www.kisstelevision.es/", 
+    "image": "http://upload.wikimedia.org/wikipedia/ro/7/77/KissTV_nou.jpg", 
+    "type": "video", 
+    "id": "10334"
+  }, 
+  {
+    "group": "10277", 
+    "name": "RMC", 
+    "url": "rtmp://fms.105.net:1935/live/rmc2", 
+    "image": "http://video.radiomontecarlo.net/images/rmc/logo_rmcvideo.gif", 
+    "type": "video", 
+    "id": "10335"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Deluxe TV", 
+    "url": "220?mode=6", 
+    "image": "http://www.dwdl.de/images/1327401031.jpg", 
+    "type": "video", 
+    "id": "10337"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Deluxe TV", 
+    "url": "de/38?mode=9", 
+    "image": "http://www.dwdl.de/images/1327401031.jpg", 
+    "type": "ignore", 
+    "id": "11505"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Deluxe TV", 
+    "url": "deutsch/deluxemusic?mode=4", 
+    "image": "http://www.dwdl.de/images/1327401031.jpg", 
+    "type": "video", 
+    "id": "12071"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Music Box Russia", 
+    "url": "rtmp://musicbox.cdnvideo.ru:1935/musicbox playpath=musicbox.sdp swfUrl=http://www.aloha.cdnvideo.ru/aloha/slon/SlonPlayer_adv.swf pageUrl=http://www.russianmusicbox.tv/", 
+    "image": "http://www.abload.de/img/musicv0pjo.png", 
+    "type": "video", 
+    "id": "10343"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Music Box Ukraine", 
+    "url": "rtmp://212.26.132.86/live/ playpath=mb_ua swfUrl=http://radio.adamant.ua/video-js/video-js.swf pageUrl=http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html", 
+    "image": "http://www.abload.de/img/musicv0pjo.png", 
+    "type": "video", 
+    "id": "10345"
+  }, 
+  {
+    "group": "10277", 
+    "name": "M6 Music", 
+    "url": "http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8", 
+    "image": "http://m6pub.fr/wp-content/uploads/2012/06/M6-Music.jpg", 
+    "type": "video", 
+    "id": "11327"
+  }, 
+  {
+    "group": "10277", 
+    "name": "M6 Music", 
+    "url": "m6-music?mode=22", 
+    "image": "http://m6pub.fr/wp-content/uploads/2012/06/M6-Music.jpg", 
+    "type": "ignore", 
+    "id": "12263"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Gold Tv", 
+    "url": "http://87.248.160.8/edge/smil:goldtv/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/a/a5/Gold_TV_Channel_Logo.png", 
+    "type": "video", 
+    "id": "11593"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Dream TV", 
+    "url": "http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8", 
+    "image": "http://www.dreamtv.com.tr/images/dreamtv-logo-player.png", 
+    "type": "video", 
+    "id": "11613"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Dream TV", 
+    "url": "izle/dream-tv?mode=12", 
+    "image": "http://www.dreamtv.com.tr/images/dreamtv-logo-player.png", 
+    "type": "ignore", 
+    "id": "12069"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Vevo TV Playlist 1", 
+    "url": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8", 
+    "image": "http://cache.vevo.com/a/img/vevo-tv-logo-new.png", 
+    "type": "video", 
+    "id": "10349"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Vevo TV Playlist 2", 
+    "url": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8", 
+    "image": "http://www.videoadnews.com/wp-content/uploads/2013/03/vevo_tv.gif", 
+    "type": "video", 
+    "id": "10350"
+  }, 
+  {
+    "group": "10277", 
+    "name": "Vevo TV Playlist 3", 
+    "url": "http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8", 
+    "image": "http://www.guitarbaby.net/uploads/2/4/8/8/2488648/7580191_orig.jpg", 
+    "type": "video", 
+    "id": "10351"
+  }, 
+  {
+    "group": "10277", 
+    "name": "LIVE HD Pop", 
+    "url": "rtmpe://91.201.78.3:1935/live playpath=pophd swfUrl=http://www.livehd.tv/player/player.swf pageUrl=http://www.livehd.tv/live.php?stream=rock&resolution=hd token= timeout=15 live=true", 
+    "image": "http://www.livehd.tv/images/logo_livehd.png", 
+    "type": "ignore", 
+    "id": "10352"
+  }, 
+  {
+    "group": "10277", 
+    "name": "LIVE HD Dance", 
+    "url": "rtmpe://91.201.78.3:1935/live playpath=dancehd swfUrl=http://www.livehd.tv/player/player.swf pageUrl=http://www.livehd.tv/live.php?stream=rock&resolution=hd token= timeout=15 live=true", 
+    "image": "http://www.livehd.tv/images/logo_livehd.png", 
+    "type": "ignore", 
+    "id": "10353"
+  }, 
+  {
+    "group": "10277", 
+    "name": "LIVE HD Classics", 
+    "url": "rtmpe://91.201.78.3:1935/live playpath=classicshd swfUrl=http://www.livehd.tv/player/player.swf pageUrl=http://www.livehd.tv/live.php?stream=rock&resolution=hd token= timeout=15 live=true", 
+    "image": "http://www.livehd.tv/images/logo_livehd.png", 
+    "type": "ignore", 
+    "id": "10354"
+  }, 
+  {
+    "group": "10277", 
+    "name": "LIVE HD Jazz", 
+    "url": "rtmpe://91.201.78.3:1935/live playpath=jazzhd swfUrl=http://www.livehd.tv/player/player.swf pageUrl=http://www.livehd.tv/live.php?stream=rock&resolution=hd token= timeout=15 live=true", 
+    "image": "http://www.livehd.tv/images/logo_livehd.png", 
+    "type": "ignore", 
+    "id": "10355"
+  }, 
+  {
+    "group": "10277", 
+    "name": "LIVE HD Live Mix", 
+    "url": "rtmpe://91.201.78.3:1935/live playpath=onehdhd swfUrl=http://www.livehd.tv/player/player.swf pageUrl=http://www.livehd.tv/live.php?stream=rock&resolution=hd token=6c69766568642e747620657374652063656c206d616920746172652121 timeout=15 live=true", 
+    "image": "http://www.livehd.tv/images/logo_livehd.png", 
+    "type": "ignore", 
+    "id": "10356"
+  }, 
+  {
+    "group": "10277", 
+    "name": "LIVE HD Rock", 
+    "url": "rtmpe://91.201.78.3:1935/live playpath=rockhd swfUrl=http://www.livehd.tv/player/player.swf pageUrl=http://www.livehd.tv/live.php?stream=rock&resolution=hd token=6c69766568642e747620657374652063656c206d616920746172652121 timeout=15 live=true", 
+    "image": "http://www.livehd.tv/images/logo_livehd.png", 
+    "type": "ignore", 
+    "id": "10357"
+  }
+]

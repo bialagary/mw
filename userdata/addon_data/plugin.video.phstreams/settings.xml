@@ -1,0 +1,18 @@
+<settings>
+    <setting id="auto-view" value="true" />
+    <setting id="cache_enable" value="false" />
+    <setting id="cache_expires" value="7200" />
+    <setting id="cache_proxy" value="0" />
+    <setting id="default-view" value="500" />
+    <setting id="download_folder" value="" />
+    <setting id="md_switch" value="false" />
+    <setting id="movreel_account" value="false" />
+    <setting id="movreel_password" value="" />
+    <setting id="movreel_user" value="" />
+    <setting id="use_180upload" value="false" />
+    <setting id="use_billion" value="true" />
+    <setting id="use_movreel" value="true" />
+    <setting id="vhd_account" value="true" />
+    <setting id="vhd_pass" value="cyberdome" />
+    <setting id="vhd_user" value="tk99" />
+</settings>

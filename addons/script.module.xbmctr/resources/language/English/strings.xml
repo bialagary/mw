@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30001">http://forum.xbmctr.com Login Error !</string>
+	<string id="30002">Wrong username or password / You r not VIP</string>
+	<string id="30003">Please visit http://forum.xbmctr.com .</string>
+	<string id="30004">VIP system</string>
+	<string id="30005">Register and Donate become VIP member.</string>
+	<string id="30006"> Than u can watch this addons .</string>
+	<string id="30007">  INFO ! </string>
+	<string id="30008"> You have to login with </string>
+	<string id="30009">http://forum.xbmctr.com username and pass.</string>
+	<string id="30010">>> wanna login now ?</string>
+	<string id="30011">NOT FOUND</string>
+	<string id="30012">Video server not resolved</string>
+	<string id="30013">Please select other sources.</string>
+	<string id="30014">Please select Resolution.</string>
+</strings>

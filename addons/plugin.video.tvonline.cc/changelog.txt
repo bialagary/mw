@@ -1,0 +1,103 @@
+3.0.1b
+Fixed missing requests module
+
+3.0.1a
+Fixed cookie jar error
+
+3.0.1
+Fixed issue where unaired episodes were added to subscriptions
+
+3.0.0
+Renamed addon to "TVonline 3.0"
+New source, no longer uses tvonline.cc
+Cached searches for quicker results
+Cache files cleaned daily
+New menus: Top Shows, TV Schedule,Popular shows etc.
+Paginated results
+
+2.2.3c
+Fixed playback errors
+Fixed service.py error on start
+
+2.2.3b
+Fixed playback errors
+
+2.2.3a
+Fixed issues with service.py hanging on close
+
+2.2.3
+Fixed playback issues (hopefully)
+
+2.2.2
+Added default tv show directory
+
+2.2.1b
+Fixed missing meta for some shows when using search
+Fixed special characters in some episodes
+
+2.2.1a
+Fixed missing meta for some shows
+
+2.2.1
+Fixed subscriptions
+Fixed episode names to allow subtitle search
+Fixed missing episodes.
+
+2.2.0
+Added metadata. Enable by default.
+
+2.1.7c
+left a print command in!
+
+2.1.7
+Fixed missing pisodes (1 & 2)
+Maybe fixed playback
+
+2.1.6
+Fixed url change
+
+2.1.5
+Fixed error on first run
+
+2.1.4
+Fix developer stupidity!
+
+2.1.3
+Changed episode sort to ascending. Ability to switch to descending in GUI
+Added context options (Favourites/Subscribe) to search results
+
+2.1.2
+Fixed issue where some shows returned no link.
+
+2.1.1
+Fixed subscription/favourites issue for some shows.
+
+2.1.0
+Fixed seek issue. You can now skip/fast-forward etc
+Changed login routine to mimic website. Login will only be called if login check fails when starting a video.
+Added library/subscription function through context menu - enable subscriptions in settings.
+Added subscription service. Will check every 12 hours for new episodes (can be forced using context menu on "My Subscriptions")
+
+2.0.6
+Add Favourites
+Added option to report an error to tvonline.cc
+
+2.0.5
+Add Watched List
+New background by Marquerite
+
+2.0.4
+Some new icons
+
+2.0.3
+Added Hit TV Shows, Latest Updates, Shows with new episodes menus
+Moved A-Z to sub menu
+
+2.0.2
+Fixed small issue with some episodes
+
+2.0.1
+bug fix
+
+2.0.0
+Initial Release

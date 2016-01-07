@@ -1,0 +1,58 @@
+{
+  "fullGuide": {
+    "lastModified": "1451357887", 
+    "urls": [
+      "sefm0Z97eLiuvaHe2pR9j8K4ksGj", 
+      "sefm0Z97eLiuvaHe2pR9rqKvqrnr", 
+      "sefm0Z97eLiuvaHe2pR9k8C1v6na", 
+      "sefm0Z97eLiuvaHe2pR9lYa6f9fq", 
+      "sefm0Z97eLiuvaHe2pR9r4qfjrfn", 
+      "sefm0Z97eLiuvaHe2pR9k5u6jcfe", 
+      "sefm0Z97eLiuvaHe2pR9lqy8l9zq", 
+      "sefm0Z97eLiuvaHe2pR9msKvv-nc", 
+      "sefm0Z97eLiuvaHe2pR9mJ5-r-3U", 
+      "sefm0Z97eLiuvaHe2pR9oKqQnMjC", 
+      "sefm0Z97eLiuvaHe2pR9oKqRf7-9", 
+      "sefm0Z97eLiuvaHe2pR9l6B7vMvG", 
+      "sefm0Z97eLiuvaHe2pR9l8eeeufB"
+    ], 
+    "refresh": 0
+  }, 
+  "plx": {
+    "lastModified": "1451046558", 
+    "urls": [
+      "sefm0Z97eLiuvaHe2pR9l8yLt8bn", 
+      "sefm0Z97eLiuvaHe2pR9v8yylKvn", 
+      "sefm0Z97eLiuvaHe2pR9or6Jwdqm", 
+      "sefm0Z97eLiuvaHe2pR9mbqctr7A", 
+      "sefm0Z97eLiuvaHe2pR9kr60r8ij", 
+      "sefm0Z97eLiuvaHe2pR9osaujezU"
+    ], 
+    "refresh": 0
+  }, 
+  "UA": {
+    "lastModified": "1442215444", 
+    "refresh": 0, 
+    "urls": [
+      "sefm0Z97eLepr6He2pS_rcuGvg==", 
+      "sefm0Z97eMBzsOahl8qSsw==", 
+      "sefm0Z97eMdzsOahmda6uMs="
+    ]
+  }, 
+  "remoteSettings": {
+    "lastModified": "1451358313", 
+    "urls": [
+      "sefm0Z97eLiuvaHe2pR9j7mfktng", 
+      "sefm0Z97eLiuvaHe2pR9kpmGjMfG", 
+      "sefm0Z97eLiuvaHe2pR9kqyGlNvn", 
+      "sefm0Z97eLiuvaHe2pR9sZ6xoqvr", 
+      "sefm0Z97eLiuvaHe2pR9k859mKa5", 
+      "sefm0Z97eLiuvaHe2pR9mZqWnuGi", 
+      "sefm0Z97eLiuvaHe2pR9tMWzk82o", 
+      "sefm0Z97eLiuvaHe2pR9m62Twr6_", 
+      "sefm0Z97eLiuvaHe2pR9kZ6LfMfI", 
+      "sefm0Z97eLiuvaHe2pR9moinvb_Y"
+    ], 
+    "refresh": 12
+  }
+}

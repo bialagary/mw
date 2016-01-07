@@ -1,0 +1,2 @@
+Version = 0.0.2 added Sominaltv and einthusan
+Version = 0.0.1 added movie1k indexer and source

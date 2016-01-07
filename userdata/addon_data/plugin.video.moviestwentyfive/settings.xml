@@ -1,0 +1,12 @@
+<settings>
+    <setting id="Enable-Fanart" value="true" />
+    <setting id="Enable-Meta" value="false" />
+    <setting id="custurl" value="http://movie25.unblocked.pw" />
+    <setting id="custurltv" value="http://watchtvseries.my.to" />
+    <setting id="download-folder" value="" />
+    <setting id="download-status" value="false" />
+    <setting id="kid-mode" value="false" />
+    <setting id="movies25-download" value="false" />
+    <setting id="movies25-folder" value="special://userdata/addon_data/plugin.video.moviestwentyfive/Movies" />
+    <setting id="parent-password" value="" />
+</settings>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="server" type="text" option="writeable" label="30001" default="server.example.com"/>
+    <setting id="username" type="text" option="writeable" label="30002" default=""/>
+    <setting id="password" type="text" option="writeable,hidden" label="30003" default=""/>
+    <setting id="debug" type="bool" label="Enable logs for problem reporting" default="false"/>
+    <setting id="force_advancedsettings" type="bool" label="Create advancedsettings.xml file for optimal streaming" default="false"/>
+    <setting id="quality_selector" type="enum" values="Ask|Always SD|Always HD" label="30010" default="0"/>
+    <setting id="quality_selector_live" type="enum" values="Ask|Always SD|Always HD" label="30011" default="0"/>
+    <setting id="check_for_updates" type="bool" label="Check for updates" default="true"/>
+    <setting id="pincode" type="text" option="writeable,hidden" label="30004" default=""/>
+    <setting id="token" type="text" visible="false"/>
+</settings>

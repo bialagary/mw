@@ -1,0 +1,114 @@
+[
+  {
+    "group": "10451", 
+    "name": "National Geographic ABU DHABI", 
+    "url": "nationalgeographic?mode=16", 
+    "image": "", 
+    "type": "video", 
+    "id": "12111"
+  }, 
+  {
+    "group": "10451", 
+    "name": "Dog TV", 
+    "url": "plugin://plugin.video.israelive/?url=3226&mode=1&ignorefilmonguide=1&filmonmethod=1", 
+    "image": "http://static.filmon.com/couch/channels/3226/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10452"
+  }, 
+  {
+    "group": "10451", 
+    "name": "Travel Channel+1", 
+    "url": "plugin://plugin.video.israelive/?url=842&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/842/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10476"
+  }, 
+  {
+    "group": "10451", 
+    "name": "Outdoor Channel", 
+    "url": "rtmp://edge1.everyon.tv/etv1sb/phd613", 
+    "image": "http://www.woodallscm.com/wp-content/uploads/2012/05/192px-Outdoor_Channel.svg_.png", 
+    "type": "video", 
+    "id": "11614"
+  }, 
+  {
+    "group": "10451", 
+    "name": "Biography TV", 
+    "url": "plugin://plugin.video.israelive/?url=2633&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2633/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10477"
+  }, 
+  {
+    "group": "10451", 
+    "name": "NASA HD", 
+    "url": "plugin://plugin.video.israelive/?url=330&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/330/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10482"
+  }, 
+  {
+    "group": "10451", 
+    "name": "NASA HD", 
+    "url": "http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/330/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10483"
+  }, 
+  {
+    "group": "10451", 
+    "name": "Al Jazeera Documentary", 
+    "url": "plugin://plugin.video.israelive/?url=3029&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/3029/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10485"
+  }, 
+  {
+    "group": "10451", 
+    "name": "CCTV9 Documentary", 
+    "url": "plugin://plugin.video.israelive/?url=2786&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/2786/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10486"
+  }, 
+  {
+    "group": "10451", 
+    "name": "CCTV9 Documentary", 
+    "url": "161?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/2786/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10487"
+  }, 
+  {
+    "group": "10451", 
+    "name": "CCTV9 Documentary", 
+    "url": "rtsp://wms.wcetv.net/cctvd-200", 
+    "image": "http://static.filmon.com/couch/channels/2786/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11622"
+  }, 
+  {
+    "group": "10451", 
+    "name": "Russian Today: Documentary", 
+    "url": "plugin://plugin.video.israelive/?url=1981&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/1981/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10488"
+  }, 
+  {
+    "group": "10451", 
+    "name": "Russian Today: Documentary HD", 
+    "url": "http://rt-a.akamaihd.net/ch_05@325609/master.m3u8", 
+    "image": "http://static.filmon.com/couch/channels/1981/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10489"
+  }, 
+  {
+    "group": "10451", 
+    "name": "TWiT US", 
+    "url": "http://iphone-streaming.ustream.tv/ustreamVideo/1524/streams/live/playlist.m3u8", 
+    "image": "http://lyalinwp7.files.wordpress.com/2010/12/200x200_thumb.png?w=103&h=103&h=103", 
+    "type": "video", 
+    "id": "10490"
+  }
+]

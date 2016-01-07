@@ -1,0 +1,7 @@
+#LWP-Cookies-2.0
+Set-Cookie3: SESSION_1="wf_forwardUrl%3D%3D%3Dhttp%3A%2F%2Fnetwork.wwe.com%2F%7Ewf_flowId%3D%3D%3Daccount.login%7Estage%3D%3D%3D7%7EflowId%3D%3D%3Daccount.login%7EforwardUrl%3D%3D%3Dhttp%3A%2F%2Fnetwork.wwe.com%2F"; path="/"; domain=".wwe.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: appacc=wwe; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-06-10 11:55:09Z"; version=0
+Set-Cookie3: fprt="dkVQdXhRNllNN3NMcnA2V3pzWGxYWVd3d21zPXwxNDM0MDIzNzA5NjA3fGlwdD1lbWFpbC1wYXNzd29yZA%3D%3D"; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-06-10 11:55:09Z"; version=0
+Set-Cookie3: guid=4ac1a71ce58e45f05448dd05712f04dd; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-06-10 11:55:09Z"; version=0
+Set-Cookie3: ipid=453679; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-06-10 11:55:09Z"; version=0
+Set-Cookie3: mai="lastName%3D%5BContois%5D%2CfirstName%3D%5BCody%5D%2Cparental_control_sw%3D%5BN%5D%2C_useruuid%3D%5B8fdb3d3ea92ba856f8756057e5d5da15%5D"; path="/"; domain=".wwe.com"; path_spec; domain_dot; expires="2016-06-10 11:55:09Z"; version=0

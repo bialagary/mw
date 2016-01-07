@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.nbanhlstreams" name="NBA and NHL Live Streams" version="0.6" provider-name="gerikss">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>NBA and NHL Live Streams</summary>
+    <description>Live HD streams from www.nbastream.net and www.nhlstream.net</description>
+    <platform>all</platform>
+    <language>en</language>
+  </extension>
+</addon>

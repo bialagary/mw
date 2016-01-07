@@ -1,0 +1,39 @@
+Version 2.1
+Fixed next page issue in the adult section.
+
+Version 2.0
+Full Rewrite
+New Graphics 'Thanks Marquerite'
+
+Version 1.17
+Artwork Update
+
+Version 1.16
+Fixed bug in search function
+
+Version 1.15
+Bug Fix
+
+Version 1.14
+Made XXX content searchable is Adult Content option is enabled
+Added search function to support The Collective addon by Coolwave
+
+Version 1.13
+Fixed an oversite in next page function
+Changed base url to filmikz.ch
+Code Cleanup
+
+Version 1.12
+Fixed ePornik Links
+Made artwork tiles for multi-part sources for easier readability
+Added seperate index for adult content to keep adult content from being listed in the movies section
+
+Version 1.11
+Quick fix to pass video name to player
+
+Version 1.1
+Added option to allow adult content
+Removed Nowdownload and BillionUpload Links from the list
+
+Version 1.0
+Initial Release

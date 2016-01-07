@@ -1,0 +1,216 @@
+<window>
+	<defaultcontrol always="true">18</defaultcontrol>
+	<coordinates>
+		<system>1</system>
+		<posx>185</posx>
+		<posy>105</posy>
+	</coordinates>
+	<include>dialogeffect</include>
+	<controls>
+		<control type="group">
+			<include>VisibleFadeEffect</include>
+			<control type="image">
+				<description>background image</description>
+				<posx>0</posx>
+				<posy>0</posy>
+				<width>910</width>
+				<height>510</height>
+				<texture border="40">DialogBack.png</texture>
+			</control>
+			<control type="image">
+				<description>Dialog Header image</description>
+				<posx>40</posx>
+				<posy>16</posy>
+				<width>830</width>
+				<height>40</height>
+				<texture>dialogheader.png</texture>
+			</control>
+			<control type="label">
+				<description>header label</description>
+				<posx>40</posx>
+				<posy>20</posy>
+				<width>830</width>
+				<height>30</height>
+				<font>font13_title</font>
+				<label>$ADDON[plugin.video.odpal.tv 58000]</label>
+				<align>center</align>
+				<aligny>center</aligny>
+				<textcolor>selected</textcolor>
+				<shadowcolor>black</shadowcolor>
+			</control>
+			<control type="button">
+				<description>Close Window button</description>
+				<posx>820</posx>
+				<posy>14</posy>
+				<width>64</width>
+				<height>32</height>
+				<label>-</label>
+				<font>-</font>
+				<onclick>PreviousMenu</onclick>
+				<texturefocus>DialogCloseButton-focus.png</texturefocus>
+				<texturenofocus>DialogCloseButton.png</texturenofocus>
+				<onleft>3</onleft>
+				<onright>3</onright>
+				<onup>3</onup>
+				<ondown>3</ondown>
+				<visible>system.getbool(input.enablemouse)</visible>
+			</control>
+			<control type="label" id="11">
+				<description>Canal Title value</description>
+				<posx>40</posx>
+				<posy>80</posy>
+				<width>830</width>
+				<height>30</height>
+				<align>center</align>
+				<aligny>center</aligny>
+				<font>font14caps</font>
+				<label></label>
+				<textcolor>white</textcolor>
+				<scroll>true</scroll>
+			</control>
+			<control type="image" id="17">
+				<posx>100</posx>
+				<posy>80</posy>
+				<width>180</width>
+				<height>180</height>
+				<aspectratio aligny="bottom">keep</aspectratio>
+                <texture></texture>
+			</control>
+			<control type="image" id="12">
+				<posx>100</posx>
+				<posy>260</posy>
+				<width>180</width>
+				<height>180</height>
+				<aspectratio aligny="top">keep</aspectratio>
+				<texture flipy="true" diffuse="diffuse_mirror2.png"></texture>
+			</control>
+            <control type="textbox" id="16">
+                <description>Describe value</description>
+                <posx>40</posx>
+                <posy>360</posy>
+                <width>850</width>
+                <height>125</height>
+                <font>font12</font>
+                <pagecontrol>-</pagecontrol>
+                <label fallback="161"></label>
+            </control>
+			<control type="group">
+				<posx>300</posx>
+				<posy>120</posy>
+				<control type="label">
+					<description>User broadcast</description>
+					<posx>150</posx>
+					<posy>0</posy>
+					<width>150</width>
+					<height>25</height>
+					<align>right</align>
+					<aligny>center</aligny>
+					<font>font13</font>
+					<textcolor>blue</textcolor>
+					<label>$ADDON[plugin.video.odpal.tv 58001]:</label>
+				</control>
+				<!--<control type="fadelabel" id="13">-->
+				<control type="label" id="13">
+					<description>Song Value</description>
+					<posx>160</posx>
+					<posy>0</posy>
+					<width>440</width>
+					<height>25</height>
+					<align>left</align>
+					<aligny>center</aligny>
+					<font>font13</font>
+					<textcolor>white</textcolor>
+					<scrollout>false</scrollout>
+					<pauseatend>2000</pauseatend>
+					<label></label>
+				</control>
+				<control type="label">
+					<description>Platforma</description>
+					<posx>150</posx>
+					<posy>30</posy>
+					<width>150</width>
+					<height>25</height>
+					<align>right</align>
+					<aligny>center</aligny>
+					<font>font13</font>
+					<textcolor>blue</textcolor>
+					<label>$ADDON[plugin.video.odpal.tv 58002]:</label>
+				</control>
+				<!--<control type="fadelabel" id="15">-->
+				<control type="label" id="15">
+					<description>Platform Value</description>
+					<posx>160</posx>
+					<posy>30</posy>
+					<width>440</width>
+					<height>25</height>
+					<align>left</align>
+					<aligny>center</aligny>
+					<font>font13</font>
+					<textcolor>white</textcolor>
+					<label fallback="161"></label>
+					<scrollout>false</scrollout>
+					<pauseatend>2000</pauseatend>
+				</control>
+				<control type="label">
+					<description>Tags</description>
+					<posx>150</posx>
+					<posy>60</posy>
+					<width>150</width>
+					<height>25</height>
+					<align>right</align>
+					<aligny>center</aligny>
+					<font>font13</font>
+					<textcolor>blue</textcolor>
+					<label>$ADDON[plugin.video.odpal.tv 58003]:</label>
+					<scrollout>false</scrollout>
+					<pauseatend>2000</pauseatend>
+				</control>
+				<!--<control type="fadelabel" id="14">-->
+				<control type="label" id="14">
+					<description>Album Value</description>
+					<posx>160</posx>
+					<posy>60</posy>
+					<width>440</width>
+					<height>25</height>
+					<align>left</align>
+					<aligny>center</aligny>
+					<font>font13</font>
+					<textcolor>white</textcolor>
+					<label fallback="161"></label>
+				</control>
+			</control>
+			<control type="group" id="9000">
+				<posx>450</posx>
+				<posy>310</posy>
+				<control type="button" id ="18">
+					<description>Play button</description>
+					<posx>0</posx>
+					<posy>0</posy>
+					<width>200</width>
+					<height>40</height>
+					<label>Play</label>
+					<font>font12_title</font>
+					<align>center</align>
+					<onleft>19</onleft>
+					<onright>19</onright>
+					<onup>18</onup>
+					<ondown>18</ondown>
+				</control>
+				<control type="button" id="19">
+					<description>Cancel button</description>
+					<posx>210</posx>
+					<posy>0</posy>
+					<width>200</width>
+					<height>40</height>
+					<label>222</label>
+					<font>font12_title</font>
+					<align>center</align>
+					<onleft>18</onleft>
+					<onright>18</onright>
+					<onup>19</onup>
+					<ondown>19</ondown>
+				</control>
+			</control>
+		</control>
+	</controls>
+</window>

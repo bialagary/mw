@@ -1,0 +1,25 @@
+<settings>
+    <setting id="LiveStreamerPort" value="65007" />
+    <setting id="LiveTVadvanced" value="true" />
+    <setting id="StreramProtocol" value="0" />
+    <setting id="action" value="" />
+    <setting id="autoIPTV" value="0" />
+    <setting id="autoPVR" value="true" />
+    <setting id="autoStopPVR" value="false" />
+    <setting id="catColor" value="blue" />
+    <setting id="chColor" value="yellow" />
+    <setting id="favColor" value="green" />
+    <setting id="forceRemoteDefaults" value="true" />
+    <setting id="imExFolder" value="" />
+    <setting id="iptvList" value="1" />
+    <setting id="israeliveAdvanced" value="false" />
+    <setting id="nprColor" value="white" />
+    <setting id="prColor" value="orange" />
+    <setting id="remoteFavouritesType" value="0" />
+    <setting id="remoteFavouritesUrl" value="" />
+    <setting id="remoteSettingsUrl" value="sefm0Z97eLiuvaHe2pR9j7mfktng,sefm0Z97eLiuvaHe2pR9kpmGjMfG,sefm0Z97eLiuvaHe2pR9kqyGlNvn,sefm0Z97eLiuvaHe2pR9sZ6xoqvr,sefm0Z97eLiuvaHe2pR9k859mKa5,sefm0Z97eLiuvaHe2pR9mZqWnuGi,sefm0Z97eLiuvaHe2pR9tMWzk82o,sefm0Z97eLiuvaHe2pR9m62Twr6_,sefm0Z97eLiuvaHe2pR9moinvb_Y,sefm0Z97eLiuvaHe2pR9kZ6LfMfI" />
+    <setting id="timesColor" value="burlywood" />
+    <setting id="useCategories" value="false" />
+    <setting id="useEPG" value="true" />
+    <setting id="useIPTV" value="false" />
+</settings>

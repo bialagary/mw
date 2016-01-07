@@ -1,0 +1,16 @@
+<settings>
+    <setting id="autodownload" value="false" />
+    <setting id="autoplay" value="false" />
+    <setting id="axel" value="false" />
+    <setting id="calendar_type" value="0" />
+    <setting id="down_sort" value="false" />
+    <setting id="download_folder" value="" />
+    <setting id="enable_sorting" value="false" />
+    <setting id="episodes_action" value="0" />
+    <setting id="movie_metadata" value="false" />
+    <setting id="search_type" value="0" />
+    <setting id="sort" value="" />
+    <setting id="source_blacklist" value="vodlocker.club" />
+    <setting id="theme" value="0" />
+    <setting id="tv_metadata" value="false" />
+</settings>

@@ -1,0 +1,78 @@
+[B]v2.2.11 - Dec. 20, 2015[/B]
+    - minor fix for playlist of partial sources
+    - remove url_with_headers in playback
+    - improve resolver exception handling
+
+[B]v2.2.10 - Nov. 1, 2015[/B]
+    - playback fixed for rtmp
+    - playback added feedback on resolver errors
+
+[B]v2.2.9 - Oct. 22, 2015[/B]
+    - single source autoplay in directory listing
+    - current implementation of preresolve removed, to be re-implemented at a later time (current was too unreliable)
+    - alert added to playlist feature to provide feedback on failure
+
+[B]v2.2.8 - Oct. 22, 2015[/B]
+    - minor fix to directory source listing
+    - todo: preresolve found to be inconsistent, seems to be net&resolver related
+
+[B]v2.2.7 - Oct. 22, 2015[/B]
+    - remove pysqlite from database.py use sqlite3 only, should be available natively Frodo+
+    - some cases of multiple sql statements updated to use single transaction, performance
+    - playback added directory source listing
+    - preresolve improved
+    - general playback updates
+    - todo: preresolve found to be inconsistent, seems to be net&resolver related
+
+[B]v2.2.6 - Sept. 30, 2015[/B]
+    - favorites database updates. previous used url UNIQUE, now using constraint (site, url)
+    - alerts/notifications fixed
+
+[B]v2.2.4 - Sept. 23, 2015[/B]
+    - histories fixed to allow same results across sites
+        previously a query could only be added to history in one site,
+        this change will clear all histories at update.
+    - same seems to be true for favorites as well, though its a more unlikely case at the moment.
+        working on solution to update and preserve favorites
+    - other minor updates and fixes
+
+[B]v2.2.3 - Sept. 22, 2015[/B]
+    - net updated
+
+[B]v2.2.2 - Sept. 20, 2015[/B]
+    - net updated
+    - updated all add-ons, removed deprecated part of end_of_directory
+    - fixed cookie file being overwritten again, oops.
+    - fixed error logging, proper traceback logged now
+
+[B]v2.2.1 - Sept. 19, 2015[/B]
+    - net updated
+    - youtube urls fixed with playback
+    - Other minor updates to playback, addon
+
+[B]v2.2.0 - Sept. 15, 2015[/B]
+    - Add set view option to context to save current viewmode as default for current content type
+    - Minor fixes to net, playback
+    - First shortcut added to shortcut resolver, main use case is PlayThis
+        ex. zc://[channelnumber]/ will pass a rebuilt url to zerocast resolver
+
+[B]v2.1.3 - Sept. 12, 2015[/B]
+    - fixed issue with cookies overwriting themselves (caused cloudflare to challenge on every request)
+
+[B]v2.1.2 - Sept. 11, 2015[/B]
+    - default durations adjusted from minutes to seconds
+
+[B]v2.1.1 - Sept. 10, 2015[/B]
+    - minor fixes to net/cloudflare
+
+[B]v2.1.0 - Sept. 10, 2015[/B]
+    - add cloudflare "I'm Under Attack" support
+
+[B]v2.0.0 - Sept. 9, 2015[/B]
+    - re-work
+    - add history support
+    - add caching support
+    - add context menu support
+    - add playlist for part sources
+    - addtional settings/options
+    - numerous minor updates and fixes

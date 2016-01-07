@@ -1,0 +1,7 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d759e1c46f2498f45b994880ad1cc1f211450121876; path="/"; domain=".uflix.is"; path_spec; domain_dot; expires="2016-12-13 19:37:56Z"; HttpOnly=None; version=0
+Set-Cookie3: __cfduid=d7fa0f93e13e9160bc2150ebf0cadbe121447518282; path="/"; domain=".uflix.me"; path_spec; domain_dot; expires="2016-11-13 16:24:42Z"; HttpOnly=None; version=0
+Set-Cookie3: __cfduid=d05132595f4644498b84ea52da95ed43f1450121877; path="/"; domain=".uflix.ws"; path_spec; domain_dot; expires="2016-12-13 19:37:57Z"; HttpOnly=None; version=0
+Set-Cookie3: __cfduid=d83b21d7e8ff04e05b8d2c79b7c6fe7341450121877; path="/"; domain=".vizz.is"; path_spec; domain_dot; expires="2016-12-13 19:37:57Z"; HttpOnly=None; version=0
+Set-Cookie3: PHPSESSID=74b9b9850d1527f0795697dd6597017d; path="/"; domain="uflix.me"; path_spec; discard; version=0
+Set-Cookie3: PHPSESSID=74b9b9850d1527f0795697dd6597017d; path="/"; domain="uflix.ws"; path_spec; discard; version=0

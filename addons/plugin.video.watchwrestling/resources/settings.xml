@@ -1,0 +1,6 @@
+<settings>
+   <category label="30300">	
+        <setting id="maxVideoQuality" type="enum" label="Quality" values="480p|720p|1080p" default="2"/>	
+		<setting id="websrc" type="labelenum" label="30301" default="http://watchwrestling.to/" values="http://watchwrestling.to/|http://watchwrestling.uno/"/>
+    </category>
+</settings>

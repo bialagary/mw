@@ -1,0 +1,1 @@
+{'url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/onetorrenttv.tar.gz', 'md5_url': 'http://parsersforp2pstreams.googlecode.com/svn/trunk/%20parsersforp2pstreams/onetorrenttv.md5', 'md5': '4faecdc2e251c34a02b107f20f830f4f   onetorrenttv.tar.gz\n\n'}

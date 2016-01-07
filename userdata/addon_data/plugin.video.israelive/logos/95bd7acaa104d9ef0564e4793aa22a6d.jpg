@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="fr-FR" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.stream-tv.fr/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.stream-tv.fr/wp-content/themes/twentyfifteen/js/html5.js"></script>
+	<![endif]-->
+	<script>(function(){document.documentElement.className='js'})();</script>
+	<title>La page est introuvable - Stream TV</title>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta property="og:locale" content="fr_FR" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="La page est introuvable - Stream TV" />
+<meta property="og:site_name" content="Stream TV" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="La page est introuvable - Stream TV"/>
+<meta name="twitter:domain" content="Stream TV"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.stream-tv.fr\/","name":"Stream TV"}</script>
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Stream TV &raquo; Flux" href="http://www.stream-tv.fr/feed" />
+<link rel="alternate" type="application/rss+xml" title="Stream TV &raquo; Flux des commentaires" href="http://www.stream-tv.fr/comments/feed" />
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='//fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='http://www.stream-tv.fr/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
+<link rel='stylesheet' id='twentyfifteen-style-css'  href='http://www.stream-tv.fr/wp-content/themes/twentyfifteen/style.css?ver=4.1.5' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentyfifteen-ie-css'  href='http://www.stream-tv.fr/wp-content/themes/twentyfifteen/css/ie.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<!--[if lt IE 8]>
+<link rel='stylesheet' id='twentyfifteen-ie7-css'  href='http://www.stream-tv.fr/wp-content/themes/twentyfifteen/css/ie7.css?ver=20141010' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='http://www.stream-tv.fr/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.stream-tv.fr/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.stream-tv.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.stream-tv.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.1.5" />
+</head>
+
+<body class="error404">
+<div id="page" class="hfeed site">
+	<a class="skip-link screen-reader-text" href="#content">Aller au contenu principal</a>
+
+	<div id="sidebar" class="sidebar">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="site-branding">
+										<p class="site-title"><a href="http://www.stream-tv.fr/" rel="home">Stream TV</a></p>
+									<button class="secondary-toggle">Menu et widgets</button>
+			</div><!-- .site-branding -->
+		</header><!-- .site-header -->
+
+			<div id="secondary" class="secondary">
+
+		
+		
+					<div id="widget-area" class="widget-area" role="complementary">
+				<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.stream-tv.fr/">
+				<label>
+					<span class="screen-reader-text">Rechercher&nbsp;:</span>
+					<input type="search" class="search-field" placeholder="Recherche&hellip;" value="" name="s" title="Rechercher&nbsp;:" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Rechercher" />
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h2 class="widget-title">Articles récents</h2>		<ul>
+					<li>
+				<a href="http://www.stream-tv.fr/actualite/hello-bank-jeu-concours-hello-job">Hello Bank recrute des conseillers clientèles à travers un jeu concours</a>
+							<span class="post-date">1 juillet 2015</span>
+						</li>
+				</ul>
+		</aside>			</div><!-- .widget-area -->
+		
+	</div><!-- .secondary -->
+
+	</div><!-- .sidebar -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main" role="main">
+
+			<section class="error-404 not-found">
+				<header class="page-header">
+					<h1 class="page-title">Oups&nbsp;! Cette page est introuvable.</h1>
+				</header><!-- .page-header -->
+
+				<div class="page-content">
+					<p>Apparemment, rien n&rsquo;a été trouvé à cette adresse. Essayez avec recherche&nbsp;?</p>
+
+					<form role="search" method="get" class="search-form" action="http://www.stream-tv.fr/">
+				<label>
+					<span class="screen-reader-text">Rechercher&nbsp;:</span>
+					<input type="search" class="search-field" placeholder="Recherche&hellip;" value="" name="s" title="Rechercher&nbsp;:" />
+				</label>
+				<input type="submit" class="search-submit screen-reader-text" value="Rechercher" />
+			</form>				</div><!-- .page-content -->
+			</section><!-- .error-404 -->
+
+		</main><!-- .site-main -->
+	</div><!-- .content-area -->
+
+
+	</div><!-- .site-content -->
+
+	<footer id="colophon" class="site-footer" role="contentinfo">
+		<div class="site-info">
+						<a href="https://wordpress.org/">Fièrement propulsé par WordPress</a>
+		</div><!-- .site-info -->
+	</footer><!-- .site-footer -->
+
+</div><!-- .site -->
+
+<script type='text/javascript' src='http://www.stream-tv.fr/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var screenReaderText = {"expand":"<span class=\"screen-reader-text\">ouvrir le sous-menu<\/span>","collapse":"<span class=\"screen-reader-text\">fermer le sous-menu<\/span>"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.stream-tv.fr/wp-content/themes/twentyfifteen/js/functions.js?ver=20141212'></script>
+
+</body>
+</html>

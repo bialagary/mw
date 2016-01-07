@@ -1,0 +1,122 @@
+[
+  {
+    "group": "10587", 
+    "name": "BNT World", 
+    "url": "rtmp://193.43.26.22/live/livestream1 swfUrl=http://showww.bnt.bg/sat/myVideo.swf swfVfy=1 live=1 pageUrl=http://showww.bnt.bg/sat/ timeout=15", 
+    "image": "", 
+    "type": "video", 
+    "id": "10588"
+  }, 
+  {
+    "group": "10587", 
+    "name": "News 7", 
+    "url": "http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/news7live.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10589"
+  }, 
+  {
+    "group": "10587", 
+    "name": "TV1", 
+    "url": "rtsp://mobilestr3.livestream.com/livestreamiphone/viktoria", 
+    "image": "", 
+    "type": "video", 
+    "id": "10590"
+  }, 
+  {
+    "group": "10587", 
+    "name": "ataka", 
+    "url": "rtmp://ataka.tv/live playpath=live swfUrl=http://www.ataka.tv/flash/flowplayer.commercial-3.2.7.swf pageUrl=http://www.ataka.tv/", 
+    "image": "", 
+    "type": "video", 
+    "id": "10591"
+  }, 
+  {
+    "group": "10587", 
+    "name": "kanal 3", 
+    "url": "rtmp://edge7.cdn.bg:2017/fls playpath=kanal3.stream swfUrl=http://i.cdn.bg/flash/jwplayer510/player.swf  pageUrl=http://i.cdn.bg/live/FP08SWAJ4v", 
+    "image": "", 
+    "type": "video", 
+    "id": "10592"
+  }, 
+  {
+    "group": "10587", 
+    "name": "TV Stoichev", 
+    "url": "rtmp://edge2.cdn.bg:2015/fls playpath=tvstoichev.stream swfUrl=http://i.cdn.bg/flash/jwplayer510/player.swf pageUrl=http://i.cdn.bg/live/QL9rX3uDRj", 
+    "image": "", 
+    "type": "video", 
+    "id": "10594"
+  }, 
+  {
+    "group": "10587", 
+    "name": "tvmix", 
+    "url": "http://109.160.31.20:8090/tvmix_big.flv", 
+    "image": "", 
+    "type": "video", 
+    "id": "10596"
+  }, 
+  {
+    "group": "10587", 
+    "name": "Bulgaria On Air", 
+    "url": "rtmp://edge1.evolink.net:2006/fls playpath=bonair.stream swfUrl=http://i.cdn.bg/flash/jwplayer510/player.swf live=1 pageUrl=http://cdn.bg/live/Uq4ex0JYft", 
+    "image": "", 
+    "type": "video", 
+    "id": "10598"
+  }, 
+  {
+    "group": "10587", 
+    "name": "CITY TV", 
+    "url": "rtmp://nodeb.gocaster.net:1935/CGL/_definst_/ playpath=mp4:TODAYFM_TEST2 swfUrl=http://iphone.fmstreams.com/jwplayer/player.swf live=1 pageUrl=http://city.bg/live/", 
+    "image": "", 
+    "type": "video", 
+    "id": "10599"
+  }, 
+  {
+    "group": "10587", 
+    "name": "Diana Kabel TV", 
+    "url": "rtmp://78.83.128.247/stream/ playpath=8 swfUrl=http://78.83.128.247/dk1/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://78.83.128.247/dk1/", 
+    "image": "", 
+    "type": "video", 
+    "id": "10600"
+  }, 
+  {
+    "group": "10587", 
+    "name": "Evrokom", 
+    "url": "rtmp://145.255.192.8:1935/live/ playpath=stream swfUrl=http://releases.flowplayer.org/5.4.3/flowplayer.swf live=1 pageUrl=http://www.eurocom.bg/live.php", 
+    "image": "", 
+    "type": "video", 
+    "id": "10601"
+  }, 
+  {
+    "group": "10587", 
+    "name": "Plovdivska Pravoslavna TV (Catholic)", 
+    "url": "rtmp://31.13.218.108/live/ playpath=mpegts.stream swfUrl=http://www.plovdivskamitropolia.bg/modules/mod_playerjr/player-licensed5.swf live=1 pageUrl=http://www.plovdivskamitropolia.bg/", 
+    "image": "", 
+    "type": "video", 
+    "id": "10603"
+  }, 
+  {
+    "group": "10587", 
+    "name": "TV7", 
+    "url": "http://tv7-hls-eu-perm-live.hls.adaptive.level3.net/tv7live.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10604"
+  }, 
+  {
+    "group": "10587", 
+    "name": "TV Cherno More", 
+    "url": "rtmp://edge2.evolink.net:2006/fls playpath=chmore.stream swfUrl=http://i.userstat.cdn.bg/flash/jwplayer510/player.swf live=1 pageUrl=http://www.cdn.bg/live/YCM2d1fpD9", 
+    "image": "", 
+    "type": "video", 
+    "id": "10605"
+  }, 
+  {
+    "group": "10587", 
+    "name": "The Voice BG", 
+    "url": "rtmp://31.13.217.76/rtplive playpath=thevoice_live.stream swfUrl=http://www.thevoice.bg/js/thevoice_videostreem.swf live=1 pageUrl=http://www.thevoice.bg/stream - See more at: http://simpletv.cc/2014/08/21/bulgarian-chs-list-hd-22814/#sthash.kfNGHPyg.dpuf", 
+    "image": "", 
+    "type": "video", 
+    "id": "10606"
+  }
+]

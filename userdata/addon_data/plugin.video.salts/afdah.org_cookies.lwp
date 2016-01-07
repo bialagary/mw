@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: __cfduid=d267038ab2539c24518b42faf6fcd3b7c1443890224; path="/"; domain=".afdah.org"; path_spec; domain_dot; expires="2016-10-02 16:37:04Z"; HttpOnly=None; version=0
+Set-Cookie3: begin_referer="https%3A%2F%2Fafdah.org%2Fresults%3Fq%3DJurassic%2BWorld"; path="/"; domain="afdah.org"; discard; version=0
+Set-Cookie3: ci_session="a%3A5%3A%7Bs%3A10%3A%22session_id%22%3Bs%3A32%3A%225f769662590e291b3cd8cf2b40fe412b%22%3Bs%3A10%3A%22ip_address%22%3Bs%3A13%3A%22141.101.98.70%22%3Bs%3A10%3A%22user_agent%22%3Bs%3A73%3A%22Mozilla%2F5.0+%28Windows+NT+5.1%3B+Win64%3B+x64%3B+Trident%2F7.0%3B+rv%3A11.0%29+like+Gecko%22%3Bs%3A13%3A%22last_activity%22%3Bi%3A1450559195%3Bs%3A9%3A%22user_data%22%3Bs%3A0%3A%22%22%3B%7D9c3e00b0a41593ab024424259962e057"; path="/"; domain="afdah.org"; path_spec; expires="2017-12-18 21:06:35Z"; version=0
+Set-Cookie3: prounder=1; path="/"; domain="afdah.org"; expires="2015-12-19 21:08:35Z"; version=0

@@ -1,0 +1,10 @@
+
+name="Logged in?"
+url="none"
+img=" "
+fanart=" "
+description="[COLOR red]You are currently logged in![/COLOR][CR]
+[CR]
+[CR]
+    You will now get many more quality video sources in the Movies and TV Show sections!!!! "
+type="status"

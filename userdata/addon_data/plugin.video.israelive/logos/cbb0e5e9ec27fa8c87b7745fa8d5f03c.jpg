@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=9" >
+<title>Gadget&nbsp;&colon;&nbsp;Home</title>
+<link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans:400,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans+Caption' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Fjalla+One' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="http://www.gadget.co.za/wp-content/themes/gadgettwo/style.css">
+<!--<script language="javascript" src="wp-content/themes/gadgettwo/jquery.js"></script> -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script language="javascript" src="wp-content/themes/gadgettwo/jquery.gadget.js"></script> 
+<script language="javascript" src="wp-content/themes/gadgettwo/jquery.tweet.js" type="text/javascript"></script> 
+
+<link rel="stylesheet" href="http://www.gadget.co.za/wp-content/themes/gadgettwo/fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+<script type="text/javascript" src="http://www.gadget.co.za/wp-content/themes/gadgettwo/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript" src="http://www.gadget.co.za/wp-content/themes/gadgettwo/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.0"></script>
+<script>
+$(window).ready(function(){
+	$currentpage=1;
+	$('.turn-page').click(function(){
+		
+		$number=parseInt($(this).attr('id'));
+		$('.page-number').removeClass('on');
+		$pos=($number-1)*720;
+		if($number>$currentpage)
+		{
+			$('.home-posts-container').animate({left:'-'+$pos+'px'}, 500, function(){});
+			$(this).parent().addClass('on');
+		}
+		else if ($number<$currentpage)
+		{
+			$('.home-posts-container').animate({left:'-'+$pos+'px'}, 500, function(){});
+			$(this).parent().addClass('on');
+		}
+		$currentpage=$number;
+	});
+	$('.fancybox-media').fancybox({
+		openEffect  : 'none',
+		closeEffect : 'none',
+		helpers : {
+			media : {}
+		}
+	});
+	$('.fancybox').fancybox({
+		maxWidth	: 600,
+		maxHeight	: 350,
+		fitToView	: false,
+		width		: '70%',
+		height		: '70%',
+		autoSize	: false,
+		closeClick	: false,
+		openEffect	: 'none',
+		closeEffect	: 'none'
+	});
+});
+</script>
+
+<!-- <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17642957-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>-->
+	                       
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/7938/Gadget-Web/Homepage', [728, 90], 'div-gpt-ad-1357554702842-0').addService(googletag.pubads()).setTargeting("pos","Leaderboard");
+googletag.defineSlot('/7938/Gadget-Web/Homepage', [[300, 250], [300, 600]], 'div-gpt-ad-1357554702842-1').addService(googletag.pubads()).setTargeting("pos","MPU");
+googletag.defineSlot('/7938/Gadget-Web/Homepage', [728, 90], 'div-gpt-ad-1357554702842-2').addService(googletag.pubads()).setTargeting("pos","Superbanner");
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>  
+
+</head>
+<body>
+
+<div id="wrapper">
+<div id="header">
+<div id="site-banner">
+	<div id="gadget-logo"><a href="http://www.gadget.co.za" title="Gadget Home"><img src="http://www.gadget.co.za/wp-content/uploads/2015/01/wp-logo.jpg"/></a></div>
+	<div id="header-ad" style="background:transparent;height:120px;text-align:center;">
+		<a href="https://www.facebook.com/huaweidevicesouthafrica?fref=ts" target="_blank"><img width="486" height="120" src="http://www.gadget.co.za/wp-content/uploads/2015/07/486x1203.gif" class="attachment-full wp-post-image" alt="486x120[3]" /></a>	</div>
+</div>
+<div id="search-box">
+<form name="search" id="search" action="http://www.gadget.co.za/" method="get">
+	<input type="text" name="s" id="s" class="search-field" value="{ Type here to search"/>
+	<input type="hidden" value="any" name="post_type" id="post_type" />
+	<input type="submit" class="search-submit" value=""/>
+</form><div style="clear:both;"></div>
+</div>
+<div id="nav"><div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-278" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-278"><a href="http://www.gadget.co.za">Home</a></li>
+<li id="menu-item-685" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-685"><a href="http://www.gadget.co.za/category/topics/">Topics</a>
+<ul class="sub-menu">
+	<li id="menu-item-699" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-699"><a href="http://www.gadget.co.za/category/topics/africa-news/">Africa News</a></li>
+	<li id="menu-item-221" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-221"><a href="http://www.gadget.co.za/category/topics/arts-and-entertainment/">Arts and Entertainment</a></li>
+	<li id="menu-item-222" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-222"><a href="http://www.gadget.co.za/category/topics/audio-visual/">Audio/Visual</a></li>
+	<li id="menu-item-223" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-223"><a href="http://www.gadget.co.za/category/topics/dvd-bookstore/">DVD &#038; Bookstore</a></li>
+	<li id="menu-item-226" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-226"><a href="http://www.gadget.co.za/category/topics/hardware/fun-hardware/">Fun Hardware</a></li>
+	<li id="menu-item-232" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-232"><a href="http://www.gadget.co.za/category/topics/software/fun-software/">Fun Software</a></li>
+	<li id="menu-item-225" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-225"><a href="http://www.gadget.co.za/category/topics/goldstuck-on-gadgets/">Goldstuck on Gadgets</a></li>
+	<li id="menu-item-228" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-228"><a href="http://www.gadget.co.za/category/topics/mobile/">Mobile</a></li>
+	<li id="menu-item-229" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-229"><a href="http://www.gadget.co.za/category/topics/my-gadget/">My Gadget</a></li>
+	<li id="menu-item-668" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-668"><a href="http://www.gadget.co.za/category/topics/news/">News</a></li>
+	<li id="menu-item-230" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-230"><a href="http://www.gadget.co.za/category/topics/people-n-issues/">People &#8216;n&#8217; Issues</a></li>
+	<li id="menu-item-231" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-231"><a href="http://www.gadget.co.za/category/topics/product-reviews/">Product Reviews</a></li>
+	<li id="menu-item-227" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-227"><a href="http://www.gadget.co.za/category/topics/hardware/serious-hardware/">Serious Hardware</a></li>
+	<li id="menu-item-233" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-233"><a href="http://www.gadget.co.za/category/topics/software/serious-software/">Serious Software</a></li>
+	<li id="menu-item-234" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-234"><a href="http://www.gadget.co.za/category/topics/something-on-the-side/">Sean Bacher</a></li>
+	<li id="menu-item-235" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-235"><a href="http://www.gadget.co.za/category/topics/sports-tech/">Sports Tech</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-236"><a href="http://www.gadget.co.za/category/topics/web-world/">Web World</a></li>
+</ul>
+</li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://www.gadget.co.za/about-us/">About Us</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://www.gadget.co.za/advertise/">Advertise</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://www.gadget.co.za/contact-us/">Contact Us</a></li>
+</ul></div><div class="subscribe"><ul id="menu-subscribe-menu" class="menu"><li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a class="fancybox" data-fancybox-type="iframe" href="http://www.gadget.co.za/subscribe">Subscribe</a></li>
+</ul></div><div id="delimiter"></div></div>
+
+</div><div id="main">
+	<div id="main-inner">
+	<div id="content">
+		<link href='http://fonts.googleapis.com/css?family=Crimson+Text' rel='stylesheet' type='text/css'>
+<link href="http://fonts.googleapis.com/css?family=PT+Sans:400,700" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.gadget.co.za/wp-content/plugins/GadgetFeatures/gadget-features.css" media="screen" type="text/css"/>
+
+<div id="features-container">
+<ul id="features-tabs" class="menu">
+<li class="menu-item"  id="tab-1" ><a href="#">Featured</a></li><li class="menu-item"  id="tab-2" ><a href="#">Hardware</a></li><li class="menu-item"  id="tab-3" ><a href="#">Software</a></li><li class="menu-item"  id="tab-4" ><a href="#">Mobile</a></li><li class="menu-item"  id="tab-5" ><a href="#">People 'n' Issues</a></li><li class="menu-item"  id="tab-6" ><a href="#">Sean Bacher</a></li><li class="menu-item"style="border-right:none;"  id="tab-7" ><a href="#">Goldstuck on Gadgets</a></li>	
+</ul>
+</div>
+
+<div id="features-content">
+		
+	 			<div class="content" id="content-1">	
+			<div class="features-text">
+				<h1 style="margin:0px;line-height:20px;"><a href="http://www.gadget.co.za/sme-survey-cloud/">Tangible SME uptake of cloud services</a></h1> 
+				<p class="content-description">The uptake of cloud services in the SME sector has been growing steadily, but according to this year’s SME Survey, businesses are now realising the benefits offered by online storage, backups and services.</p>
+				<a href="http://www.gadget.co.za/sme-survey-cloud/" class="features-read-more"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/features-read-more.png"></a>
+			</div>
+			<div class="features-image">
+				<img width="280" height="234" src="http://www.gadget.co.za/wp-content/uploads/2015/07/cloud.jpg" class="attachment-featured-thumb wp-post-image" alt="cloud" />			</div>
+
+	</div>
+					
+	 			<div class="content" id="content-2">	
+			<div class="features-text">
+				<h1 style="margin:0px;line-height:20px;"><a href="http://www.gadget.co.za/apple-releases-new-ipod/">Apple releases new iPod</a></h1> 
+				<p class="content-description">More than a decade after it was first launched, the iPod has been given yet another new lease on life as Apple unveils a touch model and refreshes the colour options across the range.</p>
+				<a href="http://www.gadget.co.za/apple-releases-new-ipod/" class="features-read-more"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/features-read-more.png"></a>
+			</div>
+			<div class="features-image">
+				<img width="290" height="203" src="http://www.gadget.co.za/wp-content/uploads/2015/07/ipodnano-copy.jpg" class="attachment-featured-thumb wp-post-image" alt="ipodnano copy" />			</div>
+
+	</div>
+					
+	 			<div class="content" id="content-3">	
+			<div class="features-text">
+				<h1 style="margin:0px;line-height:20px;"><a href="http://www.gadget.co.za/proline-proactive-with-w10/">Proline proactive with W10</a></h1> 
+				<p class="content-description">Pinnacle Africa has announced the immediate availability of Proline devices, ready to launch with Windows 10.</p>
+				<a href="http://www.gadget.co.za/proline-proactive-with-w10/" class="features-read-more"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/features-read-more.png"></a>
+			</div>
+			<div class="features-image">
+				<img width="280" height="157" src="http://www.gadget.co.za/wp-content/uploads/2015/07/msw-win10-hero-slider-familiar.png" class="attachment-featured-thumb wp-post-image" alt="msw-win10-hero-slider-familiar" />			</div>
+
+	</div>
+					
+	 			<div class="content" id="content-4">	
+			<div class="features-text">
+				<h1 style="margin:0px;line-height:20px;"><a href="http://www.gadget.co.za/pinnacle-unveils-lte-phone/">Pinnacle unveils LTE phone</a></h1> 
+				<p class="content-description">Pinnacle Africa has unveiled its first LTE smartphone, the Proline XM-502, available to the market from 7 August at a recommended retail price of R1 699. The Proline XM-502 is one of a few to offer LTE connectivity under R2 000.</p>
+				<a href="http://www.gadget.co.za/pinnacle-unveils-lte-phone/" class="features-read-more"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/features-read-more.png"></a>
+			</div>
+			<div class="features-image">
+				<img width="290" height="290" src="http://www.gadget.co.za/wp-content/uploads/2015/07/XM-502-WHITE-BUN-2-zoom.jpg" class="attachment-featured-thumb wp-post-image" alt="XM-502-WHITE-BUN-2-zoom" />			</div>
+
+	</div>
+					
+	 			<div class="content" id="content-5">	
+			<div class="features-text">
+				<h1 style="margin:0px;line-height:20px;"><a href="http://www.gadget.co.za/sme-survey-cloud/">Tangible SME uptake of cloud services</a></h1> 
+				<p class="content-description">The uptake of cloud services in the SME sector has been growing steadily, but according to this year’s SME Survey, businesses are now realising the benefits offered by online storage, backups and services.</p>
+				<a href="http://www.gadget.co.za/sme-survey-cloud/" class="features-read-more"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/features-read-more.png"></a>
+			</div>
+			<div class="features-image">
+				<img width="280" height="234" src="http://www.gadget.co.za/wp-content/uploads/2015/07/cloud.jpg" class="attachment-featured-thumb wp-post-image" alt="cloud" />			</div>
+
+	</div>
+					
+	 			<div class="content" id="content-6">	
+			<div class="features-text">
+				<h1 style="margin:0px;line-height:20px;"><a href="http://www.gadget.co.za/appdate-20150614/">AppDate: App reveals free WiFi in Tshwane</a></h1> 
+				<p class="content-description">In this edition of his regular AppDate, SEAN BACHER highlights Tshwane Free WiFi, NLife Africa, WordFlex, miCoach, Hub++, Flapp, Opera with sidebar extensions and Safety Score from Momentum.</p>
+				<a href="http://www.gadget.co.za/appdate-20150614/" class="features-read-more"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/features-read-more.png"></a>
+			</div>
+			<div class="features-image">
+				<img width="414" height="341" src="http://www.gadget.co.za/wp-content/uploads/2015/06/wifi-logo--414x341.jpg" class="attachment-featured-thumb wp-post-image" alt="wifi-logo-" />			</div>
+
+	</div>
+					
+	 			<div class="content" id="content-7">	
+			<div class="features-text">
+				<h1 style="margin:0px;line-height:20px;"><a href="http://www.gadget.co.za/blackberry-pursues-greatness-the-sequel/">BlackBerry pursues Greatness: The sequel</a></h1> 
+				<p class="content-description">BlackBerry may be yesterday’s smartphone brand but, at its annual Security Summit in New York, it was looking a lot like tomorrow’s mobile security leader, writes ARTHUR GOLDSTUCK</p>
+				<a href="http://www.gadget.co.za/blackberry-pursues-greatness-the-sequel/" class="features-read-more"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/features-read-more.png"></a>
+			</div>
+			<div class="features-image">
+				<img width="280" height="163" src="http://www.gadget.co.za/wp-content/uploads/2015/07/1058006.jpg" class="attachment-featured-thumb wp-post-image" alt="1058006" />			</div>
+
+	</div>
+			<div style="clear:both;"></div>
+</div>
+
+<script src="wp-content/plugins/GadgetFeatures/gadget-features.js"></script>
+		<div id="home-basket">
+			<div id="top-stories"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/top-stories.png" style="background:#fff;line-height:22px;"/></div>
+						<div id="posts-container">
+			<div class="home-posts-container">
+			<!-- open home posts page -->
+			<div class="home-posts-page" id="page-1">
+						<div class="home-post odd">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/people-n-issues/">People 'n' Issues</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 30th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/sme-survey-shedding/" title="Load shedding biggest threat to SMEs">Load shedding biggest threat to SMEs</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/sme-survey-shedding/" title="Load shedding biggest threat to SMEs"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/eskom-640-150x150.jpg" class="attachment-150x150 wp-post-image" alt="eskom-640" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">This year’s SME Survey has revealed that small businesses now consider load shedding to be the biggest threat to their livelihood.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/sme-survey-shedding/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+											
+			
+						<div class="home-post">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/software/serious-software/">Serious Software</a> | <a href="http://www.gadget.co.za/category/topics/software/">Software</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 30th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/proline-proactive-with-w10/" title="Proline proactive with W10">Proline proactive with W10</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/proline-proactive-with-w10/" title="Proline proactive with W10"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/msw-win10-hero-slider-familiar-150x150.png" class="attachment-150x150 wp-post-image" alt="msw-win10-hero-slider-familiar" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">Pinnacle Africa has announced the immediate availability of Proline devices, ready to launch with Windows 10.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/proline-proactive-with-w10/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+			<div class="home-divider"></div>								
+			
+						<div class="home-post odd">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/people-n-issues/">People 'n' Issues</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 30th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/disruption-driving-innovation-or-causing-chaos/" title="Disruption driving innovation &#8211; or causing chaos?">Disruption driving innovation &#8211; or causing chaos?</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/disruption-driving-innovation-or-causing-chaos/" title="Disruption driving innovation &#8211; or causing chaos?"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/33d93ac-150x150.jpg" class="attachment-150x150 wp-post-image" alt="33d93ac" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">Disruptive technologies are changing lives and transforming markets and according to GYS KAPPERS, CEO of Wyzetalk, this brings two elements to the fore – that a company is not being made obsolete and that rather than seeing chaos, businesses see the opportunity.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/disruption-driving-innovation-or-causing-chaos/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+											
+			
+						<div class="home-post">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/people-n-issues/">People 'n' Issues</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 30th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/ordinary-heroes-honoured/" title="Ordinary heroes honoured">Ordinary heroes honoured</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/ordinary-heroes-honoured/" title="Ordinary heroes honoured"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/UpgradeYourWorld_CampaignImagery_03-440x310-150x150.jpg" class="attachment-150x150 wp-post-image" alt="UpgradeYourWorld_CampaignImagery_03-440x310" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">Alongside the launch of Windows 10, Microsoft announced its Upgrade Your World initiative, a program where the company highlights and rewards educators for their work done in shaping the lives of South Africa’s future leaders.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/ordinary-heroes-honoured/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+			<div class="home-divider"></div>			</div><div class="home-posts-page" id="page-2">					
+			
+						<div class="home-post odd">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/software/serious-software/">Serious Software</a> | <a href="http://www.gadget.co.za/category/topics/software/">Software</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 29th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/windows-10-released-in-190-countries-with-free-upgrade/" title="Windows 10 released in 190 countries with free upgrade">Windows 10 released in 190 countries with free upgrade</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/windows-10-released-in-190-countries-with-free-upgrade/" title="Windows 10 released in 190 countries with free upgrade"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/windows_product_family_9-30-event-741x416-150x150.png" class="attachment-150x150 wp-post-image" alt="windows_product_family_9-30-event-741x416" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">Microsoft today released its new operating system, Windows 10, as a free upgrade, offering a wide range of innovations and restoring the much-missed Start menu.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/windows-10-released-in-190-countries-with-free-upgrade/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+											
+			
+						<div class="home-post">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+										</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 29th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/samsung-launches-tab-s2-worlds-thinnest-tablet/" title="Samsung launches Tab S2, world&#8217;s thinnest tablet">Samsung launches Tab S2, world&#8217;s thinnest tablet</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/samsung-launches-tab-s2-worlds-thinnest-tablet/" title="Samsung launches Tab S2, world&#8217;s thinnest tablet"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/samsung-galaxy-tab-s2-150x150.jpg" class="attachment-150x150 wp-post-image" alt="samsung-galaxy-tab-s2" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">Samsung has announced the Galaxy Tab S2, the thinnest and lightest in its current range and with a Super AMOLED display optimised for reading and viewing just about any type of digital content.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/samsung-launches-tab-s2-worlds-thinnest-tablet/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+			<div class="home-divider"></div>								
+			
+						<div class="home-post odd">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/people-n-issues/">People 'n' Issues</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 29th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/new-gibs-programme-to-advance-women-in-ict/" title="New GIBS programme to advance women in ICT">New GIBS programme to advance women in ICT</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/new-gibs-programme-to-advance-women-in-ict/" title="New GIBS programme to advance women in ICT"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/black-working-woman-150x150.jpg" class="attachment-150x150 wp-post-image" alt="black-working-woman" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">In South Africa only 27% of women hold managerial positions according to the 2015 Global Women Entrepreneurs leaders score card. In an effort to even this out, GIBS has launched an initiative to empower female owned SMEs in the ICT field through support, mentorship and training.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/new-gibs-programme-to-advance-women-in-ict/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+											
+			
+						<div class="home-post">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/goldstuck-on-gadgets/">Goldstuck on Gadgets</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 28th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/blackberry-pursues-greatness-the-sequel/" title="BlackBerry pursues Greatness: The sequel">BlackBerry pursues Greatness: The sequel</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/blackberry-pursues-greatness-the-sequel/" title="BlackBerry pursues Greatness: The sequel"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/1058006-150x150.jpg" class="attachment-150x150 wp-post-image" alt="1058006" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">BlackBerry may be yesterday’s smartphone brand but, at its annual Security Summit in New York, it was looking a lot like tomorrow’s mobile security leader, writes ARTHUR GOLDSTUCK</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/blackberry-pursues-greatness-the-sequel/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+			<div class="home-divider"></div>			</div><div class="home-posts-page" id="page-3">					
+			
+						<div class="home-post odd">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/people-n-issues/">People 'n' Issues</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 28th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/airbnb-books-into-sa/" title="Airbnb books into SA">Airbnb books into SA</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/airbnb-books-into-sa/" title="Airbnb books into SA"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/airbnb-150x150.jpg" class="attachment-150x150 wp-post-image" alt="airbnb" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">Earlier this week, Airbnb was officially launched in South Africa. The service offers users a marketplace to list, discover and book accommodation around the world - all online and even from a mobile phone.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/airbnb-books-into-sa/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+											
+			
+						<div class="home-post">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/">Topics</a> | <a href="http://www.gadget.co.za/category/topics/web-world/">Web World</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 28th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/m2m-barometer-reveals-iot-explosion-in-sa/" title="M2M Barometer reveals IoT explosion in SA">M2M Barometer reveals IoT explosion in SA</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/m2m-barometer-reveals-iot-explosion-in-sa/" title="M2M Barometer reveals IoT explosion in SA"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/the-internet-of-things-150x150.jpg" class="attachment-150x150 wp-post-image" alt="Print" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">Vodafone’s recently released M2M barometer report has revealed a rapid growth in ‘Internet of Things’ in South Africa and across the globe.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/m2m-barometer-reveals-iot-explosion-in-sa/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+			<div class="home-divider"></div>								
+			
+						<div class="home-post odd">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/people-n-issues/">People 'n' Issues</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 28th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/technology-that-shines-a-light-in-the-face-of-load-shedding/" title="Technology that shines a light in the face of load shedding">Technology that shines a light in the face of load shedding</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/technology-that-shines-a-light-in-the-face-of-load-shedding/" title="Technology that shines a light in the face of load shedding"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/load-shedding-150x150.jpg" class="attachment-150x150 wp-post-image" alt="load-shedding" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">Load shedding is going to be with us for some time in the future, and with it comes endless inconveniences, for both citizens and businesses. ELAINE WANG of Rectron discusses how companies can use technology to stay connected and operational during load shedding.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/technology-that-shines-a-light-in-the-face-of-load-shedding/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+											
+			
+						<div class="home-post">
+										<div class="home-cat">
+					<div>	
+					<!--category: -->
+					<a href="http://www.gadget.co.za/category/topics/people-n-issues/">People 'n' Issues</a> | <a href="http://www.gadget.co.za/category/topics/">Topics</a>					</div>
+					<div class="level easy-tech"></div>
+					<div class="whoby">-<span style="text-transform:initial;">July 27th, 2015</span><!--,&nbsp;<a href="http://www.gadget.co.za/author/sean/" title="Posts by Sean Bacher" rel="author">Sean Bacher</a><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/editor.png" style="float:right;margin:-3px 3px;"/>--></div>
+				</div>
+				
+				<h1><a href="http://www.gadget.co.za/digital-amnesia-strikes/" title="Digital amnesia strikes">Digital amnesia strikes</a></h1>
+				<div class="home-inner">
+					<a href="http://www.gadget.co.za/digital-amnesia-strikes/" title="Digital amnesia strikes"><img width="150" height="150" src="http://www.gadget.co.za/wp-content/uploads/2015/07/google-150x150.png" class="attachment-150x150 wp-post-image" alt="google" style="float:left;padding-right:8px;padding-bottom:10px;" /></a>
+					<p class="prev-desc">A new study has revealed that the ease with which we can search for a person’s personal details online has led to many users not being able to recall vital information such as their home telephone number.</p>
+				</div>
+				<div class="read-full">
+					<a href="http://www.gadget.co.za/digital-amnesia-strikes/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/read_full.jpg" style="float:left;padding-right:5px;">
+					Read Full Story</a>
+				</div>
+			</div>
+			<div class="home-divider"></div>			</div>					
+			
+				
+			<div style="clear:both;"></div>
+			</div>
+			<div id="pagination">
+				<div class="page-number on"><a href="javascript:void(0);" class="turn-page" id="1">1</a></div><div class="page-number"><a href="javascript:void(0);" class="turn-page" id="2">2</a></div><div class="page-number"><a href="javascript:void(0);" class="turn-page" id="3">3</a></div>			<div style="clear:both;"></div>
+			</div>
+			
+			<div style="clear:both;"></div>
+			</div>
+		</div>
+		<div id="gadgets">
+			<div id="gadgets-of-the-week">
+				<div class="quotes"><img src="http://www.gadget.co.za/wp-content/uploads/2014/10/quotes.png"/></div>				
+				<h1>Picture this...</h1></div>
+				<div id="windows" style="border-right:solid 1px #bdbdbd;margin-left:0px;padding:0 10px;">
+				<a href="http://www.gadget.co.za/category/picture-this/movie-of-the-week/" title="Movie of the Week" style="text-decoration:none;"><h1>Movie of the Week</h1></a>
+																   <a href="https://youtu.be/XAHprLW48no" class="fancybox-media"><img width="210" height="131" src="http://www.gadget.co.za/wp-content/uploads/2015/07/pixels_movie-wide.jpg" class="attachment-post-thumbnail wp-post-image" alt="pixels_movie-wide" /></a>
+					<a href="http://www.gadget.co.za/category/picture-this/movie-of-the-week/" title="Movie of the Week" style="text-decoration:none;"><p><strong>Pixels</strong></p></a><p>When aliens see video feeds of classic arcade games, they misinterpret them as a declaration of war. They attack, using the games as models for their various assaults. President Will Cooper has to call on his best friend from childhood, video-game-champ-turned-home-theatre-installer Jules Brenner (Adam Sandler), to lead a team of old-school arcade gamers on a mission to defeat the aliens and save the planet.</p>								   								   								   								   								   								   								   							
+				</div>
+
+				<div id="android" style="border-right:solid 1px #bdbdbd;padding-right:10px;">
+				<a href="http://www.gadget.co.za/category/picture-this/video-of-the-day/" title="Video of the Day" style="text-decoration:none;"><h1>Video of the Day</h1></a>
+												 
+				  <a href="https://youtu.be/vekf8VNQT6U" class="fancybox-media" style="color:#2f2f2f;text-decoration:none;" target="_blank"><img width="210" height="251" src="http://www.gadget.co.za/wp-content/uploads/2015/07/Jason-Voorhees-Mortal-Kombat-X-poster.jpg" class="attachment-post-thumbnail wp-post-image" alt="Jason-Voorhees-Mortal-Kombat-X-poster" /></a><p>The Mortal Kombat X Jason Voorhees Bundle is available for download to Kombat Pack owners. The Jason Voorhees Bundle includes playable character and Friday the 13th icon, Jason Voorhees and the Horror Pack, comprising of three horror-themed skins including Vampiress Mileena, Kraken Reptile and Pharaoh Ermac</p>				 
+				  				 
+				  				 
+				  				 
+				  				 
+				  				 
+				  				 
+				  				 
+				  				 
+				  								
+				</div>
+				
+				<div id="apple">
+				<a href="http://www.gadget.co.za/category/picture-this/product-of-the-day/" title="Product of the Day" style="text-decoration:none;"><h1>Product of the Day</h1></a>
+																   <p><a href="http://www.dell.co.za"><img class="aligncenter size-full wp-image-1330" src="http://www.gadget.co.za/wp-content/uploads/2015/07/unnamed6.jpg" alt="unnamed" width="210" height="210" /></a></p>
+<p>Dell’s <a href="http://t.signauxdeux.com/e1t/c/5/f18dQhb0SmZ58dDMPbW2n0x6l2B9nMJW7sM9dn7dK_MMdBzM2-04?t=http%3A%2F%2Fwww.dell.com%2Fus%2Fbusiness%2Fp%2Fpoweredge-c6320%2Fpd&amp;si=6731432884961280&amp;pi=664ba38a-3346-4d44-cf19-1dfaf33fe511">PowerEdge C6320</a> is the latest addition in its 13<sup>th</sup> generation Dell PowerEdge server portfolio.  The PowerEdge C6320 delivers up to a two times performance improvement on the leading HPC performance benchmark, and has the right mix of cost-efficient compute and storage in a compact, 2U chassis for HPC and hyper-converged solutions and appliances, allowing customers to meet demanding workload needs.</p>
+								   								   								   								   								   								   								   								   								   								</div>
+			</div>	
+		</div>
+		<div id="footer-ad" style="background:url('http://www.gadget.co.za/wp-content/uploads/2014/10/ad-placeholder728x90.jpg');">
+		<!-- Gadget-Web/Homepage Superbanner -->
+				<div id='div-gpt-ad-1357554702842-2'>
+				<script type='text/javascript'>
+				googletag.cmd.push(function() { googletag.display('div-gpt-ad-1357554702842-2'); });
+				</script>
+				</div> 
+				<script type="text/javascript">
+	  			(function() {
+    				var nid = "100";  /* network id */
+    				var aid = "1357554702842-2";     /* creative id */
+    				var img = new Image(1,1);
+				    img.src = "//za.effectivemeasure.net/emnb_" + nid + "_" + aid + ".gif?_em_nmb=" + (new Date()).getTime();
+				})();
+				</script>
+
+			
+		</div>
+	</div>
+	<div id="sidebar">
+
+	<div id="primary-sidebar" class="primary-sidebar widget-area" role="complementary">
+		<div class="sidebar-inner">
+		<div><h2 class="rounded">Gadget on Youtube</h2>			<div class="textwidget"><div class="widget-inner" style="text-align:justify;"><a href="http://www.gadget.co.za/category/gadget-on-youtube"><img src="http://www.gadget.co.za/wp-content/uploads/2014/09/gadget-on-youtube.png"/></a>
+<a href="https://youtu.be/dElygh9FWDU" class="fancybox-media" style="color:#2f2f2f;text-decoration:none;" target="_blank"><img width="268" height="152" src="http://www.gadget.co.za/wp-content/uploads/2015/06/Screen-Shot-2015-06-15-at-2.43.16-PM-copy-e1434372515104.png" class="attachment-post-thumbnail wp-post-image" alt="Screen Shot 2015-06-15 at 2.43.16 PM copy" /></a><p class="youtube-desc">From coffee makers to washing machines, smart home appliances are invading the gadgets world. Arthur Goldstuck tries to be an iron man of a different kind as he invites Lucy Jones of Philips into the BrandTV studio to demonstrate a revolutionary new ... iron.</p><p><script src="https://apis.google.com/js/platform.js"></script><div class="g-ytsubscribe" data-channelid="UCQjnzM6js1_CRv7UOeyw61w" data-layout="full" data-count="default"></div></p></div></div>
+		</div>		</div>
+		<div class="sidebar-inner">
+		<div><h2 class="rounded">News</h2>			<div class="textwidget"><div class="widget-inner"><a href="http://www.gadget.co.za/category/topics/news/"><img src="http://www.gadget.co.za/wp-content/uploads/2015/04/news-header.png"/></a>	<a href="http://www.gadget.co.za/e-learning-not-a-silver-bullet/" title="E-learning not a silver bullet" style="text-decoration:none;" ><h1 style="margin:0px;">E-learning not a silver bullet</h1></a>
+        <p class="prev-desc">Traditional teaching should happen in conjunction with technology solutions that benefit the process of learning and teaching rather than trying to replace it, writes DUNCAN ALFREDS.</p>
+        <a href="http://www.gadget.co.za/e-learning-not-a-silver-bullet/" title="E-learning not a silver bullet"  style="text-decoration:none;"><div class="read-full">Read full story</div></a>
+</div></div>
+		</div>		</div>
+		<div class="sidebar-inner">
+		<div><h2 class="rounded">Previous Articles</h2>			<div class="textwidget"><div class="widget-inner"><img src="http://www.gadget.co.za/wp-content/uploads/2014/09/previous-articles.png"/><ul> 
+<li><a href="http://www.gadget.co.za/sme-survey-cloud/" title="Look Tangible SME uptake of cloud services" >   Tangible SME uptake of cloud services</a> </li>
+ 
+<li><a href="http://www.gadget.co.za/sme-survey-shedding/" title="Look  Load shedding biggest threat to SMEs" >    Load shedding biggest threat to SMEs</a> </li>
+ 
+<li><a href="http://www.gadget.co.za/proline-proactive-with-w10/" title="Look Proline proactive with W10" >   Proline proactive with W10</a> </li>
+ 
+<li><a href="http://www.gadget.co.za/disruption-driving-innovation-or-causing-chaos/" title="Look Disruption driving innovation - or causing chaos?" >   Disruption driving innovation - or causing chaos?</a> </li>
+ 
+<li><a href="http://www.gadget.co.za/ordinary-heroes-honoured/" title="Look Ordinary heroes honoured" >   Ordinary heroes honoured</a> </li>
+ 
+<li><a href="http://www.gadget.co.za/windows-10-released-in-190-countries-with-free-upgrade/" title="Look Windows 10 released in 190 countries with free upgrade" >   Windows 10 released in 190 countries with free upgrade</a> </li>
+ 
+<li><a href="http://www.gadget.co.za/samsung-launches-tab-s2-worlds-thinnest-tablet/" title="Look Samsung launches Tab S2, world&#039;s thinnest tablet" >   Samsung launches Tab S2, world's thinnest tablet</a> </li>
+ 
+<li><a href="http://www.gadget.co.za/new-gibs-programme-to-advance-women-in-ict/" title="Look New GIBS programme to advance women in ICT" >   New GIBS programme to advance women in ICT</a> </li>
+ 
+<li><a href="http://www.gadget.co.za/blackberry-pursues-greatness-the-sequel/" title="Look BlackBerry pursues Greatness: The sequel" >   BlackBerry pursues Greatness: The sequel</a> </li>
+</ul></div></div>
+		</div>		</div>
+		<div class="sidebar-inner">
+		<div>			<div class="textwidget"></div>
+		</div><div><h2 class="rounded">Twitter</h2>			<div class="textwidget"><a class="twitter-timeline"  href="https://twitter.com/GadgetZA" data-widget-id="421617211111780352" height="350">Tweets by @GadgetZA</a>            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+		</div>		</div>
+		<div class="sidebar-inner">
+		<div><h2 class="rounded">Advert</h2>			<div class="textwidget"><div id="sidebar-ad" style="background:url('http://www.gadget.co.za/wp-content/uploads/2014/10/ad-placeholder300x250.jpg');">
+
+<!-- Gadget-Web/Homepage MPU -->
+<div id='div-gpt-ad-1357554702842-1'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1357554702842-1'); });
+</script>
+</div>   
+<script type="text/javascript">
+  (function() {
+    var nid = "100";  /* network id */
+    var aid = "1357554702842-1";     /* creative id */
+    var img = new Image(1,1);
+    img.src = "//za.effectivemeasure.net/emnb_" + nid + "_" + aid + ".gif?_em_nmb=" + (new Date()).getTime();
+})();
+</script>
+</div></div>
+		</div>		</div>
+		<div class="sidebar-inner">
+		<div><h2 class="rounded">Social Media</h2>			<div class="textwidget"><div class="social-media-header">Social Media</div><div class="social-media-inner"><div class="social-text">Follow us on Twitter and Facebook or grab the RSS feed</div><div class="social-icons"><a href="http://feeds.feedburner.com/co/gadgetza" target="_blank"><img src="http://www.gadget.co.za/wp-content/uploads/2014/09/rss.png"></a><a href="http://www.twitter.com/GadgetZA" target="_blank"><img src="http://www.gadget.co.za/wp-content/uploads/2014/09/twitter.png"></a><a href="https://www.facebook.com/pages/Gadgetcoza/110460988972800?sk=timeline" target="_blank"><img src="http://www.gadget.co.za/wp-content/uploads/2014/09/facebook.png"></a><a href="http://digg.com/submit?phase=2&url=http://www.gadget.co.za/e-learning-not-a-silver-bullet/&title=E-learning not a silver bullet"><img src="http://www.gadget.co.za/wp-content/uploads/2014/09/digg.png"></a><a href="http://www.stumbleupon.com/submit?url=http://www.gadget.co.za/e-learning-not-a-silver-bullet/"><img src="http://www.gadget.co.za/wp-content/uploads/2014/09/stumbleupon.png"></a></div></div></div>
+		</div>		</div>
+	</div><!-- #primary-sidebar -->
+	
+
+</div>
+	<div id="delimiter"></div>	
+	</div>
+	<div id="delimiter"></div>
+	
+	<div id="footer">
+	<div id="footer-inner">
+	<div id="worldwideworx"><img src="../wp-content/uploads/2014/08/worldwideworx.png"/></div>
+	<div id="footer-contact">
+		<h4>Contact Us</h4>
+		<img src="../wp-content/uploads/2014/08/address-icon.png" class="footer-icon"/>
+		<p>PO Box 752, Pinegowrie, 2123, South Africa</p>
+		<img src="../wp-content/uploads/2014/08/phone-icon.png" class="footer-icon"/>
+		<p>+27 (011) 782 7003</p>
+		<img src="../wp-content/uploads/2014/08/mail-icon.png" class="footer-icon"/>
+		<p><a href="mailto:info@gadget.co.za">Email Gadget</a></p>
+	</div>
+	<div id="footer-team">
+		<h4>The Editors</h4>
+		<img src="../wp-content/uploads/2014/08/team-icon.png" class="footer-icon"/>
+		<p><a href="#" title="Arthur Goldstuck">Arthur Goldstuck</a>&nbsp;Editor-in-chief</p>
+		<img src="../wp-content/uploads/2014/08/team-icon.png" class="footer-icon"/>
+		<p><a href="#" title="Sean Bacher">Sean Bacher</a>&nbsp;Editor</p>
+	</div>
+	<div id="delimiter"></div>
+	</div>
+	<div id="absol">Theme design and development by <a href="http://www.absol.co.za" target="_blank">Absol Internet Business Solutions<img src="http://www.gadget.co.za/wp-content/uploads/2014/11/absol-logo.jpg" height="50"/></a></div>
+	<div id="delimiter"></div>
+</div>
+</div>
+<script>
+				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+				
+				  ga('create', 'UA-7821768-1', 'auto');
+				  ga('send', 'pageview');
+				
+				</script>
+</body>
+</html>

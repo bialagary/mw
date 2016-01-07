@@ -1,0 +1,8 @@
+<settings>
+    <setting id="email" value="tk-99@hotmail.co.uk" />
+    <setting id="password" value="teknokat1" />
+    <setting id="quality" value="3" />
+    <setting id="setup" value="true" />
+    <setting id="stream_type" value="0" />
+    <setting id="verified" value="false" />
+</settings>

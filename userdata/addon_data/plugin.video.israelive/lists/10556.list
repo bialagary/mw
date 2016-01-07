@@ -1,0 +1,90 @@
+[
+  {
+    "group": "10556", 
+    "name": "Argentina - ארגנטינה", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10557"
+  }, 
+  {
+    "group": "10556", 
+    "name": "France - צרפת", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10608"
+  }, 
+  {
+    "group": "10556", 
+    "name": "Germany - גרמניה", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10625"
+  }, 
+  {
+    "group": "10556", 
+    "name": "Hungary - הונגריה", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10709"
+  }, 
+  {
+    "group": "10556", 
+    "name": "Iran - פרסית", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "11407"
+  }, 
+  {
+    "group": "10556", 
+    "name": "thailand - תאילנד", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "11472"
+  }, 
+  {
+    "group": "10556", 
+    "name": "Italy - איטליה", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10716"
+  }, 
+  {
+    "group": "10556", 
+    "name": "Romania - רומניה", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10757"
+  }, 
+  {
+    "group": "10556", 
+    "name": "Russia - רוסיה", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10763"
+  }, 
+  {
+    "group": "10556", 
+    "name": "Spain - ספרד", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "10938"
+  }, 
+  {
+    "group": "10556", 
+    "name": "Turkey - טורקיה", 
+    "url": "", 
+    "image": "", 
+    "type": "playlist", 
+    "id": "11150"
+  }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="seyirTURK.repo" 
+		name="seyirTURK repo" 
+		version="0.0.5" 
+		provider-name="seyirTURK">
+	<extension point="xbmc.addon.repository" name="seyirTURK Add-on Repository">
+		<info compressed="false">http://seyirturk.com/xbmcdownload/addons.xml</info>
+		<checksum>http://seyirturk.com/xbmcdownload/addons.xml.md5</checksum>
+		<datadir zip="true">http://seyirturk.com/xbmcdownload/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>seyirTURK Kurulum ve Guncelleme Deposu.</summary>
+		<description>seyirTURK XBMC</description>
+		<platform>all</platform>
+	</extension>
+</addon>

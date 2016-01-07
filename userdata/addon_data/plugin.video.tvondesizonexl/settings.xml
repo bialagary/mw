@@ -1,0 +1,11 @@
+<settings>
+    <setting id="displayBackControl" value="false" />
+    <setting id="drChannelType" value="0" />
+    <setting id="drForceRefresh" value="false" />
+    <setting id="drHideFinished" value="true" />
+    <setting id="drLazyLoadStream" value="false" />
+    <setting id="playbackqual" value="0" />
+    <setting id="theme" value="1" />
+    <setting id="tvShowsSource" value="0" />
+    <setting id="wishDisplayed" value="hide" />
+</settings>

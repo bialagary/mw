@@ -1,0 +1,15 @@
+[B]Version 0.1.5[/B]
+- added set Views
+
+[B]Version 0.1.4[/B]
+- added set Views
+
+[B]Version 0.1.2[/B]
+- added direct link
+- added youtube trailers
+
+[B]Version 0.1.1[/B]
+- removed tv shows not needed use ocw 
+
+[B]Version 0.1.0[/B]
+- Initial version 

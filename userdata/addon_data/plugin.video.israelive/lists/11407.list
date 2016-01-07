@@ -1,0 +1,330 @@
+[
+  {
+    "group": "11407", 
+    "name": "AAA Family", 
+    "url": "350?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12356"
+  }, 
+  {
+    "group": "11407", 
+    "name": "AAA Music", 
+    "url": "351?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12357"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Andisheh", 
+    "url": "237?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11409"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Asre Emrooz TV", 
+    "url": "350;;asreemrooz?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12358"
+  }, 
+  {
+    "group": "11407", 
+    "name": "BBC Persian", 
+    "url": "205?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11410"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Channel One", 
+    "url": "238?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11411"
+  }, 
+  {
+    "group": "11407", 
+    "name": "iFilm", 
+    "url": "205;;ifilm?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11413"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Iran TV Network", 
+    "url": "238;;irantv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11414"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB 1", 
+    "url": "372?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12359"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB 2", 
+    "url": "373?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12360"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB 3", 
+    "url": "121;;irib3;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12361"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB 4", 
+    "url": "375?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12362"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB 5", 
+    "url": "376?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12363"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB Amoozesh", 
+    "url": "381?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12364"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB Mostanad", 
+    "url": "381;;iribmostanad;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12365"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB Nasim", 
+    "url": "380?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12366"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB Ofogh", 
+    "url": "382?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12367"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB Pooya", 
+    "url": "382;;iribpooya;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12368"
+  }, 
+  {
+    "group": "11407", 
+    "name": "IRIB Salamat", 
+    "url": "380;;iribsalamat;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12369"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Irinn", 
+    "url": "http://s1.telewebion.com:1935/devices/irinn-300k.stream/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12370"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Manoto 1", 
+    "url": "205;;manoto1?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11415"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Pars TV", 
+    "url": "266;;parstv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11416"
+  }, 
+  {
+    "group": "11407", 
+    "name": "PMC TV", 
+    "url": "119;;pmctv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11418"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Jame Jam Network 2", 
+    "url": "159;;jamejam?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11422"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Royal Time TV", 
+    "url": "292;;royaltime?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11420"
+  }, 
+  {
+    "group": "11407", 
+    "name": "TV Persian", 
+    "url": "347?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11423"
+  }, 
+  {
+    "group": "11407", 
+    "name": "Farsi1", 
+    "url": "http://63.237.48.23/ios/FARSI1/FARSI1.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12371"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Bollywood", 
+    "url": "359?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12372"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Classic", 
+    "url": "354?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12373"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Junior", 
+    "url": "358?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12374"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Kurd", 
+    "url": "360?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12375"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Life", 
+    "url": "361?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12376"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM One TV", 
+    "url": "121?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12377"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Onyx", 
+    "url": "362?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12378"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM River", 
+    "url": "355?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12379"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM River", 
+    "url": "355?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12380"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Rubix", 
+    "url": "363?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12381"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Series", 
+    "url": "356?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12382"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM ST", 
+    "url": "364?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12383"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM Teen", 
+    "url": "357?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12384"
+  }, 
+  {
+    "group": "11407", 
+    "name": "GEM TV", 
+    "url": "353?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12385"
+  }
+]

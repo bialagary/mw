@@ -1,0 +1,129 @@
+[B]Version v2.5.5-7[/B]
+- MediaPlayBox parsed for video URL. Trailers are not working so far.
+
+[B]Version v2.5.4[/B]
+- SominalTv website URL updated with new.
+
+[B]Version v2.5.3[/B]
+- SominalTv website URL updated with new.
+
+[B]Version v2.5.2[/B]
+- Updated python version to support Gotham.
+
+[B]Version v2.5.1[/B]
+- Again change in website & fixed stream resolver.
+
+[B]Version v2.5.0[/B]
+- Added PlayCineFlix stream resolver.
+
+[B]Version v2.4.9[/B]
+- Added VideoPress stream resolver.
+
+[B]Version v2.4.8[/B]
+- Fixed google docs stream resolver.
+
+[B]Version v2.4.7[/B]
+- Fixed error occurring during metadata retrieval. Thanks to nhr594(xbmc user).
+
+[B]Version v2.4.6[/B]
+- Handled exceptional crash of metahandler for Eden users.
+- Added support for resolving video item at runtime. Lazy loading of video info.
+- Added Auto Playback settings. Default is enabled.
+
+[B]Version v2.4.5[/B]
+- Added new turtle version with DM fix.
+
+[B]Version v2.4.4[/B]
+- Disabled Google Analytics by default. Later it settings might be provided.
+
+[B]Version v2.4.3[/B]
+- :) Again website change fix. Trying to keep things going.
+
+[B]Version v2.4.2[/B]
+- Again website layout change fix.
+
+[B]Version v2.4.1[/B]
+- Redone website parsing.
+
+[B]Version v2.4.0[/B]
+- Corrected website link to working one.
+
+[B]Version v2.3.9[/B]
+- Fixed YouTube videos.
+
+[B]Version v2.3.8[/B]
+- Corrected website link to new one.
+
+[B]Version v2.3.6 - v2.3.7[/B]
+- Improved parsing of video links.
+- Added Google Analytics parameters.
+
+[B]Version v2.3.5[/B]
+- INFO Message removal.
+
+[B]Version v2.3.4[/B]
+- Error handling.
+
+[B]Version v2.3.3[/B]
+- Added Turtle version.
+
+[B]Version v2.3.2[/B]
+- Hiverlogic Enkoder fix.
+- Making compatible with new Turtle version Google Analytics.
+
+[B]Version v2.2.3[/B]
+- Clever kode cannot be fixed message.
+
+[B]Version v2.2.2[/B]
+- Updated turtle dependency version to 1.4.7 for immediate fixes.
+- Skipped one version to accommodate mistake.
+
+[B]Version v2.2.0[/B]
+- Added videoInfo to playing video stream.
+- Remove English Subtitles menu, will be added in upcoming release through settings.
+- Updated turtle dependency version to 1.4.3.
+- Fixed Add new YouTube channel issue.
+
+[B]Version v2.1.9[/B]
+- Updated turtle dependency version to 1.4.2.
+
+[B]Version v2.1.8[/B]
+- Updated turtle dependency version to 1.4.0.
+
+[B]Version v2.1.6 - 2.1.7[/B]
+- Moved to new directory structure.
+
+[B]Version v2.1.3[/B]
+- Added download video context menu. (Using Simple Downloader v1.9.4)
+
+[B]Version v2.1.2[/B]
+- Made fixes for new website changes.
+
+[B]Version v2.1.1[/B]
+- Few improvements related to movie title formatting.
+
+[B]Version v2.1.0[/B]
+- Replaced Bluray with HD.
+
+[B]Version v2.0.8 - v2.0.9[/B]
+- Added new Turtle v1.3.2 dependency. Turtle takes care of cleaning objects.
+- Fixed movie information issue.
+
+[B]Version v2.0.7[/B]
+- Fixed "Trailer" section.
+
+[B]Version v2.0.6[/B]
+- Added caching of menu section to make things work faster.
+
+[B]Version v2.0.3 - v2.0.5[/B]
+- Enabled YouTube Menu link with pre-loaded list of Indian Entertainment channels
+
+[B]Version v1.9.9[/B]
+- DirectPlay is redefined as PDP (Preferred Direct Play). 
+- Continuous Play: a new replacement for DirectPlay existing functionality
+
+[B]Version v1.9.7[/B]
+- Enabled HD Movies and other categories. Caching and pagination added.
+
+[B]Version v1.9.1[/B]
+- New way to watch DESI MOVIES coming up!

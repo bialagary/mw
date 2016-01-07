@@ -1,0 +1,1298 @@
+[
+  {
+    "group": "11150", 
+    "name": "ATV turk", 
+    "url": "izle/atv?mode=12", 
+    "image": "http://www.cinegy.com/jml/images/stories/news/ATV_HD.jpg", 
+    "type": "video", 
+    "id": "11786"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Kanal D", 
+    "url": "izle/kanal-d?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11787"
+  }, 
+  {
+    "group": "11150", 
+    "name": "KANAL E", 
+    "url": "rtmp://yayin.tvdunyasi.tv/live/elazig_kanale", 
+    "image": "", 
+    "type": "video", 
+    "id": "11210"
+  }, 
+  {
+    "group": "11150", 
+    "name": "KANAL F", 
+    "url": "rtmp://stream.taksimbilisim.com/kanalf/bant1", 
+    "image": "", 
+    "type": "video", 
+    "id": "11217"
+  }, 
+  {
+    "group": "11150", 
+    "name": "star tv", 
+    "url": "izle/star-tv-canli-yayin-izle?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11788"
+  }, 
+  {
+    "group": "11150", 
+    "name": "show hd", 
+    "url": "izle/show-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11789"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT1", 
+    "url": "izle/trt-1?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11790"
+  }, 
+  {
+    "group": "11150", 
+    "name": "FOX", 
+    "url": "izle/fox-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11791"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TV8", 
+    "url": "izle/tv8?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11792"
+  }, 
+  {
+    "group": "11150", 
+    "name": "NTV", 
+    "url": "izle/ntv-izle?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11793"
+  }, 
+  {
+    "group": "11150", 
+    "name": "CNN TURK", 
+    "url": "izle/cnn-turk?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11794"
+  }, 
+  {
+    "group": "11150", 
+    "name": "KANAL 7", 
+    "url": "izle/kanal-7?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11795"
+  }, 
+  {
+    "group": "11150", 
+    "name": "KANAL 24 (24 tv)", 
+    "url": "izle/kanal-24?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11796"
+  }, 
+  {
+    "group": "11150", 
+    "name": "kanal turk", 
+    "url": "izle/kanal-turk?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11797"
+  }, 
+  {
+    "group": "11150", 
+    "name": "STV (Samanyolu TV)", 
+    "url": "izle/stv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11798"
+  }, 
+  {
+    "group": "11150", 
+    "name": "e2", 
+    "url": "izle/e2-canli-yayin-izle?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11799"
+  }, 
+  {
+    "group": "11150", 
+    "name": "tv2", 
+    "url": "izle/tv2?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11800"
+  }, 
+  {
+    "group": "11150", 
+    "name": "flash tv", 
+    "url": "izle/flash-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11801"
+  }, 
+  {
+    "group": "11150", 
+    "name": "kanal a", 
+    "url": "izle/kanal-a?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11802"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt hd", 
+    "url": "izle/trt-hd?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11803"
+  }, 
+  {
+    "group": "11150", 
+    "name": "tv net", 
+    "url": "izle/tv-net?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11804"
+  }, 
+  {
+    "group": "11150", 
+    "name": "bugun tv", 
+    "url": "izle/bugun-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11805"
+  }, 
+  {
+    "group": "11150", 
+    "name": "halk tv", 
+    "url": "izle/halk-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11806"
+  }, 
+  {
+    "group": "11150", 
+    "name": "beyaz tv", 
+    "url": "izle/beyaz-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11807"
+  }, 
+  {
+    "group": "11150", 
+    "name": "tvem", 
+    "url": "izle/tvem?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11808"
+  }, 
+  {
+    "group": "11150", 
+    "name": "cem tv", 
+    "url": "izle/cem-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11809"
+  }, 
+  {
+    "group": "11150", 
+    "name": "cine 5", 
+    "url": "izle/cine5?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11810"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt okul", 
+    "url": "izle/trt-okul?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11811"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt arapca", 
+    "url": "izle/trt-arapca?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11812"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT 6 (TRT Kurdi)", 
+    "url": "izle/trt-6?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11813"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TV5", 
+    "url": "izle/tv5?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11814"
+  }, 
+  {
+    "group": "11150", 
+    "name": "meltem tv", 
+    "url": "izle/meltem-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11815"
+  }, 
+  {
+    "group": "11150", 
+    "name": "mehtap tv", 
+    "url": "izle/mehtap-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11816"
+  }, 
+  {
+    "group": "11150", 
+    "name": "ntv spor", 
+    "url": "izle/ntv-spor?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11817"
+  }, 
+  {
+    "group": "11150", 
+    "name": "a haber", 
+    "url": "izle/a-haber?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11818"
+  }, 
+  {
+    "group": "11150", 
+    "name": "haberturk", 
+    "url": "izle/haber-turk?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11819"
+  }, 
+  {
+    "group": "11150", 
+    "name": "360 TV (SKY Turk)", 
+    "url": "izle/sky-turk?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11820"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt haber", 
+    "url": "izle/trt-haber?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11821"
+  }, 
+  {
+    "group": "11150", 
+    "name": "tgrt haber", 
+    "url": "izle/tgrt-haber?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11822"
+  }, 
+  {
+    "group": "11150", 
+    "name": "ulusal kanal", 
+    "url": "izle/ulusal-kanal?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11823"
+  }, 
+  {
+    "group": "11150", 
+    "name": "ulke tv", 
+    "url": "izle/ulke-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11824"
+  }, 
+  {
+    "group": "11150", 
+    "name": "imc tv", 
+    "url": "izle/imc-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11825"
+  }, 
+  {
+    "group": "11150", 
+    "name": "samanyolu haber", 
+    "url": "izle/samanyolu-haber?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11826"
+  }, 
+  {
+    "group": "11150", 
+    "name": "bloomberg ht", 
+    "url": "izle/bloomberg-ht?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11827"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt 3 spor", 
+    "url": "izle/trt-3-spor?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11831"
+  }, 
+  {
+    "group": "11150", 
+    "name": "a spor", 
+    "url": "izle/a-spor?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11832"
+  }, 
+  {
+    "group": "11150", 
+    "name": "tjk tv", 
+    "url": "izle/tjk-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11833"
+  }, 
+  {
+    "group": "11150", 
+    "name": "fb tv", 
+    "url": "izle/fb-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11834"
+  }, 
+  {
+    "group": "11150", 
+    "name": "sports tv", 
+    "url": "izle/sports-tv?mode=12", 
+    "image": "http://img.canlitvlive.com/logo/sports-tv.png", 
+    "type": "video", 
+    "id": "11835"
+  }, 
+  {
+    "group": "11150", 
+    "name": "bursaspor tv", 
+    "url": "izle/bursaspor-tv?mode=12", 
+    "image": "http://img.canlitvlive.com/logo/bursaspor-tv.png", 
+    "type": "video", 
+    "id": "11836"
+  }, 
+  {
+    "group": "11150", 
+    "name": "tay tv", 
+    "url": "izle/tay-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11837"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Idman TV (Idman Azerbaycan TV)", 
+    "url": "izle/idman-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11838"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt cocuk", 
+    "url": "izle/trt-cocuk?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11839"
+  }, 
+  {
+    "group": "11150", 
+    "name": "cartoon network", 
+    "url": "izle/cartoon-network?mode=12", 
+    "image": "http://img.canlitvlive.com/logo/cartoon-network.png", 
+    "type": "video", 
+    "id": "11840"
+  }, 
+  {
+    "group": "11150", 
+    "name": "minika go", 
+    "url": "izle/minika-go?mode=12", 
+    "image": "http://img.canlitvlive.com/logo/minika-go.png", 
+    "type": "video", 
+    "id": "11841"
+  }, 
+  {
+    "group": "11150", 
+    "name": "minika cocuk", 
+    "url": "izle/minika-cocuk?mode=12", 
+    "image": "http://img.canlitvlive.com/logo/minika-cocuk.png", 
+    "type": "video", 
+    "id": "11842"
+  }, 
+  {
+    "group": "11150", 
+    "name": "yumurcak tv", 
+    "url": "izle/yumurcak-tv?mode=12", 
+    "image": "http://img.canlitvlive.com/logo/yumurcak-tv.png", 
+    "type": "video", 
+    "id": "11843"
+  }, 
+  {
+    "group": "11150", 
+    "name": "disney channel", 
+    "url": "izle/disney-channel?mode=12", 
+    "image": "http://img.canlitvlive.com/logo/disney-channel.png", 
+    "type": "video", 
+    "id": "11844"
+  }, 
+  {
+    "group": "11150", 
+    "name": "planet cocuk", 
+    "url": "izle/planet-cocuk?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11846"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt muzik", 
+    "url": "izle/trt-muzik?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11849"
+  }, 
+  {
+    "group": "11150", 
+    "name": "kral tv canli", 
+    "url": "izle/kral-tv-canli?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11850"
+  }, 
+  {
+    "group": "11150", 
+    "name": "kral pop canli", 
+    "url": "izle/kral-pop-canli?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11851"
+  }, 
+  {
+    "group": "11150", 
+    "name": "dream tv", 
+    "url": "izle/dream-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11852"
+  }, 
+  {
+    "group": "11150", 
+    "name": "dream turk", 
+    "url": "izle/dream-turk?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11853"
+  }, 
+  {
+    "group": "11150", 
+    "name": "nr1", 
+    "url": "izle/nr1?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11854"
+  }, 
+  {
+    "group": "11150", 
+    "name": "planet turk", 
+    "url": "izle/planet-turk?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11855"
+  }, 
+  {
+    "group": "11150", 
+    "name": "planet pembe", 
+    "url": "izle/planet-pembe?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11856"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt belgesel", 
+    "url": "izle/trt-belgesel?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11857"
+  }, 
+  {
+    "group": "11150", 
+    "name": "tgrt belgesel", 
+    "url": "izle/tgrt-belgesel?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11858"
+  }, 
+  {
+    "group": "11150", 
+    "name": "world travel", 
+    "url": "izle/world-travel?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11859"
+  }, 
+  {
+    "group": "11150", 
+    "name": "yaban tv", 
+    "url": "izle/yaban-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11860"
+  }, 
+  {
+    "group": "11150", 
+    "name": "akilli tv", 
+    "url": "izle/akilli-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11861"
+  }, 
+  {
+    "group": "11150", 
+    "name": "vuslat tv", 
+    "url": "izle/vuslat-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11862"
+  }, 
+  {
+    "group": "11150", 
+    "name": "ege tv", 
+    "url": "izle/ege-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11863"
+  }, 
+  {
+    "group": "11150", 
+    "name": "olay tv", 
+    "url": "izle/olay-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11864"
+  }, 
+  {
+    "group": "11150", 
+    "name": "trt diyanet", 
+    "url": "izle/trt-diyanet?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11865"
+  }, 
+  {
+    "group": "11150", 
+    "name": "dost tv", 
+    "url": "izle/dost-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11866"
+  }, 
+  {
+    "group": "11150", 
+    "name": "lalegul tv", 
+    "url": "izle/lalegul-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11867"
+  }, 
+  {
+    "group": "11150", 
+    "name": "semerkand tv", 
+    "url": "izle/semerkand-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11868"
+  }, 
+  {
+    "group": "11150", 
+    "name": "CNBC-e", 
+    "url": "izle/cnbc-e-canli-yayin-izle?mode=12", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/thumb/d/d7/CNBC-e.svg/160px-CNBC-e.svg.png", 
+    "type": "video", 
+    "id": "11154"
+  }, 
+  {
+    "group": "11150", 
+    "name": "yol tv", 
+    "url": "izle/yol-tv?mode=12", 
+    "image": "", 
+    "type": "video", 
+    "id": "11869"
+  }, 
+  {
+    "group": "11150", 
+    "name": "A Haber", 
+    "url": "109;;ahaber;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12337"
+  }, 
+  {
+    "group": "11150", 
+    "name": "A Spor", 
+    "url": "114;;aspor;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12338"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Atlas Ordu TV", 
+    "url": "209?mode=6", 
+    "image": "http://turkvod.com/wp-content/uploads/1016296_188333064676422_587308705_n.jpg", 
+    "type": "video", 
+    "id": "11151"
+  }, 
+  {
+    "group": "11150", 
+    "name": "ATV", 
+    "url": "313;;atvtv/atvtvtv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12339"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Bengu Turk", 
+    "url": "230?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12302"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Bursa AS TV", 
+    "url": "211?mode=6", 
+    "image": "http://www.giniko.com/logos/190x110/211.jpg", 
+    "type": "video", 
+    "id": "11153"
+  }, 
+  {
+    "group": "11150", 
+    "name": "CNN Turkey", 
+    "url": "220;;cnnturk/c-n-nturk?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12340"
+  }, 
+  {
+    "group": "11150", 
+    "name": "EM TV", 
+    "url": "208?mode=6", 
+    "image": "http://foto.rotahaber.com/news/rota/newpics/news/020120131505442553303_2.jpg", 
+    "type": "video", 
+    "id": "11156"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Euro D", 
+    "url": "164?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12303"
+  }, 
+  {
+    "group": "11150", 
+    "name": "FB TV", 
+    "url": "210?mode=6", 
+    "image": "http://www.fenerbahce.tv.tr/thumb/fenerbahce-tv-canli-yayini.jpg", 
+    "type": "video", 
+    "id": "11158"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Flash TV", 
+    "url": "27;;flashtv;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12341"
+  }, 
+  {
+    "group": "11150", 
+    "name": "FOX", 
+    "url": "216;;turkfoxtv/turk-fox-tvv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12342"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Halk TV", 
+    "url": "228?mode=6", 
+    "image": "http://www.solgundem.com/wp-content/uploads/halktv.jpg", 
+    "type": "video", 
+    "id": "11636"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Irmak TV", 
+    "url": "342?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12304"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Kanal 7", 
+    "url": "199?mode=6", 
+    "image": "http://basin.kanal7.com/dosyalar/LOGO/vest/kanal%207%20gri%20logo_siyah%20yazi.jpg", 
+    "type": "video", 
+    "id": "11159"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Kral POP", 
+    "url": "84?mode=6", 
+    "image": "http://www.radyodinleyelim.net//HLIC/66a09e4bece59f6a6ab162f42e2b8aad.png", 
+    "type": "video", 
+    "id": "11161"
+  }, 
+  {
+    "group": "11150", 
+    "name": "KRAL TV", 
+    "url": "395?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12305"
+  }, 
+  {
+    "group": "11150", 
+    "name": "minika COCUK", 
+    "url": "26;;minika_cocuk;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12343"
+  }, 
+  {
+    "group": "11150", 
+    "name": "minika GO", 
+    "url": "275;;minika_go;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12344"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Mehtap TV", 
+    "url": "340?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12306"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Muzik Turk", 
+    "url": "172?mode=6", 
+    "image": "http://www.giniko.com/logos/190x110/172.jpg", 
+    "type": "video", 
+    "id": "11163"
+  }, 
+  {
+    "group": "11150", 
+    "name": "NTV", 
+    "url": "131?mode=6", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/9/90/NTV_(Turkey)_logo.png", 
+    "type": "video", 
+    "id": "11164"
+  }, 
+  {
+    "group": "11150", 
+    "name": "NTV Spor", 
+    "url": "217;;ntvspor/ntv-sportt?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12345"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Planet Cocuk", 
+    "url": "175?mode=6", 
+    "image": "http://www.canlitv365.com/uploads/planet-cocuk-canli-izle.jpg", 
+    "type": "video", 
+    "id": "11165"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Planet Mutfak", 
+    "url": "177?mode=6", 
+    "image": "http://upload.wikimedia.org/wikipedia/tr/archive/0/08/20140611194856!Planet_mutfak_tr.png", 
+    "type": "video", 
+    "id": "11166"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Planet Pembe", 
+    "url": "176?mode=6", 
+    "image": "http://frocus.net/images/logotv/original/Planet-Pembe.jpg", 
+    "type": "video", 
+    "id": "11167"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Planet Turk", 
+    "url": "178?mode=6", 
+    "image": "http://www.giniko.com/logos/190x110/178.jpg", 
+    "type": "video", 
+    "id": "11168"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Samanyolu TV", 
+    "url": "48?mode=6", 
+    "image": "http://upload.wikimedia.org/wikipedia/de/5/5a/Samanyolu_TV.png", 
+    "type": "video", 
+    "id": "11169"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Show TV", 
+    "url": "96?mode=6", 
+    "image": "http://www.brandsoftheworld.com/sites/default/files/styles/logo-thumbnail/public/0015/1842/brand.gif", 
+    "type": "video", 
+    "id": "11170"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Sports TV", 
+    "url": "215?mode=6", 
+    "image": "http://bmilan.elpo.sk/New_logos_2006/sports_tv_tr.jpg", 
+    "type": "video", 
+    "id": "11171"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Star TV", 
+    "url": "24;;startv/startvgee?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12346"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT 1", 
+    "url": "297;;trt1eu;;?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12347"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT 1 - USA", 
+    "url": "102;;trt1germany/trt1tv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12348"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT Cocuk", 
+    "url": "50?mode=6", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png", 
+    "type": "video", 
+    "id": "11173"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT Haber", 
+    "url": "196?mode=6", 
+    "image": "http://www.haberyurdum.com/images/editor/images/trt-haber.png", 
+    "type": "video", 
+    "id": "11174"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT Music", 
+    "url": "49?mode=6", 
+    "image": "http://www.etvizle.net/trt-muzik.jpg", 
+    "type": "video", 
+    "id": "11175"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT Spor", 
+    "url": "194?mode=6", 
+    "image": "http://www.zonguldak.net/wp-content/uploads/2013/11/trtspr.png", 
+    "type": "video", 
+    "id": "11176"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT turk", 
+    "url": "194;;trtturk?mode=6", 
+    "image": "http://www.zonguldak.net/wp-content/uploads/2013/11/trtspr.png", 
+    "type": "video", 
+    "id": "11638"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TV 2", 
+    "url": "173?mode=6", 
+    "image": "http://www.frocus.net/images/logotv/original/tv2-tr.jpg", 
+    "type": "video", 
+    "id": "11178"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TV 8", 
+    "url": "161;;tv8tv?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12349"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Ulke TV", 
+    "url": "200?mode=6", 
+    "image": "http://upload.wikimedia.org/wikipedia/tr/thumb/1/11/%C3%9Clke_TV_Logosu.png/800px-%C3%9Clke_TV_Logosu.png", 
+    "type": "video", 
+    "id": "11179"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Ulusal Kanal", 
+    "url": "231?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12307"
+  }, 
+  {
+    "group": "11150", 
+    "name": "world travel channel", 
+    "url": "198?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11180"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Yumurcak TV", 
+    "url": "339?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12308"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT1HD", 
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8", 
+    "image": "http://4.bp.blogspot.com/-iiA6Z09bFFw/UXj30M6nc0I/AAAAAAAAga0/lA-dDC60EW4/s1600/trt-1-izle.png", 
+    "type": "video", 
+    "id": "11181"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT ARAPCA", 
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11650"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT HD", 
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTHD_1@182045/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11651"
+  }, 
+  {
+    "group": "11150", 
+    "name": "HABER TURK", 
+    "url": "http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8", 
+    "image": "http://www.macro3.com/upload/urun/haberturk-logo.jpg", 
+    "type": "video", 
+    "id": "11194"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Kanal 3", 
+    "url": "rtmp://stream.taksimbilisim.com/kanal3/bant1", 
+    "image": "http://www.prosave.tv/imagestore/referans/urun-7vdln96pymonuub31foua3rxhk67d0rxt3i4asfffc2286012j.jpg", 
+    "type": "video", 
+    "id": "11195"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Kanal 55", 
+    "url": "rtmp://stream.taksimbilisim.com/kanal55/bant1", 
+    "image": "http://3.bp.blogspot.com/-XB_42U_Qrf8/UxJJ9ArQH6I/AAAAAAAAA18/y8cUexbznUY/s1600/kanal55.png", 
+    "type": "video", 
+    "id": "11198"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT Belgesel", 
+    "url": "rtmp://si.trtcdn.com/tv/trtbelgesel/mp4:trtbelgesel_3", 
+    "image": "http://www.etvizle.net/trt-turizm.jpg", 
+    "type": "video", 
+    "id": "11203"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TV 1", 
+    "url": "rtmp://stream.taksimbilisim.com:1935/tv1/bant1", 
+    "image": "http://www.pinarbasi38.bel.tr/FileUpload/ds225552/HaberResim/721909.jpg", 
+    "type": "video", 
+    "id": "11204"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TV 5", 
+    "url": "mmsh://yayin3.canliyayin.org/tv5", 
+    "image": "http://streamplayer.free.fr/images/TVLogo-Big/TV5-Turkey.jpg", 
+    "type": "video", 
+    "id": "11206"
+  }, 
+  {
+    "group": "11150", 
+    "name": "AY TV", 
+    "url": "http://stream.taksimbilisim.com:1935/aytv/bant1/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11212"
+  }, 
+  {
+    "group": "11150", 
+    "name": "BRT TV 1", 
+    "url": "mms://bms.brtk.net/brttv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11213"
+  }, 
+  {
+    "group": "11150", 
+    "name": "BRT TV 2", 
+    "url": "mms://bms.brtk.net/brt2", 
+    "image": "", 
+    "type": "video", 
+    "id": "11214"
+  }, 
+  {
+    "group": "11150", 
+    "name": "BTV", 
+    "url": "rtmp://stream.taksimbilisim.com/btv/bant1", 
+    "image": "", 
+    "type": "video", 
+    "id": "11215"
+  }, 
+  {
+    "group": "11150", 
+    "name": "turkmenelitv", 
+    "url": "mms://213.142.142.213/turkmenelitv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11219"
+  }, 
+  {
+    "group": "11150", 
+    "name": "Kanal 7", 
+    "url": "http://livetr.gostream.nl/kanal7hq/kanal7hq/chunklist_w1106540671.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11222"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT turk", 
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8", 
+    "image": "http://www.zonguldak.net/wp-content/uploads/2013/11/trtspr.png", 
+    "type": "video", 
+    "id": "11643"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT Music", 
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8", 
+    "image": "http://www.etvizle.net/trt-muzik.jpg", 
+    "type": "video", 
+    "id": "11649"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT Haber", 
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8", 
+    "image": "http://www.haberyurdum.com/images/editor/images/trt-haber.png", 
+    "type": "video", 
+    "id": "11640"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT Cocuk", 
+    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/d/de/Trt_cocuk.png", 
+    "type": "video", 
+    "id": "11642"
+  }, 
+  {
+    "group": "11150", 
+    "name": "cnbce", 
+    "url": "http://yayin3.canlitv.com.tr:1935/live/cnbce/chunklist_w583941153.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12309"
+  }, 
+  {
+    "group": "11150", 
+    "name": "CNN TURK", 
+    "url": "http://212.224.109.101/S1/HLS_LIVE/cnn_turk/500/prog_index.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12310"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT 1 HD", 
+    "url": "trt1?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12311"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT WORLD", 
+    "url": "trtworld?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12312"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT HABER HD", 
+    "url": "trthaber?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12313"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT SPOR HD", 
+    "url": "trtspor?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12314"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT COCUK", 
+    "url": "trtcocuk?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12315"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT TURK", 
+    "url": "trtturk?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12316"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT AVAZ", 
+    "url": "trtavaz?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12317"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT DIYANET", 
+    "url": "trtdiyanet?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12318"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT KURDI", 
+    "url": "trt6?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12319"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT KURDI (TR-ZAZ)", 
+    "url": "tv6tr?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12320"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT BELGESEL", 
+    "url": "trtbelgesel?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12321"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT OKUL", 
+    "url": "trtokul?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12322"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT MUZIK", 
+    "url": "trtmuzik?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12323"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT ARAPCA", 
+    "url": "trtarapca?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12324"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT HD", 
+    "url": "trthd?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12325"
+  }, 
+  {
+    "group": "11150", 
+    "name": "TRT 3 - TBMM TV", 
+    "url": "trt3tbmmtv?mode=26", 
+    "image": "", 
+    "type": "video", 
+    "id": "12326"
+  }
+]

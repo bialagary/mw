@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.smokdpi.addon"
+       name="smokdpi's Add-on Module"
+       version="2.2.11"
+       provider-name="smokdpi">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.urlresolver"/>
+		<import version="3.2.1" addon="script.module.beautifulsoup"/>
+		<import addon="repository.smokdpi"/>
+		<import addon="script.module.smokdpi.resolvers"/>
+		<import addon="theme.smokdpi.default"/>
+    </requires>
+    <extension point="xbmc.python.module" library="resources/lib" />
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Add-on module for smokdpi's add-ons.</summary>
+        <description lang="en">Add-on module for smokdpi's add-ons.[CR][CR][B]Artwork by @konsumer420[/B]</description>
+        <disclaimer lang="en"> </disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

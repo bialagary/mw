@@ -1,0 +1,63 @@
+[B]v1.4.3 - Nov. 1, 2015[/B]
+    - updated zerocast
+
+[B]v1.4.2 - Oct. 27, 2015[/B]
+    - updated zerocast/playvid resolvers
+
+[B]v1.4.1 - Oct. 20, 2015[/B]
+    - updated play44/videozoo resolver
+
+[B]v1.4.0 - Oct. 18, 2015[/B]
+    - clean up, remove resolvers that were no longer needed (are incl. in latest urlresolver)
+
+[B]v1.3.10 - Oct. 12, 2015[/B]
+    - updated zerocast resolver
+
+[B]v1.3.9 - Oct. 8, 2015[/B]
+    - fixed videowood
+
+[B]v1.3.8 - Sept. 30, 2015[/B]
+    - googledrive added to google resolver
+	
+[B]v1.3.7 - Sept. 27, 2015[/B]
+    - fixed openload (added captcha)
+
+[B]v1.3.6 - Sept. 23, 2015[/B]
+    - connection-timeout fix for all resolvers
+
+[B]v1.3.5 - Sept. 23, 2015[/B]
+    - fixed openload
+        https://raw.githubusercontent.com/tknorris/script.module.urlresolver/a6bca210a7d70823f58d1f6bb2bcec31e698b696/lib/urlresolver/plugins/openload.py
+
+[B]v1.3.4 - Sept. 20, 2015[/B]
+    - updated __add_headers_for_kodi() in all resolvers to include Connection-Timeout, and fixed Cookie formatting
+
+[B]v1.3.3 - Sept. 15, 2015[/B]
+    - fixed openload
+	
+[B]v1.3.2 - Sept. 11, 2015[/B]
+    - minor change to mp4edge
+    - added zerocast resolver
+
+[B]v1.3.1 - Sept. 11, 2015[/B]
+    - fixed openload
+
+[B]v1.3.0 - Sept. 10, 2015[/B]
+    - added __add_headers_for_kodi() to all resolvers to return Referer, User-Agent and any Cookies with streamurl
+    - fixed openload, nowvideo
+    - removed unnecessary resolvers
+
+[B]v1.2.0 - Sept. 09, 2015[/B]
+    - updated all resolvers to use UrlResolver.ResolverError
+    - updated all resolvers to use user_agent and referer in requests
+    - updated all resolvers to return with at least user_agent
+    - fixes to many resolvers
+
+[B]v1.1.1 - Aug. 21, 2015[/B]
+    - xvx resolver added
+	
+[B]v1.1.0 - Aug. 21, 2015[/B]
+    - path/namespace adjustment
+	
+[B]v1.0.0 - Aug. 20, 2015[/B]
+    - Initial release

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.ustvnow.tva" name="USTVnow Live" provider-name="tvaddons.ag" version="11.0.5">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+        <import addon="script.module.pyxbmctmanager" />
+        <import addon="script.module.beautifulsoup" />
+    </requires>
+    <extension library="default.py" point="xbmc.python.pluginsource">
+        <provides>video</provides>
+    </extension>
+    <extension library="setup.py" point="xbmc.python.script">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Watch All the Major American Television Networks Live in HD for Free!</summary>
+        <description>Watch All the Major American Television Networks Live in HD! Entirely Legal and Free! You can also record content through their web site, and there is an optional premium service available with all kinds of other channels. Signup for a free account through the following link today: http://www.ustvnow.com/newuser_usa.php</description>
+        <platform>all</platform>
+        <forum>http://forums.tvaddons.ag/forums/149-USTVNOW-PLUGIN-FOR-KODI</forum>
+        <website>http://www.ustvnow.com/</website>
+    </extension>
+</addon>

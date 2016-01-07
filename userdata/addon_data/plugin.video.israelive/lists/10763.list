@@ -1,0 +1,1010 @@
+[
+  {
+    "group": "10763", 
+    "name": "Perviy kanal Europa", 
+    "url": "plugin://plugin.video.israelive/?url=1735&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/1735/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10764"
+  }, 
+  {
+    "group": "10763", 
+    "name": "RTR Planeta", 
+    "url": "plugin://plugin.video.israelive/?url=1738&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1738/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10765"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Rossiya 24", 
+    "url": "plugin://plugin.video.israelive/?url=1744&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1744/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10766"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Rossiya 24", 
+    "url": "251?mode=6", 
+    "image": "http://static.filmon.com/couch/channels/1744/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10767"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Perviy kanal Europa", 
+    "url": "252?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "10769"
+  }, 
+  {
+    "group": "10763", 
+    "name": "1-one ukr", 
+    "url": "203?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "10773"
+  }, 
+  {
+    "group": "10763", 
+    "name": "kanal 5 ukr", 
+    "url": "245?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "10774"
+  }, 
+  {
+    "group": "10763", 
+    "name": "mexxi tv ukr", 
+    "url": "244?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "10775"
+  }, 
+  {
+    "group": "10763", 
+    "name": "news one ukr", 
+    "url": "204?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "10776"
+  }, 
+  {
+    "group": "10763", 
+    "name": "RU MUSIC ukr", 
+    "url": "283?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12122"
+  }, 
+  {
+    "group": "10763", 
+    "name": "UTR TV ukr", 
+    "url": "318?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "12123"
+  }, 
+  {
+    "group": "10763", 
+    "name": "pik tv sd", 
+    "url": "rtmp://78.140.209.14:1935/live/ playpath=piktv2pik2tv swfUrl=http://pik-tv.com/uppod.swf pageUrl=http://pik-tv.com/online/sait/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11979"
+  }, 
+  {
+    "group": "10763", 
+    "name": "pik tv hd", 
+    "url": "rtmp://78.140.209.14:1935/live/ playpath=piktv3pik3tv swfUrl=http://pik-tv.com/uppod.swf pageUrl=http://pik-tv.com/online/sait/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11980"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Russia 1", 
+    "url": "http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r1_rr.smil/playlist.m3u8?auth=vh&cast_id=2961", 
+    "image": "", 
+    "type": "video", 
+    "id": "12143"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Russia 2", 
+    "url": "http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r2_rr.smil/playlist.m3u8?auth=vh&cast_id=3465", 
+    "image": "", 
+    "type": "video", 
+    "id": "12144"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Russia K", 
+    "url": "http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_rtrp_rr.smil/playlist.m3u8?auth=vh&cast_id=4941", 
+    "image": "", 
+    "type": "video", 
+    "id": "12145"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Russia 24", 
+    "url": "http://i.vgtrk.cdnvideo.ru/rr2/smil:rtp_r24_rr.smil/playlist.m3u8?auth=vh&cast_id=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12146"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Moskva 24", 
+    "url": "http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12147"
+  }, 
+  {
+    "group": "10763", 
+    "name": "tvc", 
+    "url": "rtmp://tvc.cdnvideo.ru/tvc-p212 playpath=rtmp_p11_sq swfUrl=http://cdn.tvc.ru/flash/livetvc.swf?v=90 pageUrl=http://www.tvc.ru/channel/onairiframe", 
+    "image": "", 
+    "type": "video", 
+    "id": "12148"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Россия 1", 
+    "url": "rossija?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12153"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Успех", 
+    "url": "uspex?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12154"
+  }, 
+  {
+    "group": "10763", 
+    "name": "EuroNews", 
+    "url": "euronews?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12155"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Россия К", 
+    "url": "kultura?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12156"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ЛДПР.ТВ", 
+    "url": "ldpr_tv?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12157"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Новое телевидение", 
+    "url": "novoe_televidenie?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12158"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Пятый", 
+    "url": "5kanal?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12159"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Война и Мир", 
+    "url": "wap?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12160"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Загородная жизнь", 
+    "url": "zagorod_zh?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12161"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Россия 2", 
+    "url": "sport?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12162"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Звезда", 
+    "url": "zvezda?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12163"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Amedia Premium HD", 
+    "url": "amediapremium_hd?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12164"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Zоопарк", 
+    "url": "zoopark?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12165"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ТВ-ТРЕЙЛЕР", 
+    "url": "tvtrailer?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12166"
+  }, 
+  {
+    "group": "10763", 
+    "name": "2х2", 
+    "url": "2x2tv?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12167"
+  }, 
+  {
+    "group": "10763", 
+    "name": "MTV.AM", 
+    "url": "mtvam?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12168"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Russia Today", 
+    "url": "russiatoday?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12169"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Кубань 24 ОРБИТА", 
+    "url": "kuban24?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12170"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Бокс ТВ", 
+    "url": "boks_tv?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12171"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ТВЦ", 
+    "url": "tvc?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12172"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Lifenews", 
+    "url": "lifenews?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12173"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Улыбка Ребенка", 
+    "url": "smile?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12174"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Живи", 
+    "url": "jv?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12175"
+  }, 
+  {
+    "group": "10763", 
+    "name": "A-One", 
+    "url": "aone?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12176"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Первый образовательный", 
+    "url": "1_obraz?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12177"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Русский иллюзион", 
+    "url": "russian_illusion?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12178"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Music Box TV", 
+    "url": "musboxtv?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12179"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Music Box RU", 
+    "url": "musboxru?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12180"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Первый музыкальный HD", 
+    "url": "firstmuz?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12181"
+  }, 
+  {
+    "group": "10763", 
+    "name": "TVMChannel", 
+    "url": "tvmchannel?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12182"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ВМЕСТЕ-РФ", 
+    "url": "vmeste_rf?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12183"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Карусель", 
+    "url": "karusel?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12184"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Пятница", 
+    "url": "friday?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12185"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Shopping Live", 
+    "url": "shopping_live?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12186"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Авто 24", 
+    "url": "avto_24?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12187"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ТВ-3", 
+    "url": "tv3?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12188"
+  }, 
+  {
+    "group": "10763", 
+    "name": "НТВ", 
+    "url": "ntv?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12189"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Юмор TV", 
+    "url": "yumor_tv?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12190"
+  }, 
+  {
+    "group": "10763", 
+    "name": "СТРК", 
+    "url": "strk?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12191"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Amedia 1", 
+    "url": "amedia1?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12192"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Детский", 
+    "url": "forkids?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12193"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Еврокино", 
+    "url": "eurokino?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12194"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ТБН-Россия", 
+    "url": "tbn?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12195"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ОТС", 
+    "url": "ots?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12196"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Красная линия", 
+    "url": "red_line?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12197"
+  }, 
+  {
+    "group": "10763", 
+    "name": "8 канал Красноярский край", 
+    "url": "ya1pm?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12198"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Баланс-ТВ", 
+    "url": "balance?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12199"
+  }, 
+  {
+    "group": "10763", 
+    "name": "49 КАНАЛ", 
+    "url": "49kanal?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12200"
+  }, 
+  {
+    "group": "10763", 
+    "name": "TVXXI", 
+    "url": "tv21?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12201"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Мультимания", 
+    "url": "multimania?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12202"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Иллюзион+", 
+    "url": "illyuzion?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12203"
+  }, 
+  {
+    "group": "10763", 
+    "name": "JuCeTV", 
+    "url": "juce?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12204"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Мужской", 
+    "url": "muzhskoj?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12205"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Футбол", 
+    "url": "futbol?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12206"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Первый Интернет канал HD", 
+    "url": "pik_hd?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12207"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Nickelodeon", 
+    "url": "nickelodeon?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12208"
+  }, 
+  {
+    "group": "10763", 
+    "name": "РБК", 
+    "url": "rbk?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12209"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Надежда", 
+    "url": "hopetv?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12210"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ОТР", 
+    "url": "otvrus?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12211"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Россия 24", 
+    "url": "vesti?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12212"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Мир 24", 
+    "url": "mir24?mode=21", 
+    "image": "", 
+    "type": "video", 
+    "id": "12213"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Первый канал", 
+    "url": "general/ort-3?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12214"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Россия 1", 
+    "url": "live/russia1?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12215"
+  }, 
+  {
+    "group": "10763", 
+    "name": "НТВ", 
+    "url": "general/ntv-6?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12216"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Россия 2", 
+    "url": "live/russia2?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12217"
+  }, 
+  {
+    "group": "10763", 
+    "name": "СТС", 
+    "url": "general/sts-2?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12218"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Россия К (Культура)", 
+    "url": "live/russiak-2?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12219"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ТВ3", 
+    "url": "general/tv3?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12220"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Россия 24", 
+    "url": "live/russia24?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12221"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ТВЦ", 
+    "url": "general/tvc?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12222"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Рен ТВ (Ren TV)", 
+    "url": "general/rentv?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12223"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ТНТ", 
+    "url": "general/tnt?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12224"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Звезда", 
+    "url": "live/zvezda?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12225"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Пятый канал", 
+    "url": "general/channel5?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12226"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Домашний", 
+    "url": "general/domashniy?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12227"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Карусель", 
+    "url": "live/karusel-2?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12228"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ОТР", 
+    "url": "live/otr?mode=20", 
+    "image": "", 
+    "type": "video", 
+    "id": "12229"
+  }, 
+  {
+    "group": "10763", 
+    "name": "ORT", 
+    "url": "ort-russia-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12267"
+  }, 
+  {
+    "group": "10763", 
+    "name": "russia1", 
+    "url": "russia1-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12268"
+  }, 
+  {
+    "group": "10763", 
+    "name": "russia2", 
+    "url": "russia2-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12269"
+  }, 
+  {
+    "group": "10763", 
+    "name": "russia24", 
+    "url": "russia24-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12270"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Russia Kultura", 
+    "url": "russiak-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12271"
+  }, 
+  {
+    "group": "10763", 
+    "name": "NTV", 
+    "url": "ntv-russia-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12272"
+  }, 
+  {
+    "group": "10763", 
+    "name": "TNT", 
+    "url": "tnt-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12273"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Domashniy", 
+    "url": "domashniy-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12274"
+  }, 
+  {
+    "group": "10763", 
+    "name": "REN TV", 
+    "url": "rentv-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12275"
+  }, 
+  {
+    "group": "10763", 
+    "name": "STS TV", 
+    "url": "sts-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12276"
+  }, 
+  {
+    "group": "10763", 
+    "name": "5 kanal", 
+    "url": "5kanal-russia-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12277"
+  }, 
+  {
+    "group": "10763", 
+    "name": "TV3", 
+    "url": "tv3-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12278"
+  }, 
+  {
+    "group": "10763", 
+    "name": "2x2", 
+    "url": "2x2-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12279"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Perec TV", 
+    "url": "perec-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12280"
+  }, 
+  {
+    "group": "10763", 
+    "name": "TV Centr", 
+    "url": "tvcenter-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12281"
+  }, 
+  {
+    "group": "10763", 
+    "name": "NTV Football", 
+    "url": "ntvplus-futbol-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12282"
+  }, 
+  {
+    "group": "10763", 
+    "name": "NTV Football 2", 
+    "url": "ntvplus-futbol2-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12283"
+  }, 
+  {
+    "group": "10763", 
+    "name": "NTV Football 3", 
+    "url": "ntvplus-futbol3-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12284"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Sport 1", 
+    "url": "sport1-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12285"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Sport 2", 
+    "url": "sport2-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12286"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Nash Football", 
+    "url": "nash-futbol-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12287"
+  }, 
+  {
+    "group": "10763", 
+    "name": "history TV", 
+    "url": "viasat-history-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12288"
+  }, 
+  {
+    "group": "10763", 
+    "name": "explorer TV", 
+    "url": "viasat-explorer-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12289"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Discovery TV", 
+    "url": "discovery-channel-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12290"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Discovery World", 
+    "url": "discovery-world-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12291"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Discovery Science", 
+    "url": "discovery-science-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12292"
+  }, 
+  {
+    "group": "10763", 
+    "name": "TV1000 kino", 
+    "url": "tv1000-russkoe-kino-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12293"
+  }, 
+  {
+    "group": "10763", 
+    "name": "TV1000 Action", 
+    "url": "tv1000-action-east-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12294"
+  }, 
+  {
+    "group": "10763", 
+    "name": "Illuzion TV", 
+    "url": "illuzion-plus-tv-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12295"
+  }, 
+  {
+    "group": "10763", 
+    "name": "cartoon network", 
+    "url": "carton-network-russia-online?mode=25", 
+    "image": "", 
+    "type": "video", 
+    "id": "12296"
+  }
+]

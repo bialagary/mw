@@ -1,0 +1,186 @@
+[
+  {
+    "group": "10065", 
+    "name": "ערוץ האח הגדול", 
+    "url": "BB", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/thumb/4/44/BigBrotherIsrael.jpg/250px-BigBrotherIsrael.jpg", 
+    "type": "video", 
+    "id": "11597"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ישראל פלוס", 
+    "url": "http://sw.gostreaming.tv:1935/live/smil:myStream.smil/playlist.m3u8", 
+    "image": "http://bstore.9tv.co.il/images/tvcar/logo450x450.png", 
+    "type": "ignore", 
+    "id": "10068"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ 10", 
+    "url": "http://nana10live-lh.akamaihd.net/i/ch10news_0@93049/master.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/archive/4/48/20120408220922!Channel_10_logo.png", 
+    "type": "video", 
+    "id": "10070"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ 10", 
+    "url": "http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_,1000,1500,1800,/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/archive/4/48/20120408220922!Channel_10_logo.png", 
+    "type": "video", 
+    "id": "11784"
+  }, 
+  {
+    "group": "10065", 
+    "name": "הערוץ הראשון", 
+    "url": "http://62.90.90.39/iba_channel-511MRepeat/_definst_/smil:channel-511M.high.smil/playlist.m3u8", 
+    "image": "http://img.mako.co.il/2008/05/01/01/first_channel_logo_b.jpg", 
+    "type": "video", 
+    "id": "10071"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ המורשת", 
+    "url": "http://ynet-lh.akamaihd.net/i/ynet_1@123296/master.m3u8", 
+    "image": "http://www.nrg.co.il/images/archive/300x225/1/581/251.jpg", 
+    "type": "video", 
+    "id": "10072"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ המורשת", 
+    "url": "plugin://plugin.video.f4mTester/?url=http://ynet-lh.akamaihd.net/z/ynet_1@123296/manifest.f4m?hdcore=2.11.3", 
+    "image": "http://www.nrg.co.il/images/archive/300x225/1/581/251.jpg", 
+    "type": "ignore", 
+    "id": "11632"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ הקניות", 
+    "url": "http://ch21.live.net.il/ch21Live.m3u8", 
+    "image": "http://www.nrg.co.il/images/archive/408x153/215/638.jpg", 
+    "type": "video", 
+    "id": "10073"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ החדשות 2", 
+    "url": "http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8", 
+    "image": "http://www.orian.com/_uploads/imagesgallery/logo.bmp", 
+    "type": "video", 
+    "id": "10075"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ 2 קשת מרביעי עד שבת", 
+    "url": "plugin://plugin.video.f4mTester/?url=http://keshethdslive-f.akamaihd.net/z/c2l_1@27705/manifest.f4m", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "type": "ignore", 
+    "id": "10076"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ 2 קשת מרביעי עד שבת", 
+    "url": "http://keshethdioslive-i.akamaihd.net/hls/live/221630/CH2LIVE_HIGH/index.m3u8", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "type": "video", 
+    "id": "10077"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ 2 רשת מראשון עד שלישי", 
+    "url": "http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "type": "video", 
+    "id": "10078"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ 2 רשת מראשון עד שלישי", 
+    "url": "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_live1/playlist.m3u8", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "type": "ignore", 
+    "id": "12088"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ 2 רשת מראשון עד שלישי", 
+    "url": "http://besttv1.httplive.it.best-tv.com/besttv1/stream_reshet_neveilan_02_1/playlist.m3u8", 
+    "image": "http://www.themarker.com/polopoly_fs/1.593973.1297938795!/image/4142077372.jpg_gen/derivatives/landscape_468/4142077372.jpg", 
+    "type": "video", 
+    "id": "12104"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ המוזיקה", 
+    "url": "plugin://plugin.video.f4mTester/?url=http://keshethdslive-f.akamaihd.net/z/24live_1@193565/manifest.f4m", 
+    "image": "http://www.nrg.co.il/images/archive/300x225/859/687.jpg", 
+    "type": "ignore", 
+    "id": "10079"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ המוזיקה", 
+    "url": "http://82.80.192.27/mako_CH24Repeat/_definst_/smil:CH24.iphone.smil/master.m3u8", 
+    "image": "http://www.nrg.co.il/images/archive/300x225/859/687.jpg", 
+    "type": "ignore", 
+    "id": "12026"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ המוזיקה", 
+    "url": "http://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8", 
+    "image": "http://www.nrg.co.il/images/archive/300x225/859/687.jpg", 
+    "type": "video", 
+    "id": "10080"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ המוזיקה", 
+    "url": "http://82.80.192.27/mako_CH24Repeat/_definst_/smil:CH24.ipad.smil/master.m3u8", 
+    "image": "http://www.nrg.co.il/images/archive/300x225/859/687.jpg", 
+    "type": "ignore", 
+    "id": "12334"
+  }, 
+  {
+    "group": "10065", 
+    "name": "רשות השידור", 
+    "url": "http://82.80.192.27/iba_channel-33MRepeat/_definst_/smil:channel-33M.smil/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/thumb/9/98/Iba33_il.svg/80px-Iba33_il.svg.png", 
+    "type": "video", 
+    "id": "10081"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ הכנסת", 
+    "url": "mmsh://212.235.5.241/knessetlive", 
+    "image": "http://www.aisrael.org/_uploads/extraimg/000000000(2)(1).jpg", 
+    "type": "video", 
+    "id": "11635"
+  }, 
+  {
+    "group": "10065", 
+    "name": "מאירTV", 
+    "url": "http://82.80.198.100:1935/live/live1/playlist.m3u8", 
+    "image": "http://www.shareyot.co.il/wp-content/uploads/2013/01/%D7%A2%D7%A8%D7%95%D7%A5-%D7%9E%D7%90%D7%99%D7%A8-%D7%9C%D7%95%D7%92%D7%95.jpg", 
+    "type": "video", 
+    "id": "10083"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ ההידברות", 
+    "url": "http://w3.013.gostreaming.tv:1935/Hidabrut/smil:myStream.smil/playlist.m3u8", 
+    "image": "http://www.tvland.co.il/Pics/hidabrutbig.jpg", 
+    "type": "video", 
+    "id": "10084"
+  }, 
+  {
+    "group": "10065", 
+    "name": "ערוץ הקבלה", 
+    "url": "http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/he/thumb/4/47/Logo_for_banber.jpg/220px-Logo_for_banber.jpg", 
+    "type": "video", 
+    "id": "10085"
+  }
+]

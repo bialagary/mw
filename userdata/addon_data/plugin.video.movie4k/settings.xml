@@ -1,0 +1,11 @@
+<settings>
+    <setting id="alternative_site_url" value="https://movie4k.unblocked.pe/" />
+    <setting id="clear_cache" value="true" />
+    <setting id="debug" value="false" />
+    <setting id="force_advancedsettings" value="false" />
+    <setting id="only_english" value="true" />
+    <setting id="show_adult" value="false" />
+    <setting id="use_alternative_site_url" value="false" />
+    <setting id="use_anonymizer_site" value="false" />
+    <setting id="use_proxy" value="true" />
+</settings>

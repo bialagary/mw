@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<script>
+var s=0,m=0;
+function ss(){//if (s>250){document.getElementById('srclist').innerHTML="<BR><BR><BR><a href='javascript:location.reload()'>Refresh</a> to see links.";}
+s+=1;setTimeout(function(){ss();},1000);}ss();
+</script><link href="/lite/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-6021891-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<body style="font-size:12px;"><div id=CurrentIQSVersion style='display:none;'>6.2</div><div style="position:relative; height:392px; width:631px; background-color:black;" onmousemove="m-=1">
+			<style type="text/css">
+			i {
+				font-size:12px;
+				display:none;
+				position:absolute;
+				z-index:100;
+				background:black;
+				font-style:normal;
+				left:340px;
+				bottom:-50px;
+			}
+
+			#srclist img {
+				height:12px;
+			}
+			</style>
+
+			
+	<div style="position:absolute;top:474px;"><form name=frm>
+	<input type=text name=url>
+	<input type=hidden name=iqs id=iqs>
+	<input type=text name=captcha value=B3H9>
+	<input type=hidden name=secret value=37fn80klq></form></div>
+
+
+    <div id="buttons" style="position: absolute; top:50%; left:50%; width:500px; height:250px; margin-left:-250px; margin-top:-138px; ">
+
+        <div id="list" style="width:500px; left:0px;">
+
+
+	    
+
+            <div style="width:300px; float:left; "><div class="ad">
+
+<script type='text/javascript' src='http://a.adorika.net/c/banner_s?selection=3786&size=300x250&skin=script'></script>
+
+</div><div class="ad_label">ADVERTISEMENT</div>
+            </div>
+
+
+
+
+            <center><div id="srclist" style="float:right; width:198px; height:250px; display:table-cell; vertical-align:middle; overflow:auto;">
+
+					<br><br><br><div><p></div><div class=ripdiv><b>HD 720p</b><p><a rel=1 onMouseOver="document.getElementById(this.rel).style.display='block';" onMouseOut="document.getElementById(this.rel).style.display='none';" href='javascript:void(0)' onclick='go(939800)'>Source #1: <span style="letter-spacing:-1px;font-family:impact;font-size:11px;color:#0be;"><span style="color:orangered;">B</span>illion<span style="color:orangered;">U</span>ploads</span></a><i id=1>added 4 minutes ago<br>by Abe</i><p><a rel=2 onMouseOver="document.getElementById(this.rel).style.display='block';" onMouseOut="document.getElementById(this.rel).style.display='none';" href='javascript:void(0)' onclick='go(939801)'>Source #2: <span style='letter-spacing:-1px;font-family:impact;color:white;font-size:11px;'>180<span style='color:orangered;'>UPLOAD</span></span></a><i id=2>added 4 minutes ago<br>by Abe</i><p><a rel=3 onMouseOver="document.getElementById(this.rel).style.display='block';" onMouseOut="document.getElementById(this.rel).style.display='none';" href='javascript:void(0)' onclick='go(939802)'>Source #3: <span style="letter-spacing:-1px;font-family:impact;font-size:11px;color:lightgreen;">HUGE<span style="color:green;">FILES</span></span></a><i id=3>added 3 minutes ago<br>by Abe</i><p><a rel=4 onMouseOver="document.getElementById(this.rel).style.display='block';" onMouseOut="document.getElementById(this.rel).style.display='none';" href='javascript:void(0)' onclick='go(939803)'>Source #4: <span style="font-family:impact;font-size:11px;color:orange;">Mov<span style="color:#666;">reel</span></span></a><i id=4>added 3 minutes ago<br>by Abe</i><p></div></div>
+	</div>
+
+    </div>
+
+	<div style="position:absolute; top:0; left:0;">
+		<span style=font-size:10px;font-family:Impact;>These links brought to you by</span><br>
+		<a href="https://icefilms.unblocked.pw" target=_blank><img border="0" src="//img.icefilms.info/logosmall.png"></a>
+	</div>
+	
+	
+<script type="text/javascript">
+var f=document.frm,w=0;
+function go(a){f.iqs.value&&((w=window.open("",""))||alert("To proceed, you must allow popups from www.icefilms.info"));window.XMLHttpRequest?r=new XMLHttpRequest:window.ActiveXObject&&(r=new ActiveXObject("Microsoft.XMLHTTP"));if(r)f.lastChild.value="37fn8Oklq",a="id="+a+"&s="+s+"&iqs="+f.iqs.value+"&url="+f.url.value+"&m="+m+"&cap="+f.captcha.value+"&sec="+f.secret.value+"&t=202839",r.open("POST","/membersonly/components/com_iceplayer/video.phpAjaxResp.php",!0),
+r.onreadystatechange=ice_b,r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.send(a)}function ice_b(){if(4==r.readyState)if(200==r.status){var a=r.responseText;if(a)5>a?(w&&w.close(),location.reload()):a.match("/GMorBMlet.php")?location=a:w?w.location=a:alert("Target window missing!")}else w&&w.close(),alert("Problem: "+r.statusText)}f.elements[2].value="";
+</script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
+<script type="text/javascript" src="/jquery.lazyload-ad-1.4.2-min.js"></script>
+<script type="text/javascript" src="/lite/lite.min.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"4767dd649b5bb9a318e434e90c100d22",petok:"c54dada41998ad2fcd0c4b026bca0527425c61f8-1421483539-1800",zone:"icefilms.info",rocket:"0",apps:{}}];CloudFlare.push({"apps":{"ape":"e7a104a707c16a189004facfe5a8e8f3"}});!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=919620257c/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<cookie>__cfduid=dd30e595044019b71a9a2b97cbee41d971421483539</cookie>

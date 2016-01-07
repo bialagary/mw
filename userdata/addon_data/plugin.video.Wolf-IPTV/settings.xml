@@ -1,0 +1,5 @@
+<settings>
+    <setting id="Updatecommonresolvers" value="true" />
+    <setting id="add_playlist" value="false" />
+    <setting id="ask_playlist_items" value="false" />
+</settings>

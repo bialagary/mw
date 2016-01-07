@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.footballhighlightssubreddit" version="1.1.1" name="Sparkys Football Highlights" provider-name="MetalKettle/Surmac/Sparky">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.urlresolver"  version="2.1.2"/>
+	<import addon="script.module.simplejson" version="3.3.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="addon.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Video Player for Football Highlights</summary>
+        <description>Welcome to Sparkys Football Highlights. Big shout out to Surmac who produced the original code for this addon without his hard work this would not have been possible.  This was one of my favourite addons and was gutted when it stopped working, could not let it die so fixed it for your enjoyment.  I have pimped it up a bit so I hope you like it.  Currently supports videos hosted on Google Drive,Dailymotion,YouTube and Cloudy Videos.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+

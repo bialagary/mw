@@ -1,0 +1,19 @@
+<settings>
+    <setting id="VERSION" value="0.0.0" />
+    <setting id="VIDEO" value="false" />
+    <setting id="adult" value="false" />
+    <setting id="dummy" value="" />
+    <setting id="email" value="" />
+    <setting id="keyid" value="" />
+    <setting id="localcopy" value="false" />
+    <setting id="login" value="false" />
+    <setting id="mastercopy" value="false" />
+    <setting id="password" value="" />
+    <setting id="private" value="false" />
+    <setting id="privateuser" value="" />
+    <setting id="reseller" value="false" />
+    <setting id="resellerid" value="" />
+    <setting id="resellername" value="" />
+    <setting id="username" value="" />
+    <setting id="zip" value="/storage/emulated/0/Download/" />
+</settings>

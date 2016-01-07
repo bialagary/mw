@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.sportsebooks.eu" version="1.0.3" name="SportseBooksEU" provider-name="sportsebooks.eu">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.simplejson" version="2.0.10"/>
+        <import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>SportseBooks Premium Sports</summary>
+		<description>Live sports channels</description>
+		<disclaimer>Watch sports channels live</disclaimer>
+		<platform>all</platform>
+        <website>http://www.sportsebooks.eu</website>
+        <language>en</language>
+        <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+        <forum></forum>
+        <email></email>
+	</extension>
+</addon>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+	<addon id="plugin.audio.MD3-Audio" version="2.0.1" name="MD3 Audio" provider-name="Mucky Duck">
+		<requires>
+			<import addon="xbmc.python"   version="2.1.0"/>
+            <import addon="script.module.t0mm0.common" version="2.0.0"/>
+        </requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>audio</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">all links come from www.itemvn.com</summary>
+			<description lang="en">Free MP3 streaming Of Your Favourite Songs From www.itemvn.com</description>
+			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon</disclaimer>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+			<language>en</language>
+		</extension>
+	</addon>

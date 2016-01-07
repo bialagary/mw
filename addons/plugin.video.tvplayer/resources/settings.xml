@@ -1,0 +1,14 @@
+<settings>
+<category label="Settings">
+    <setting id="proxy" label="Use Proxy Outside UK" type="bool" default="false" />
+	<setting id="sort" type="bool" label="Sort Alphabetically" default="false"/>
+	<setting id="token" type="text" label="token" default="" visible="false"/>
+	<setting id="expiry" type="text" label="expiry" default="" visible="false"/>
+	<setting id="referer" type="text" label="referer" default="" visible="false"/>
+</category>
+
+<category label="Auto View">
+	<setting id="auto-view" type="bool" label="Enable Automatic View" default="false"/>
+	<setting id="default" type="number" label="Default" default="50" enable="!eq(-1,false)"/>
+</category>
+</settings>

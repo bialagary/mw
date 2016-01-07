@@ -1,0 +1,6 @@
+<settings>
+    <setting id="noteImage" value="2" />
+    <setting id="noteMessage" value="We just wanted to remind you that there’s a new and improved version of XBMC&#x0A;available which we highly recommend upgrading to as soon as possible. It&#x0A;offers enhanced hardware decoding along with a ton of other fixes. [B]It’s not&#x0A;even called XBMC anymore[/B]; it’s now called [COLOR white]Kodi[/COLOR], need we say more?&#x0A;&#x0A;We’ve put together some very simple, newbie friendly guides which will walk&#x0A;you through every step of the way. Please visit the following page for&#x0A;more information: [B][COLOR white]www.tvaddons.ag/update-kodi[/COLOR][/B]&#x0A;&#x0A;Thank you very much for your support. We hope you continue to enjoy our&#x0A;addons far into the future, it’s only going to get better from here!" />
+    <setting id="noteType" value="t" />
+    <setting id="notifications-on-startup" value="true" />
+</settings>

@@ -1,0 +1,28 @@
+<settings>
+    <setting id="auto-view" value="true" />
+    <setting id="custom_url" value="http://projectfreetv.fr.to" />
+    <setting id="default-view" value="50" />
+    <setting id="delete_all_favs" value="" />
+    <setting id="delete_episode_favs" value="" />
+    <setting id="delete_movie_favs" value="" />
+    <setting id="delete_search_hist" value="" />
+    <setting id="delete_season_favs" value="" />
+    <setting id="delete_tv_favs" value="" />
+    <setting id="episode-view" value="504" />
+    <setting id="meta-path" value="" />
+    <setting id="movie-covers" value="true" />
+    <setting id="movie-fanart" value="false" />
+    <setting id="movie-view" value="503" />
+    <setting id="proxy" value="" />
+    <setting id="proxy_enable" value="false" />
+    <setting id="proxy_pass" value="" />
+    <setting id="proxy_port" value="" />
+    <setting id="proxy_user" value="" />
+    <setting id="season-view" value="504" />
+    <setting id="tv-banners" value="true" />
+    <setting id="tv-fanart" value="false" />
+    <setting id="tv-posters" value="false" />
+    <setting id="tvshow-view" value="503" />
+    <setting id="use-meta" value="true" />
+    <setting id="website_url" value="Custom URL" />
+</settings>

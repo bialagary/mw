@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.icechannel.extn.extra.uk" version="0.0.4" name="iStream Extensions - Extra Uk Channels" provider-name="[COLOR blue]X[/COLOR]unity[COLOR blue]T[/COLOR]alk">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="repository.istream" version="1.0"/> 
+    </requires>
+	<extension library="default.py" point="xbmc.service" />
+		<summary lang="en">iStream Extensions by xunitytalk.com</summary>
+    <extension point="xbmc.addon.metadata">
+		<description lang="en">iStream Extensions - Extra Uk Channels</description>
+		<platform></platform>
+		<language></language>
+		<license></license>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<email></email>
+    </extension>
+</addon>

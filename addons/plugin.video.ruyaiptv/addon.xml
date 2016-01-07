@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.ruyaiptv"
+	name="RuYa IPTV"
+	version="1.2"
+	provider-name="ruyaiptv">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">RuYa IPTV</summary>
+    <description lang="en">Where dreams come true</description>
+    <platform>all</platform>
+  </extension>
+</addon>

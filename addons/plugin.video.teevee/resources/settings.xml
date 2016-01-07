@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	
+    <category label="General">
+    <setting id="enable_calendar" type="bool" label="Enable TV Schedule" default="true"/>  
+    
+    
+    <setting type="sep"/>
+    <setting label="Delete favourites" type="action" action="RunPlugin(plugin://plugin.video.pftvso/?mode=del_tv_all)" enable="true" option="close"/>
+    <setting label="Delete search history" type="action" action="RunPlugin(plugin://plugin.video.pftvso/?mode=del_his_tv)" enable="true" option="close"/>
+
+    </category>
+
+    <category label="Metadata">
+    
+    <setting id="tv_metadata" type="bool" label="Enable Metadata" default="true"/> 
+    <setting id="limit_shows" type="bool" label="Paginate shows/episodes while metadata is ON" default="true"  visible="!eq(-1,false)"/>  
+    <setting id="results_number" type="slider" default="20" range="5,5,100" option="int" label="Number of items per page" visible="!eq(-2,false)" enable="!eq(-1,false)"/>
+    <setting label="
+            " type="lsep"/> 
+    <setting id="specials" type="bool" label="Show episode specials and other unindexed episodes" default="false" />  
+
+
+    </category>
+
+    
+	<category label="Sources">
+    <setting id="autoplay" type="bool" label="Enable autoplay" default="false"/>
+
+    <setting id="axel" type="bool" label="Use axel accelerator ([COLOR red]experimental[/COLOR])" default="false"/>
+
+    <setting label="Source blacklist (comma separated e.g.: vidzi.tv,vodlocker.com)" type="lsep"/>
+
+    <setting label="" type="text" id="source_blacklist" default="vodlocker.club"/>
+    <setting label="
+            " type="lsep"/>
+    <setting type="sep"/>
+
+
+    <setting id="enable_sorting" type="bool" label="Enable source sorting" default="false"/>
+    <setting label="Source order (comma separated e.g.: vidzi.tv,vodlocker.com)" type="lsep"/>
+    <setting id="sort" type="text" label="" default="" enable="!eq(-2,false)"/>
+    </category>
+    <category label="Downloads">
+    <setting id="download_folder" type="folder" label="Downloads folder" default=""/>
+
+    
+    </category>
+    
+
+    
+
+
+
+</settings>

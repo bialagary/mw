@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <!-- Login -->
+  <category label="Giris Islemleri">
+		<setting id="Username" label="xbmcTR userName" type="text" default=""/>
+		<setting id="password"   label="xbmcTR passWord" type="text" option="hidden" default=""/>
+		<setting id="Download" type="folder" source="files" label="Indirme Klasoru"  option="writeable" default=""/>
+  </category>
+  <!-- Settings -->
+  <category label="Sistem">
+		<setting id="autostart" type="bool" label="Autostart - Degistirmeyin !" default="true" />
+		<setting id="log"   label="" type="text" option="hidden" default=""/>
+	</category>
+</settings>

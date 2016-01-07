@@ -1,0 +1,14 @@
+<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.nlsports" name="NL Sports Repository" version="1.0" provider-name="XODI &amp; NLSPORTS">
+	<extension point="xbmc.addon.repository" name="NL Sports Repository">
+		<info compressed="true">https://raw.githubusercontent.com/kodidev/NL-Addons/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/kodidev/NL-Addons/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/kodidev/NL-Addons/master/repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repository NL Sports</summary>
+		<description>Download and install addons from NL Sports</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

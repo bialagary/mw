@@ -1,0 +1,322 @@
+[
+  {
+    "group": "10492", 
+    "name": "NFL Network HD", 
+    "url": "http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_2000k.m3u8", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12095"
+  }, 
+  {
+    "group": "10492", 
+    "name": "NFL Network 5KHD", 
+    "url": "http://nflsvglagame1-i.akamaihd.net/hls/live/223206/NFL_Mobile/2015Mobile_NFLN_5000k.m3u8", 
+    "image": "", 
+    "type": "ignore", 
+    "id": "12096"
+  }, 
+  {
+    "group": "10492", 
+    "name": "NFL Now HD", 
+    "url": "http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12097"
+  }, 
+  {
+    "group": "10492", 
+    "name": "GFL Combat Sports", 
+    "url": "plugin://plugin.video.israelive/?url=3251&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/3251/extra_big_logo.png", 
+    "type": "video", 
+    "id": "11485"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Rev'nTV", 
+    "url": "279?mode=6", 
+    "image": "http://res.cloudinary.com/hrscywv4p/image/upload/c_limit,f_auto,h_540,q_80,w_720/v1/218265/REV_N-LOGO-7_dv2zqt.png", 
+    "type": "video", 
+    "id": "11406"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Sport TV 2 (Portugal)", 
+    "url": "rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 pageUrl=http://sharecast.to/", 
+    "image": "", 
+    "type": "video", 
+    "id": "10497"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Sport TV 3 (Portugal)", 
+    "url": "rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/", 
+    "image": "", 
+    "type": "video", 
+    "id": "10498"
+  }, 
+  {
+    "group": "10492", 
+    "name": "TRACE Sport Stars", 
+    "url": "http://stream01.yamgo.com/iPhone/HLS_TS/broadcast/trace_tv_sports-tablet.3gp/trace_tv_sports-tablet.3gp-mr647k.m3u8?trackingid=4031670000&os=desktop", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_TRACE_Sports.pdf/page1-760px-Logo_TRACE_Sports.pdf.jpg", 
+    "type": "video", 
+    "id": "10501"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Pac National 1080 HD", 
+    "url": "http://xrxs.net/video/live-p12netw-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10513"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Pac Arizona 1080 HD", 
+    "url": "http://xrxs.net/video/live-p12ariz-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10514"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Pac Bay Area 720 HD", 
+    "url": "http://xrxs.net/video/live-p12baya-2328.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10515"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Pac Los Angeles 1080 HD", 
+    "url": "http://xrxs.net/video/live-p12losa-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10516"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Pac Mountain 1080 HD", 
+    "url": "http://xrxs.net/video/live-p12moun-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10517"
+  }, 
+  {
+    "group": "10492", 
+    "name": "PAC-12 Net. (National)", 
+    "url": "http://xrxs.net/video/live-p12netw-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10518"
+  }, 
+  {
+    "group": "10492", 
+    "name": "PAC-12 Net. (Arizona)", 
+    "url": "http://xrxs.net/video/live-p12ariz-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10519"
+  }, 
+  {
+    "group": "10492", 
+    "name": "PAC-12 Net. (Bay Area)", 
+    "url": "http://xrxs.net/video/live-p12baya-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10520"
+  }, 
+  {
+    "group": "10492", 
+    "name": "PAC-12 Net. (Los Angeles)", 
+    "url": "http://xrxs.net/video/live-p12losa-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10521"
+  }, 
+  {
+    "group": "10492", 
+    "name": "PAC-12 Net. (Moutain)", 
+    "url": "http://xrxs.net/video/live-p12moun-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10522"
+  }, 
+  {
+    "group": "10492", 
+    "name": "PAC-12 Net. (Oregon)", 
+    "url": "http://xrxs.net/video/live-p12oreg-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10523"
+  }, 
+  {
+    "group": "10492", 
+    "name": "PAC-12 Net. (Washington)", 
+    "url": "http://xrxs.net/video/live-p12wash-4728.m3u8", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "10524"
+  }, 
+  {
+    "group": "10492", 
+    "name": "PAC-12 Net. (Washington)", 
+    "url": "http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_1164_av-p.m3u8?sd=10&rebase=on", 
+    "image": "http://www.utahbaseballcamp.com/Assets/Utah+Baseball+Digital+Assets/Pac+12+Logo.png", 
+    "type": "video", 
+    "id": "11299"
+  }, 
+  {
+    "group": "10492", 
+    "name": "1 on 1 Boxing TV", 
+    "url": "plugin://plugin.video.israelive/?url=1988&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/1988/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10528"
+  }, 
+  {
+    "group": "10492", 
+    "name": "X-Treme Sports", 
+    "url": "plugin://plugin.video.israelive/?url=326&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/326/extra_big_logo.png", 
+    "type": "ignore", 
+    "id": "10533"
+  }, 
+  {
+    "group": "10492", 
+    "name": "AutoTV", 
+    "url": "plugin://plugin.video.israelive/?url=2945&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/2945/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10534"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Ultimate Disc TV", 
+    "url": "plugin://plugin.video.israelive/?url=3130&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/3130/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10535"
+  }, 
+  {
+    "group": "10492", 
+    "name": "AFL Classic", 
+    "url": "plugin://plugin.video.israelive/?url=980&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/980/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10536"
+  }, 
+  {
+    "group": "10492", 
+    "name": "UFC Next", 
+    "url": "plugin://plugin.video.israelive/?url=713&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/713/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10537"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Dubai Sports", 
+    "url": "plugin://plugin.video.israelive/?url=79&mode=1&ignorefilmonguide=1", 
+    "image": "http://static.filmon.com/couch/channels/79/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10538"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Dubai Sports 3", 
+    "url": "http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8", 
+    "image": "http://www.islambox.com/images/products/channels/web/dubaisports3-web.png", 
+    "type": "video", 
+    "id": "10539"
+  }, 
+  {
+    "group": "10492", 
+    "name": "Dubai Racing", 
+    "url": "http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8", 
+    "image": "http://www.mems-cg.com/library/images/uploaded%20images/Dxb_Racing_C.jpg", 
+    "type": "video", 
+    "id": "10540"
+  }, 
+  {
+    "group": "10492", 
+    "name": "BIG TEN NETWORK HD", 
+    "url": "http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8", 
+    "image": "http://i1.ytimg.com/i/4LeRw7pIZ_kseS4Krn_DQA/mq1.jpg", 
+    "type": "ignore", 
+    "id": "10545"
+  }, 
+  {
+    "group": "10492", 
+    "name": "SportTime TV Channel 5 Germany", 
+    "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200", 
+    "image": "http://www.sporttime.tv/_uploads/_fotos/10065_780594.gif", 
+    "type": "video", 
+    "id": "10547"
+  }, 
+  {
+    "group": "10492", 
+    "name": "SportTimeTV Channel 4 Germany", 
+    "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200", 
+    "image": "http://www.sporttime.tv/_uploads/_fotos/10065_780594.gif", 
+    "type": "video", 
+    "id": "10548"
+  }, 
+  {
+    "group": "10492", 
+    "name": "SportTime TV Channel 3 Germany", 
+    "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200", 
+    "image": "http://www.sporttime.tv/_uploads/_fotos/10065_780594.gif", 
+    "type": "video", 
+    "id": "10549"
+  }, 
+  {
+    "group": "10492", 
+    "name": "SportTime TV Channel 2 Germany", 
+    "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_1200", 
+    "image": "http://www.sporttime.tv/_uploads/_fotos/10065_780594.gif", 
+    "type": "video", 
+    "id": "10550"
+  }, 
+  {
+    "group": "10492", 
+    "name": "SportTime TV Channel 1 Germany", 
+    "url": "rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200", 
+    "image": "http://www.sporttime.tv/_uploads/_fotos/10065_780594.gif", 
+    "type": "video", 
+    "id": "10551"
+  }, 
+  {
+    "group": "10492", 
+    "name": "nbc golf sd", 
+    "url": "http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png", 
+    "type": "video", 
+    "id": "10552"
+  }, 
+  {
+    "group": "10492", 
+    "name": "nbc golf 720p", 
+    "url": "http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png", 
+    "type": "video", 
+    "id": "10553"
+  }, 
+  {
+    "group": "10492", 
+    "name": "nbc golf 1080p", 
+    "url": "http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/e/e4/NBC_Golf_logo.png", 
+    "type": "video", 
+    "id": "10554"
+  }, 
+  {
+    "group": "10492", 
+    "name": "SPORTSNET 360 HD", 
+    "url": "http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_64_ipad.m3u8", 
+    "image": "http://www.680news.com/files/2013/06/sn360.jpg", 
+    "type": "ignore", 
+    "id": "11403"
+  }
+]

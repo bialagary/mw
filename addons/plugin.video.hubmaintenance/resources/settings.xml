@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+
+<category label="Xunity Maintenance Settings">
+    <setting id="opt_out" type="bool" label="Opt Out From Notifications" default="false"/>
+    <setting type="lsep" label="LOG UPLOADER EMAIL"/>
+    <setting id="email" type="text" label="31000"/>
+    <setting id="skip_oldlog" type="bool" label="31001" default="true"/>
+    <setting type="lsep" label="WALLPAPER DOWNLOAD"/>
+    <setting id="download_wallpaper" type="folder" label="Wallpaper Download Directory" default=""/>
+    <setting type="lsep" label="LINUX FLASHING"/>
+    <setting id="download_linux" type="folder" label="Linux Flash Directory usb0 or sdcard" default=""/>
+    <setting type="lsep" label="AUTO REMOVE OLD/STALE THUMBNAILS"/>
+    <setting id="thumbnails" type="bool" label="Auto Remove Old Thumbnails" default="true"/>
+</category>	
+
+<category label="Restore UserData">
+    <setting type="lsep" label="First Of All Go To Your Userdata/Addon_Data Then Select All The"/>
+    <setting type="lsep" label="Folders You Want To Back Up And Zip Up Into One Zip File Then Upload"/>
+    <setting type="lsep" label="To The Root Of Your DropBox Public Folder And Below Input The Details"/>
+    <setting id="userdata" type="bool" label="Restore Userdata" default="false"/>
+    <setting id="boxnumber" type="number" label="DropBox Number" default="" enable="!eq(-1,false)"/>
+    <setting id="boxbackupzip" type="text" label="Restore Zip Name" default="" enable="!eq(-2,false)"/>
+</category>	
+  <!-- Auto View -->
+    <category label="Auto-View">
+		<setting id="auto-view" type="bool" label="Enable Auto View" default="true"/>
+		<setting id="MAIN" type="number" label="MAIN" default="500" enable="!eq(-1,false)"/>
+		<setting id="SUB" type="number" label="Sub Catergories" default="503" enable="!eq(-2,false)"/>
+		<setting id="videos" type="number" label="How To Videos" default="500" enable="!eq(-3,false)"/>
+		 <!-- HIDDEN STUFF -->
+        <setting id="message" type="bool" label="for messages" default="false" visible="false"/>
+        <setting id="storage" type="bool" label="userdata moving" default="false" visible="false"/>
+        <setting id="add7" type="bool" label="Confluence Check" default="false" visible="false"/>
+        <setting id="pop_time" type="text" label="For POP UP" default="2000-01-01 00:00:00" visible="false"/>
+        <setting id="ga_time" type="text" label="GA Called" default="2000-01-01 00:00:00" visible="false"/>
+        <setting id="visitor_ga" type="text" label="GA visitor" default="" visible="false"/>
+        <setting id="lucy" type="bool" label="lucy video" default="false" visible="false"/>
+        <setting id="lucyagain" type="bool" label="lucy video" default="false" visible="false"/>
+        <setting id="id" type="text" label="For Notifications" default="0" visible="false"/>
+   	</category>	   	
+  </settings>

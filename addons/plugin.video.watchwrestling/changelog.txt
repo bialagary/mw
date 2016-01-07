@@ -1,0 +1,37 @@
+[B]v0.1.1[/B]
+Website changes
+
+[B]v0.1.0[/B]
+Minor Fixes
+
+[B]v0.0.9[/B]
+Domain Change
+
+[B]v0.0.8[/B]
+NA
+
+[B]v0.0.7[/B]
+Monthly Archives Removed
+Fixed WWF Attiture ERA section
+
+[B]v0.0.6[/B]
+Fixed addon for changes made to the website.
+
+[B]v0.0.5[/B]
+Fixed addon for changes made to the website.
+
+[B]v0.0.4[/B]
+Fixed some issues with character encodings
+
+[B]v0.0.3[/B]
+Minor Bug Fixes
+
+[B]v0.0.2[/B]
+Added Categories
+Added Monthly Archives
+Fixed some bugs with Media Scraping
+Added Universal Playbackengine support
+Added Universal Watch-History Support
+
+[B]v0.0.1[/B]
+Initial Release

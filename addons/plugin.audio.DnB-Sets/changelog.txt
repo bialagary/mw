@@ -1,0 +1,2 @@
+v1.0.1 search function added and top 99 searches
+v1.0.0 initial release

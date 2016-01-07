@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.r3b00t" name="r3b00t XBMC Plugins" version="0.0.1" provider-name="r3b00t">
+	<extension point="xbmc.addon.repository" name="Irish Television XBMC Plugins">
+		<info compressed="false">https://the-gizmo.svn.beanstalkapp.com/gizmo/addons/addons.xml</info>
+		<checksum>https://the-gizmo.svn.beanstalkapp.com/gizmo/addons/addons.xml.md5</checksum>
+		<datadir zip="true">https://the-gizmo.svn.beanstalkapp.com/gizmo/addons</datadir>	
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Add-ons from r3b00t Repository</summary>
+		<description>r3b00t video plug-ins for XBMC</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

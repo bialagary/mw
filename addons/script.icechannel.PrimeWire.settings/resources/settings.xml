@@ -1,0 +1,7 @@
+<settings>
+<category label="General">
+<setting id="custom_url" type="labelenum" label="URL" default="https://www.primewire.ag/" values="Custom|http://www.1channel.ch/|http://www.primewire.ag/|http://www.letmewatchthis.ch/|https://www.primewire.unblocked.pw/" />
+<setting id="custom_text_url" type="text" label="     Custom" default="https://www.primewire.unblocked.pw/" enable="eq(-1,0)" />
+<setting id="proxy" type="bool" label="Proxy for UK" default="false"/>
+</category>
+</settings>

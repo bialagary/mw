@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting type="lsep" label="55001"/>
+	<setting id="username" type="text" label="55002" default="" />
+	<setting id="userpassword" type="text" option="hidden" label="55003" default="" />
+	<setting type="sep"/>
+	<setting type="lsep" label="55004"/>
+	<setting id="video_quality" type="bool" label="55005" default="false" />
+	<setting type="sep"/>
+	<setting type="lsep" label="55006"/>
+	<setting id="list_display" type="labelenum" label="55007" values="color|gray" default="color" />
+</settings>

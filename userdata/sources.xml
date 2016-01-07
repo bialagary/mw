@@ -1,0 +1,147 @@
+<sources>
+    <programs>
+        <default pathversion="1"></default>
+    </programs>
+    <video>
+        <default pathversion="1"></default>
+        <source>
+            <name>newlinks</name>
+            <path pathversion="1">http://teknokat.co.uk/data/newlinks/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </video>
+    <music>
+        <default pathversion="1"></default>
+    </music>
+    <pictures>
+        <default pathversion="1"></default>
+    </pictures>
+    <files>
+        <default pathversion="1"></default>
+        <source>
+            <name>milo</name>
+            <path pathversion="1">http://milo.tecfront.ca/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.superrepo</name>
+            <path pathversion="1">http://srp.nu/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>fusion</name>
+            <path pathversion="1">http://fusion.xbmchub.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.totalxbmc</name>
+            <path pathversion="1">http://i.totalxbmc.tv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.mashup</name>
+            <path pathversion="1">http://install.mashupxbmc.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.xunity</name>
+            <path pathversion="1">http://xfinity.xunitytalk.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.xunity v2</name>
+            <path pathversion="1">http://is.gd/xunity/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.prozone</name>
+            <path pathversion="1">http://prozone.getxbmc.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.fusion(tvaddons)</name>
+            <path pathversion="1">http://fusion.tvaddons.ag/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.Transform (Megatron Rom)</name>
+            <path pathversion="1">http://transform.mega-tron.tv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>zevros12</name>
+            <path pathversion="1">http://teknokat.co.uk/zevros12/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>mk</name>
+            <path pathversion="1">http://kodi.metalkettle.co/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>ivue</name>
+            <path pathversion="1">http://tecbox.tv/repo/install/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>mucky</name>
+            <path pathversion="1">http://muckys.kodimediaportal.ml/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>aaa</name>
+            <path pathversion="1">http://aaarepo.xyz/aaa/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>.halow</name>
+            <path pathversion="1">http://halow.x10.bz/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>shadows</name>
+            <path pathversion="1">http://shadowcrew.info/shadows/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>megareborn</name>
+            <path pathversion="1">http://iptvcanada-usa.net84.net/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>tugafree</name>
+            <path pathversion="1">http://tugafree.hostei.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>totalxbmc</name>
+            <path pathversion="1">http://i.totalxbmc.tv/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>ptom</name>
+            <path pathversion="1">http://otto.ptom.co.uk/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>adnroidjay</name>
+            <path pathversion="1">http://androidjay330.x10host.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>Jas0onpc</name>
+            <path pathversion="1">http://jas0npc.pcriot.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>kodiland</name>
+            <path pathversion="1">http://kodiland.co/kodi/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>RenegadesTV</name>
+            <path pathversion="1">http://repo.sharktech.co.uk/RenegadesTV/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+    </files>
+</sources>

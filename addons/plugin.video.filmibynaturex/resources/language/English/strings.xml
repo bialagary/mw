@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+<!-- Options -->
+	<string id="30000">15</string>
+	<string id="30001">25</string>
+	<string id="30002">50</string>
+	<string id="30003">480</string>
+	<string id="30004">720 HD</string>
+	<string id="30005">1080 HD</string>
+	<string id="30021">1080p</string>
+	<string id="30022">720p</string>
+	<string id="30023">Standard</string>
+	
+	<string id="30051">25</string>
+	<string id="30052">50</string>
+	<string id="30053">100</string>
+</strings>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting type="lsep" label="20000" />
+    <setting id="quality" type="enum" label="30100" values="400kbps|750kbps|1024kbps|HD" default="3" />
+    <setting id="stream_type" type="enum" label="30101" values="rtmp|rtsp" default="0" />
+	<setting type="lsep" label="20001" />
+    <setting id="email" type="text" label="30102" default="" subsetting="true"/>
+    <setting id="password" type="text" label="30103" option="hidden" default="" subsetting="true"/>
+	<setting id="verified" type="bool" label="30104" default="false" visible="false"/>
+	<setting id="setup" default="false"/>
+</settings>

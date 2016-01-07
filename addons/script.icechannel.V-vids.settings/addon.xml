@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.icechannel.V-vids.settings" version="0.0.2" name="iStream - V-vids" provider-name="iStream">
+<extension point="xbmc.python.pluginsource" library="default.py" />
+<extension point="xbmc.addon.metadata">
+<summary lang="en">iStream - V-vids - Settings </summary>
+<description lang="en">iStream - V-vids - Settings </description>
+<platform></platform>
+<language></language>
+<license></license>
+<forum></forum>
+<website></website>
+<source></source>
+<email></email>
+</extension>
+</addon>

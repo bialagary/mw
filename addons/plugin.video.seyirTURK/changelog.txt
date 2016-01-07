@@ -1,0 +1,47 @@
+﻿v2.04
+30.07.2015
+-düzeltme| fixes.
+
+
+v2.03
+25.07.2015
+-vid.ag parser eklendi | vid.ag parser added.
+
+v2.02
+24.07.2015
+- vk.com ve dailymotion parserlerı düzeltidi | parsers fixed.
+
+v2.00
+09.03.2015
+- Arama özelliği eklendi daha sonra aktive edilecek. Seacrh Engine added activated later.
+- yerel.xml destegi getirildi. local xml can be used. 
+- Parserlar güncellendi. Parsers updated and more added.
+
+v1.57
+25.11.2014
+- sunucu değişikliği yapıldı.
+- server changed.
+
+v1.56
+07.11.2014
+- mail ru kalite seçimi düzeltidi, umarım sondur.
+- mail.ru video quality selection fixed, hope this one last.
+
+v1.55
+06.11.2014
+- mail ru kalite seçim sistemini tekrar değiştirmiş eklentide mail.ru kalite seçimi yenilendi.
+- mail.ru changed its video quality codes again ,in the add on it its corrected.
+
+v1.54
+05.11.2014
+- mail ru kalite seçim sistemini değiştirmiş eklentide mail.ru kalite seçimi yenilendi.
+- mail.ru changed its video quality codes ,in the add on it its corrected.
+
+v1.53
+23.10.2014
+- gizli mail.ru adresleri çalışır hale getirildi.
+
+v1.52
+22.10.2014
+- youtube videolarının youtube eklentisi ile koordineli çalışması eklendi (XOR teşekkürler)
+- mail.ru videolarının kalite seçimi eklendi (XOR teşekkürler)

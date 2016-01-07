@@ -1,0 +1,10 @@
+
+name="Logged in?"
+url="none"
+img=" "
+fanart=" "
+description="[COLOR red]You are NOT currently logged in![/COLOR][CR]
+[CR]
+[CR]
+    Please create an account at www.twomovies.us and enter your credentials in the 2Movies Account tab of the addon settings  "
+type="status"

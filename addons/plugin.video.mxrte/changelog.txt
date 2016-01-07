@@ -1,0 +1,35 @@
+[B]Version 1.0.6 - 03FEB15[/B]
+
+- links fixed by PocketAces (Thanks for the help)
+- Updated to the repo 05FEB15
+
+[B]Version 1.0.5 - 10DEC14[/B]
+
+- Repo change
+
+[B]Version 1.0.4 - 24NOV2014[/B]
+
+- Updated to Helix
+- Make sure you have all the files installed
+
+[B]Version 1.0.3 - 01AUG2014[/B]
+
+- split streams by speed 720p - 288p
+- again thanks to JohnnyParanoia for the new streams
+
+[B]Version 1.0.2 - 31JUL2014[/B]
+- thanks to JohnnyParanoia for the new streams
+- high = 520p
+- low = 360p
+- crawling =  288p 
+
+[B]Version 1.0.1 - 28JUL2014[/B]
+
+- the first release of the MX RTE Player addon 
+- added one RTE Channel from thatguy7669
+- this is released to TVaddons as a beta video addon 
+
+
+[B]Disclaimer:[/B]
+
+We do not now or ever maintain or stream the content in this XBMC addon, if a channel is not working, simply wait to the next update and then it may or may not be working.

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+   <category label="44044">
+   <setting label="44100" type="lsep" />
+   <setting id="adult" type="bool" label="44000" default="false"/>
+   <setting label="44200" type="lsep" />
+   <setting id="favori" type="bool" label="44001" default="false"/>
+   <setting label="44300" type="lsep" />
+   <setting id="mail" type="text" label="44002" default="birisi@biryer.com"/>
+   <setting label="44400" type="lsep" />
+   <setting id="sifre" type="text" label="44003" default="Kayıtlı şifrenizi giriniz."/>
+   <setting label="44500" type="lsep" />
+   <setting id="yerelxml" type="text" label="44004" default="seyirturk.xml"/>
+   </category>
+</settings>

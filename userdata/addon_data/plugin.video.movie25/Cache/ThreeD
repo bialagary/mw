@@ -1,0 +1,16 @@
+directory mode 235
+non directory mode 236
+
+
+
+<name>TNPB 3D Movies</name>
+<link>https://raw.github.com/mash2k3/MashUpTNPB/master/3D%20Movies.xml</link>
+<thumbnail>3d</thumbnail>
+<mode>236</mode>
+
+<name>Staael1982 3D Movies</name>
+<link>https://raw.github.com/mash2k3/Staael1982/master/3D.xml</link>
+<thumbnail>3d</thumbnail>
+<mode>236</mode>
+
+

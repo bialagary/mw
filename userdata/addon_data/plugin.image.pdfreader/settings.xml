@@ -1,0 +1,8 @@
+<settings>
+    <setting id="limite" value="true" />
+    <setting id="local" value="false" />
+    <setting id="local-folder" value="" />
+    <setting id="mensagem" value="false" />
+    <setting id="thumbs" value="true" />
+    <setting id="thumbs2" value="0" />
+</settings>

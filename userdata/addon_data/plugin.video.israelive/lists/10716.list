@@ -1,0 +1,298 @@
+[
+  {
+    "group": "10716", 
+    "name": "RAI 1", 
+    "url": "it/3?mode=9", 
+    "image": "http://www.rai1.rai.it/dl/PortaliRai/images/share_Rai1.png", 
+    "type": "ignore", 
+    "id": "10728"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 1", 
+    "url": "http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8", 
+    "image": "http://www.rai1.rai.it/dl/PortaliRai/images/share_Rai1.png", 
+    "type": "video", 
+    "id": "12075"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 2", 
+    "url": "it/13?mode=9", 
+    "image": "http://www.rai2.rai.it/dl/PortaliRai/images/share_Rai2.png", 
+    "type": "ignore", 
+    "id": "10729"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 2", 
+    "url": "http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8", 
+    "image": "http://www.rai2.rai.it/dl/PortaliRai/images/share_Rai2.png", 
+    "type": "video", 
+    "id": "12076"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 3", 
+    "url": "it/14?mode=9", 
+    "image": "http://www.rai3.rai.it/dl/PortaliRai/images/share_Rai3.png", 
+    "type": "ignore", 
+    "id": "10741"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 3", 
+    "url": "http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8", 
+    "image": "http://www.rai3.rai.it/dl/PortaliRai/images/share_Rai3.png", 
+    "type": "video", 
+    "id": "12077"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 4", 
+    "url": "it/19?mode=9", 
+    "image": "http://tvstreamingita.altervista.org/alterpages/medium/387px-rai_4_logo_2010.svg.jpg", 
+    "type": "ignore", 
+    "id": "11388"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Camera dei Deputati", 
+    "url": "plugin://plugin.video.israelive/?url=379&mode=1", 
+    "image": "http://static.filmon.com/couch/channels/379/extra_big_logo.png", 
+    "type": "video", 
+    "id": "10720"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 5", 
+    "url": "mmsh://212.162.68.162/rai5", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/260px-Rai_5_logo.svg.png", 
+    "type": "video", 
+    "id": "11389"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI 5", 
+    "url": "http://stream12.rai.it/live/smil:rai5.smil/chunklist_b1500000.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Rai_5_logo.svg/260px-Rai_5_logo.svg.png", 
+    "type": "video", 
+    "id": "12078"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI Movie", 
+    "url": "http://stream10.rai.it/italy/smil:raimovie.smil/playlist.m3u8", 
+    "image": "http://www.raimovie.rai.it/dl/PortaliRai/images/share_RaiMovie.png", 
+    "type": "video", 
+    "id": "12079"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI  Premium", 
+    "url": "mmsh://212.162.68.102/Rai_Premium", 
+    "image": "http://www.lyngsat-logo.com/hires/rr/rai_premium.png", 
+    "type": "video", 
+    "id": "10730"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI  Premium", 
+    "url": "http://stream10.rai.it/italy/raipremium.smil/chunklist_b1800000.m3u8", 
+    "image": "http://www.lyngsat-logo.com/hires/rr/rai_premium.png", 
+    "type": "video", 
+    "id": "12080"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Rai Gulp italy", 
+    "url": "mms://212.162.68.163/Rai_gulp", 
+    "image": "http://upload.wikimedia.org/wikipedia/de/thumb/9/94/RAI_Gulp_2010_Logo.svg/580px-RAI_Gulp_2010_Logo.svg.png", 
+    "type": "video", 
+    "id": "10731"
+  }, 
+  {
+    "group": "10716", 
+    "name": "rai yoyo itali", 
+    "url": "mms://212.162.68.163/Rai_yoyo", 
+    "image": "http://images4.wikia.nocookie.net/__cb20100519121157/logopedia/images/4/43/Rai_YoYo_2010.svg", 
+    "type": "video", 
+    "id": "10732"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Rai Scuola", 
+    "url": "mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.asf", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Logo_Rai_Scuola.png/260px-Logo_Rai_Scuola.png", 
+    "type": "video", 
+    "id": "10733"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Rai Storia", 
+    "url": "it/25?mode=9", 
+    "image": "https://github.com/ocram/picons/diff_blob/27b88708b8720453a5a0c9b0f176fb9473380337/picons/raistoria.png?raw=true", 
+    "type": "ignore", 
+    "id": "10734"
+  }, 
+  {
+    "group": "10716", 
+    "name": "rai sport 1", 
+    "url": "it/16?mode=9", 
+    "image": "http://sicilia.onderadio.net/Loghi/TV/RaiSport1.png", 
+    "type": "ignore", 
+    "id": "11339"
+  }, 
+  {
+    "group": "10716", 
+    "name": "rai sport 2", 
+    "url": "http://212.162.68.163/raisport2", 
+    "image": "http://www.kartcom.com/com_kart_asset/33272/rai_sport_2.jpg", 
+    "type": "video", 
+    "id": "11340"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RAI Nettuno Sat Uno", 
+    "url": "http://212.162.68.163/Rai_Nettuno", 
+    "image": "http://www.tvinstreaming.org/wp-content/uploads/2011/12/Rai-Nettuno-Sat-Uno-in-streaming.jpg", 
+    "type": "video", 
+    "id": "11387"
+  }, 
+  {
+    "group": "10716", 
+    "name": "LA 5", 
+    "url": "it/23?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/it/thumb/6/64/La5_Italy.svg/1280px-La5_Italy.svg.png", 
+    "type": "ignore", 
+    "id": "10740"
+  }, 
+  {
+    "group": "10716", 
+    "name": "La 6", 
+    "url": "rtmp://la6.stream.internetone.it/streaming/la6.stream", 
+    "image": "http://www.storiaradiotv.it/LOGO%20LA6.png", 
+    "type": "video", 
+    "id": "10738"
+  }, 
+  {
+    "group": "10716", 
+    "name": "LA7", 
+    "url": "http://la7live-lh.akamaihd.net/i/test_1@143593/master.m3u8", 
+    "image": "http://en.wikipedia.org/wiki/La7#mediaviewer/File:LA7_logo.png", 
+    "type": "video", 
+    "id": "10739"
+  }, 
+  {
+    "group": "10716", 
+    "name": "LA7d", 
+    "url": "it/24?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/d/d0/LA7d_logo.png", 
+    "type": "ignore", 
+    "id": "11582"
+  }, 
+  {
+    "group": "10716", 
+    "name": "CANALE 2", 
+    "url": "http://wms.iptv.4wardstream.net/canale2iptv/canale2iptv/playlist.m3u8", 
+    "image": "http://www.storiaradiotv.it/CANALE%202%20MARSALA.png", 
+    "type": "video", 
+    "id": "10745"
+  }, 
+  {
+    "group": "10716", 
+    "name": "CANALE 5", 
+    "url": "it/9?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/it/thumb/a/ae/Canale_5.svg/1035px-Canale_5.svg.png", 
+    "type": "ignore", 
+    "id": "11577"
+  }, 
+  {
+    "group": "10716", 
+    "name": "CANALE 7", 
+    "url": "it/7?mode=9", 
+    "image": "http://www.storiaradiotv.it/Copia%20di%20CANALE%207%20GENOVA.jpg", 
+    "type": "ignore", 
+    "id": "11581"
+  }, 
+  {
+    "group": "10716", 
+    "name": "italia 1", 
+    "url": "it/10?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/it/archive/6/60/20130311163630!Italia1_1982.png", 
+    "type": "ignore", 
+    "id": "11578"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Rete 4", 
+    "url": "it/17?mode=9", 
+    "image": "http://www.wilditaly.net/wp-content/uploads/2009/12/Rete4_Logo-498x323.jpg", 
+    "type": "ignore", 
+    "id": "12087"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Frisbee", 
+    "url": "it/27?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/it/7/7a/FRISBEE_2013.png", 
+    "type": "ignore", 
+    "id": "11579"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Boing", 
+    "url": "it/26?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Boing_Logo.svg/2000px-Boing_Logo.svg.png", 
+    "type": "ignore", 
+    "id": "11583"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Cielo", 
+    "url": "it/5?mode=9", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png", 
+    "type": "ignore", 
+    "id": "11584"
+  }, 
+  {
+    "group": "10716", 
+    "name": "Cielo", 
+    "url": "http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8", 
+    "image": "http://upload.wikimedia.org/wikipedia/en/8/8b/Logo_cielo.png", 
+    "type": "video", 
+    "id": "12082"
+  }, 
+  {
+    "group": "10716", 
+    "name": "IRIS", 
+    "url": "it/22?mode=9", 
+    "image": "http://en.wikipedia.org/wiki/Iris_%28TV_channel%29#/media/File:Logo_iris.png", 
+    "type": "ignore", 
+    "id": "11580"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RSI La 1", 
+    "url": "plugin://plugin.video.israelive/?url=3917&mode=1", 
+    "image": "https://lafibre.info/images/tv/logo_rsi_la1.jpg", 
+    "type": "video", 
+    "id": "12394"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RSI La 1", 
+    "url": "it/1?mode=9", 
+    "image": "https://lafibre.info/images/tv/logo_rsi_la1.jpg", 
+    "type": "ignore", 
+    "id": "11591"
+  }, 
+  {
+    "group": "10716", 
+    "name": "RSI La 2", 
+    "url": "it/2?mode=9", 
+    "image": "http://www.publisuisse.ch/mm/mm002/rsila2_klein.jpg", 
+    "type": "ignore", 
+    "id": "11592"
+  }
+]

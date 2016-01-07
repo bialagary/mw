@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.icechannel.extn.italia" version="0.0.8" name="xunitytalk extension for italia" provider-name="Xunitytalk.com">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="repository.istream" version="1.0"/>
+    </requires>
+	<extension library="default.py" point="xbmc.service" />
+		<summary lang="en">xunitytalk extension for italia</summary>
+    <extension point="xbmc.addon.metadata">
+		<description lang="en">xunitytalk extension for italia</description>
+		<platform></platform>
+		<language></language>
+		<license></license>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<email></email>
+    </extension>
+</addon>

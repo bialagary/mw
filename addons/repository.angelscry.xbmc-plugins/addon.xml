@@ -1,0 +1,15 @@
+<addon id="repository.angelscry.xbmc-plugins" name="Angelscry Repository" version="1.2.6" provider-name="Angelscry">
+	<extension point="xbmc.addon.repository" name="Angelscry Repository">
+		<info compressed="false">http://www.gwenael.org/Repository/addons.xml</info>
+		<checksum>http://www.gwenael.org/Repository/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.gwenael.org/Repository/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+        <summary lang="en">Repository Angelscry</summary>
+        <summary lang="fr">Dépot Angelscry</summary>
+		<description lang="en">Angelscry's Repository for Kodi</description>
+		<description lang="fr">Dépot Angelscry pour Kodi</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

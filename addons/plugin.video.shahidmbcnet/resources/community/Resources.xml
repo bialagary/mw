@@ -1,0 +1,36 @@
+<resources>
+	<file fname="Categories.xml"/>
+	<file fname="Channels.xml"/>
+	<file fname="Sources.xml"/>
+	<file fname="teledunetPlayer.py"/>
+	<file fname="teledunetUrls.xml"/>
+    	<file fname="ssPlayer.py"/>
+	<file fname="ssUrls.xml"/>
+    	<file fname="ttvPlayer.py"/>
+	<file fname="ttvUrls.xml"/>
+	<file base64="true" fname="cdnUrls.xml"/>
+	<file base64="true" fname="yoUrls.xml"/>
+	<file base64="true" fname="karUrls.xml"/>
+    
+	<file fname="livetvPlayer.py"/>
+	<file fname="livetvUrls.xml"/>	
+	<file fname="genericPlayer.py" />	
+	<file fname="genericUrls.xml"   url="https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/master/genericUrls.xml"/>	
+	<file fname="YoutubeSources.xml"/>
+	<file fname="CustomPlayer.py"/>
+    	<file fname="glarabUrls.xml"/>
+    	<file fname="iptvosnUrls.xml"/>
+
+	<file fname="palestinecoolUrls.xml" url="http://goo.gl/yNlwCM"/>
+	<file fname="ZombiList.xml" url="https://raw.githubusercontent.com/zombiB/Replay/master/zombiList.xml"/>	
+    	<file fname="emadUrls.xml"  url="https://raw.githubusercontent.com/emadmahdi/IPTV/master/ArabicDB/shaniXBMCplugin/emadUrls.xml"/>
+	<file fname="filmonUrls.xml"/> 
+	<file fname="filmonPlayer.py"/> 
+	<file fname="OfficialUrls.xml"   url="https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/master/OfficialUrls.xml"/>
+	<file fname="TelvzaUrls.xml"/> 
+	<file fname="../settings.xml" /> 
+	<file fname="../language/english/strings.xml" />
+	<file fname="../language/french/strings.xml" />
+	<file fname="../../default.py" /> 
+	<file fname="IPTVPlanetUrls.xml" url="https://raw.githubusercontent.com/allouch89/ShaniXBMCdatabase/master/IPTVPlanetUrls.xml"/> 
+</resources>

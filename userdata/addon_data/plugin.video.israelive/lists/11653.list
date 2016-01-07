@@ -1,0 +1,98 @@
+[
+  {
+    "group": "11653", 
+    "name": "VietFace TV", 
+    "url": "161;;vietface?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11655"
+  }, 
+  {
+    "group": "11653", 
+    "name": "NET Viet", 
+    "url": "197?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11656"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV1", 
+    "url": "http://222.255.27.89/vtv1.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11658"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV2", 
+    "url": "http://222.255.27.89/vtv2.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11659"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV3", 
+    "url": "http://222.255.27.89/vtv3.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11660"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV4", 
+    "url": "http://222.255.27.89/vtv4.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11661"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV4", 
+    "url": "108?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11657"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV5", 
+    "url": "http://222.255.27.89/vtv5.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11662"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV6", 
+    "url": "http://222.255.27.89/vtv6.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11663"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV Phú Yên", 
+    "url": "rtmp://113.161.4.102/live/ playpath=vtvphuyen.tv swfUrl=http://vtvphuyen.vn/vplayer.swf pageUrl=http://vtvphuyen.vn/ swfVfy=true live=true timeout=60", 
+    "image": "", 
+    "type": "video", 
+    "id": "11664"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV Cần Thơ 1", 
+    "url": "rtmp://113.161.204.167:1935/livepkgr/ playpath=livestream swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ swfVfy=true live=true timeout=60", 
+    "image": "", 
+    "type": "video", 
+    "id": "11665"
+  }, 
+  {
+    "group": "11653", 
+    "name": "VTV Cần Thơ 2", 
+    "url": "rtmp://113.161.204.168:1935/livepkgr/ playpath=livestream1 swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ swfVfy=true live=true timeout=60", 
+    "image": "", 
+    "type": "video", 
+    "id": "11666"
+  }
+]

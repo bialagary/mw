@@ -1,0 +1,23 @@
+<settings>
+<category label="General">
+<setting type="sep"/>
+<setting type="bool" id="live_tv_regions" label="Countries" default="false"/>
+<setting type="bool" id="live_tv_languages" label="Languages" default="false"/>
+<setting type="bool" id="live_tv_genres" label="Genres" default="false"/>
+</category>
+<category label="Channels (1)">
+<setting type="sep"/>
+</category>
+<category label="Countries">
+<setting type="sep"/>
+</category>
+<category label="Languages">
+<setting type="sep"/>
+</category>
+<category label="Genres">
+<setting type="sep"/>
+</category>
+<category label="Sources">
+<setting type="sep"/>
+</category>
+</settings>

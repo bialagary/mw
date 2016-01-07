@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.milowizard" version="1.2"
+	name="Milo Wizard" provider-name="tecfront.ca">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+    	<import addon="script.module.t0mm0.common" version="0.0.1"/>
+		<import addon="script.module.addon.common" optional="true" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Milo Wizard Package Installer</summary>
+		<description>Instantly configure your Kodi experience with all the best add-ons and goodies!  </description>
+		<platform>all</platform>
+		<website>http://www.tecfront.ca/</website>
+	</extension>
+</addon>

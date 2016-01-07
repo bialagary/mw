@@ -1,0 +1,15 @@
+<settings>
+    <setting id="Update_NextRun" value="2015-10-04 20:23:04.969786" />
+    <setting id="email" value="tk-99@hotmail.co.uk" />
+    <setting id="enablewrite" value="false" />
+    <setting id="password" value="teknokat" />
+    <setting id="quality" value="0" />
+    <setting id="quality_type" value="0" />
+    <setting id="silent" value="false" />
+    <setting id="stream_type" value="0" />
+    <setting id="subscription" value="false" />
+    <setting id="subscription_last" value="false" />
+    <setting id="version" value="0" />
+    <setting id="write_folder" value="special://home/userdata/plugin.video.ustvnow/" />
+    <setting id="write_type" value="0" />
+</settings>

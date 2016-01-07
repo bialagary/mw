@@ -1,0 +1,26 @@
+<profiles>
+    <lastloaded>0</lastloaded>
+    <useloginscreen>false</useloginscreen>
+    <autologin>0</autologin>
+    <nextIdProfile>3</nextIdProfile>
+    <profile>
+        <id>0</id>
+        <name>Family</name>
+        <directory pathversion="1">special://masterprofile/</directory>
+        <thumbnail pathversion="1"></thumbnail>
+        <hasdatabases>true</hasdatabases>
+        <canwritedatabases>true</canwritedatabases>
+        <hassources>true</hassources>
+        <canwritesources>true</canwritesources>
+        <lockaddonmanager>false</lockaddonmanager>
+        <locksettings>0</locksettings>
+        <lockfiles>false</lockfiles>
+        <lockmusic>false</lockmusic>
+        <lockvideo>false</lockvideo>
+        <lockpictures>false</lockpictures>
+        <lockprograms>false</lockprograms>
+        <lockmode>0</lockmode>
+        <lockcode>-</lockcode>
+        <lastdate>06/19/2015 - 7:32 PM</lastdate>
+    </profile>
+</profiles>

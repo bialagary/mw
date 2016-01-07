@@ -1,0 +1,186 @@
+[
+  {
+    "group": "10557", 
+    "name": "Canal Rural", 
+    "url": "rtsp://streamrural.cmd.com.ar:554/liverural/crural/rural1", 
+    "image": "", 
+    "type": "video", 
+    "id": "10558"
+  }, 
+  {
+    "group": "10557", 
+    "name": "canal 9 (down)", 
+    "url": "http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "12089"
+  }, 
+  {
+    "group": "10557", 
+    "name": "C5N", 
+    "url": "rtmp://c5n.stweb.tv/c5n/live", 
+    "image": "http://www.buenosaires54.com/images/c5n1.jpg", 
+    "type": "video", 
+    "id": "10562"
+  }, 
+  {
+    "group": "10557", 
+    "name": "LATINOS ARGENTINA:CANAL 10 ENTRE RIOS", 
+    "url": "http://iphone-streaming.ustream.tv/ustreamVideo/253309/streams/live/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10565"
+  }, 
+  {
+    "group": "10557", 
+    "name": "LAPACHO TV CANAL 11 FORMOSA ARGENTINA", 
+    "url": "rtmp://stream1.livestreamingservices.com:1935/tvcanal11 playpath=tvcanal11 swfUrl=http://www.lapachotv.com.ar/jwplayer/player.swf live=1 pageUrl=http://www.lapachotv.com.ar/vivo/", 
+    "image": "", 
+    "type": "video", 
+    "id": "10567"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal 13 HD", 
+    "url": "rtmp://stream.eltrecetv.com.ar/ app=live13/13tv playpath=13tv1 swfUrl=http://static.eltrecetv.com.ar/sites/all/libraries/jwplayer/player-licensed.swf live=true timeout=15 pageUrl=http://www.eltrecetv.com.ar/vivo", 
+    "image": "http://www.buenosaires54.com/images/canal-13-argentina.jpg", 
+    "type": "video", 
+    "id": "10568"
+  }, 
+  {
+    "group": "10557", 
+    "name": "AMERICA 24", 
+    "url": "https://www.youtube.com/watch?v=4rmsEf46f7I", 
+    "image": "http://3.bp.blogspot.com/-NesnOUZT0zY/Umg0HN_TZWI/AAAAAAAAaks/cDTGVN7fbM0/s76/a24-america-24.PNG", 
+    "type": "video", 
+    "id": "10570"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal 26", 
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10571"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TODO NOTICIAS", 
+    "url": "rtmp://stream.tn.com.ar/live/tnhd2 playpath=tnhd2 swfUrl=\"http://tn.com.ar/sites/all/themes/dozer/swf/cplayer/player.swf\" pageUrl=\"http://tn.com.ar/envivo/24hs/HD\" swfVfy=true live=true", 
+    "image": "http://laalameda.files.wordpress.com/2012/02/tn.jpg", 
+    "type": "video", 
+    "id": "10573"
+  }, 
+  {
+    "group": "10557", 
+    "name": "360 TV", 
+    "url": "http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10574"
+  }, 
+  {
+    "group": "10557", 
+    "name": "AMERICA TV", 
+    "url": "https://www.youtube.com/watch?v=Hytby2q7c0c", 
+    "image": "http://lh3.ggpht.com/_mvoRVjZBdzQ/TSKd8iYaryI/AAAAAAAAEG0/bVklbhY70P8/s76/america.PNG", 
+    "type": "video", 
+    "id": "10576"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Argentina - AM SPORTS ARGENTINA", 
+    "url": "http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10578"
+  }, 
+  {
+    "group": "10557", 
+    "name": "america sports", 
+    "url": "http://iphone-streaming.ustream.tv/ustreamVideo/11602466/streams/live/playlist.m3u8", 
+    "image": "http://lh6.ggpht.com/_mvoRVjZBdzQ/TSPpUy3DJdI/AAAAAAAAEJ4/lzH8_h_Yj7Q/s76/americasports.PNG", 
+    "type": "video", 
+    "id": "10584"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Argentina - VIVRA TV", 
+    "url": "http://iphone-streaming.ustream.tv/uhls/10002020/streams/live/iphone/playlist.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "10579"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TVP", 
+    "url": "plugin://plugin.video.f4mTester/?url=http://ffahds-lh.akamaihd.net/z/c7hds_3@7396/manifest.f4m?hdcore=3.5.0", 
+    "image": "http://4.bp.blogspot.com/-EZZs5joAEp0/UmsAd44DJII/AAAAAAAAanU/6uFpm68PBM8/s76/canal-7-tv-publica.PNG", 
+    "type": "video", 
+    "id": "10580"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Canal Encuentro", 
+    "url": "plugin://plugin.video.f4mTester/?url=http://lsdencuentrohds-lh.akamaihd.net/z/encuentrohds_1@96963/manifest.f4m?g=BCQREYJIKUQY&hdcore=3.3.0", 
+    "image": "http://3.bp.blogspot.com/-j_-80VtIBP4/UawxckExJ0I/AAAAAAAAV6U/55qJWGsPuZM/s1600/canal+encuentro+(1).jpg", 
+    "type": "video", 
+    "id": "11333"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Magazine", 
+    "url": "rtmp://stream.mgzn.tv/live/mgzntv/mgzntv playpath=mgzntv swfUrl=http://www.mgzn.tv/sites/all/themes/magazine/images/player.swf live=1 pageUrl=http://www.mgzn.tv/vivo", 
+    "image": "", 
+    "type": "video", 
+    "id": "11334"
+  }, 
+  {
+    "group": "10557", 
+    "name": "ORBE 21", 
+    "url": "http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11541"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TATETI", 
+    "url": "http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11542"
+  }, 
+  {
+    "group": "10557", 
+    "name": "VIAJAR", 
+    "url": "http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11543"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TELEMAX", 
+    "url": "http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8", 
+    "image": "", 
+    "type": "video", 
+    "id": "11545"
+  }, 
+  {
+    "group": "10557", 
+    "name": "TV UNIVERSIDAD LA PLATA", 
+    "url": "rtmp://stratus.stream.cespi.unlp.edu.ar:80/stream/tvunlp", 
+    "image": "", 
+    "type": "video", 
+    "id": "11548"
+  }, 
+  {
+    "group": "10557", 
+    "name": "Quiero Musica", 
+    "url": "mms://200.42.92.6:1755/qmusica", 
+    "image": "", 
+    "type": "video", 
+    "id": "10986"
+  }
+]

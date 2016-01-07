@@ -1,0 +1,20 @@
+[B]Version 1.0.6 - 02FEB2015[/B]
+
+- repo change
+- icon change
+
+[B]Version 1.0.5 - 24NOV2014[/B]
+
+- updated for Helix
+- Make sure you have the correct version
+
+[B]Version 1.0.4 - 25APR2014[/B]
+
+- the first release of the MX BBC Player addon 
+- added the UK BBC channels
+- this is released to XBMC HUB a video addon 
+
+
+[B]Disclaimer:[/B]
+
+We do not now or ever maintain or stream the content in this XBMC addon, if a channel is not working, simply wait to the next update and then it may or may not be working.

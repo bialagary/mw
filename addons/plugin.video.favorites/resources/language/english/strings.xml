@@ -1,0 +1,11 @@
+<strings>
+	<!-- General -->
+	<string id="30300">General</string>
+	<string id="30303">Favorites Settings...</string>	
+	
+	<!-- Meta Data -->
+    <string id="30600">Enable MetaData</string>
+	<string id="30601">       MetaData Settings...</string>
+	<string id="30602">       Movie Poster</string>
+	<string id="30603">       Movie Fanart</string>
+</strings>

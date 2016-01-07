@@ -1,0 +1,10 @@
+<settings>
+	<category label="General">
+        <setting id="username" type="text" label="Username" default="" visible="true"/>
+        <setting id="password" type="text"label="Password" default="" visible="true"/>
+		<setting id="bypass-xbmcversion" type="bool" label="Bypass Check: KODI (XBMC) Version" default="false"/>
+		<setting id="auto-view" type="bool" label="Enable Auto View" default="true"/>
+		<setting id="movies-view" type="number" label="Movie View" default="500" enable="!eq(-1,false)"/>
+		<setting id="default-view" type="number" label="Default View" default="50" enable="!eq(-5,false)"/>
+	</category>
+</settings>

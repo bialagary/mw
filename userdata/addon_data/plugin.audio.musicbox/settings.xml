@@ -1,0 +1,25 @@
+<settings>
+    <setting id="8tracks_email" value="" />
+    <setting id="8tracks_password" value="" />
+    <setting id="8tracks_token" value="" />
+    <setting id="digster_country" value="21" />
+    <setting id="display_artistinfo_cmenu" value="true" />
+    <setting id="display_songinfo_cmenu" value="false" />
+    <setting id="downloads_folder" value="" />
+    <setting id="get_artist_fanart" value="false" />
+    <setting id="hide_soundtrack" value="false" />
+    <setting id="items_per_page" value="20" />
+    <setting id="lastfm_email" value="" />
+    <setting id="lastfm_password" value="" />
+    <setting id="lastfm_token" value="" />
+    <setting id="library_folder" value="" />
+    <setting id="playing_type" value="0" />
+    <setting id="playlist_resolver_method" value="1" />
+    <setting id="save_library_tbn" value="true" />
+    <setting id="track_resolver_method" value="0" />
+    <setting id="vk_email" value="tk-99@hotmail.co.uk" />
+    <setting id="vk_password" value="teknokat" />
+    <setting id="vk_token" value="cc64004cb417b60b4694af7476ec88d0f4aa9df3072d9d3b444567171f7aa454b120282eafbebabce64ef" />
+    <setting id="vk_token_email" value="tk-99@hotmail.co.uk" />
+    <setting id="vk_token_password" value="teknokat" />
+</settings>

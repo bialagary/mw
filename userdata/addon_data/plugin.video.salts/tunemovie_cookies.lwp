@@ -1,0 +1,5 @@
+#LWP-Cookies-2.0
+Set-Cookie3: S="photos_html=kOyVPYeyJSuMYPKn7OAVLw"; path="/"; domain=".google.com"; path_spec; domain_dot; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: __cfduid=da8d40c4b3e1158ed9bec601701c1ea031443890245; path="/"; domain=".tunemovie.is"; path_spec; domain_dot; expires="2016-10-02 16:37:25Z"; HttpOnly=None; version=0
+Set-Cookie3: _rtok=dkdZN5yFwBlz; path="/"; domain="picasaweb.google.com"; path_spec; secure; discard; HttpOnly=None; version=0
+Set-Cookie3: PHPSESSID=59d65751d68888e29ee1c45ccb61f470; path="/"; domain="tunemovie.is"; path_spec; discard; version=0

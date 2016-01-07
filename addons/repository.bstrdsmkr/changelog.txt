@@ -1,0 +1,15 @@
+[B]Version 0.0.1[/B]
+- Internal test version.
+
+[B]Version 0.0.2[/B]
+- Initial public version.
+
+[B]Version 0.0.3[/B]
+- Cleaned up data paths and description.
+
+[B]Version 0.0.4[/B]
+- Added offshoregit.ag failover directory.
+
+[B]Version 0.0.5[/B]
+- Removed all references to old server.
+

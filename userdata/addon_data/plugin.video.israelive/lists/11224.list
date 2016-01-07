@@ -1,0 +1,426 @@
+[
+  {
+    "group": "11224", 
+    "name": "1 TV", 
+    "url": "rtmp://208.75.229.59:1935/1tv/ swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf pageUrl=http://streema.com/tv/1TV playpath=1tv1", 
+    "image": "", 
+    "type": "video", 
+    "id": "11225"
+  }, 
+  {
+    "group": "11224", 
+    "name": "1 TV", 
+    "url": "rtmp://s1.iptv.ge/live-1tv/ playpath=1tv.sdp swfUrl=http://www.iptv.ge/player/protected/jwplayer.flash.swf?country=IL&ref=http://www.iptv.ge/en/tv/GPB/ pageUrl=http://www.iptv.ge/en/tv/GPB/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11226"
+  }, 
+  {
+    "group": "11224", 
+    "name": "1 TV", 
+    "url": "rtmp://162.212.176.42:1935/1tv/ playpath=1tv1 swfUrl=http://www.1tv.ge/theme/player/sdk/assets/jwplayer.flash.swf pageUrl=http://www.1tv.ge/ge/live.html", 
+    "image": "", 
+    "type": "video", 
+    "id": "11255"
+  }, 
+  {
+    "group": "11224", 
+    "name": "2 TV", 
+    "url": "rtmp://2tvlive1.tulix.tv:1935/2tv/ playpath=2tv1 swfUrl=http://2tv.ge/theme/player/sdk/assets/jwplayer.flash.swf pageUrl=http://2tv.ge/ge/live.html", 
+    "image": "", 
+    "type": "video", 
+    "id": "11601"
+  }, 
+  {
+    "group": "11224", 
+    "name": "Silk Sport 1", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11228"
+  }, 
+  {
+    "group": "11224", 
+    "name": "Silk Sport 2", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11229"
+  }, 
+  {
+    "group": "11224", 
+    "name": "Rustavi 2", 
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/rustavi2/mp4:rustavi2 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=rustavi2", 
+    "image": "", 
+    "type": "video", 
+    "id": "11232"
+  }, 
+  {
+    "group": "11224", 
+    "name": "Rustavi 2", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/rustavi2hq/mp4:rustavi2hq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11233"
+  }, 
+  {
+    "group": "11224", 
+    "name": "imedi", 
+    "url": "90?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11237"
+  }, 
+  {
+    "group": "11224", 
+    "name": "maestro", 
+    "url": "rtmp://s1.iptv.ge/live-maestro/ playpath=maestro.sdp swfUrl=http://www.iptv.ge/player/protected/jwplayer.flash.swf?country=IL&ref=http://www.iptv.ge/en/tv/Maestro/ pageUrl=http://www.iptv.ge/en/tv/Maestro/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11238"
+  }, 
+  {
+    "group": "11224", 
+    "name": "maestro", 
+    "url": "99?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11239"
+  }, 
+  {
+    "group": "11224", 
+    "name": "adjara", 
+    "url": "rtmp://s1.iptv.ge/live-adjara/ playpath=adjara.sdp swfUrl=http://www.iptv.ge/player/protected/jwplayer.flash.swf?country=IL&ref=http://www.iptv.ge/en/tv/Adjaratv/ pageUrl=http://www.iptv.ge/en/tv/Adjaratv/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11240"
+  }, 
+  {
+    "group": "11224", 
+    "name": "adjara", 
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/adjara/mp4:adjara swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=adjara", 
+    "image": "", 
+    "type": "video", 
+    "id": "11241"
+  }, 
+  {
+    "group": "11224", 
+    "name": "adjara", 
+    "url": "100?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11242"
+  }, 
+  {
+    "group": "11224", 
+    "name": "GPB", 
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/gpb/mp4:gpb swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=gpb", 
+    "image": "", 
+    "type": "video", 
+    "id": "11243"
+  }, 
+  {
+    "group": "11224", 
+    "name": "GPB", 
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/gpbhq/mp4:gpbhq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gpbhq", 
+    "image": "", 
+    "type": "video", 
+    "id": "11244"
+  }, 
+  {
+    "group": "11224", 
+    "name": "TV11", 
+    "url": "223?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11245"
+  }, 
+  {
+    "group": "11224", 
+    "name": "GDS", 
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/gdstv/mp4:gdstv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gdstv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11247"
+  }, 
+  {
+    "group": "11224", 
+    "name": "GDS", 
+    "url": "157?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11248"
+  }, 
+  {
+    "group": "11224", 
+    "name": "maestro", 
+    "url": "99?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11250"
+  }, 
+  {
+    "group": "11224", 
+    "name": "dardimandi", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/dardimandi/mp4:dardimandi swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=dardimandi", 
+    "image": "", 
+    "type": "video", 
+    "id": "11252"
+  }, 
+  {
+    "group": "11224", 
+    "name": "elconavigator", 
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/elconavigator/mp4:elconavigator swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=elconavigator", 
+    "image": "", 
+    "type": "video", 
+    "id": "11254"
+  }, 
+  {
+    "group": "11224", 
+    "name": "kartuliarkhi", 
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/kartuliarkhi/mp4:kartuliarkhi swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=kartuliarkhi", 
+    "image": "", 
+    "type": "video", 
+    "id": "11256"
+  }, 
+  {
+    "group": "11224", 
+    "name": "TV8", 
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/tv8channel/mp4:tv8channel swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv8channel", 
+    "image": "", 
+    "type": "video", 
+    "id": "11257"
+  }, 
+  {
+    "group": "11224", 
+    "name": "VipTV", 
+    "url": "rtmp://edge01-02.nl.myvideo.ge/dvrh264/viptv/mp4:viptv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=viptv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11258"
+  }, 
+  {
+    "group": "11224", 
+    "name": "imervizia", 
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/imervizia/mp4:imervizia swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=imervizia", 
+    "image": "", 
+    "type": "video", 
+    "id": "11259"
+  }, 
+  {
+    "group": "11224", 
+    "name": "artarea", 
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/artarea/mp4:artarea swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=artarea", 
+    "image": "", 
+    "type": "video", 
+    "id": "11260"
+  }, 
+  {
+    "group": "11224", 
+    "name": "diatv", 
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/diatv/mp4:diatv swfUrl=>http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=diatv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11261"
+  }, 
+  {
+    "group": "11224", 
+    "name": "enkibenki", 
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/enkibenki/mp4:enkibenki swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=enkibenki", 
+    "image": "", 
+    "type": "video", 
+    "id": "11262"
+  }, 
+  {
+    "group": "11224", 
+    "name": "marao", 
+    "url": "99,,marao?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11263"
+  }, 
+  {
+    "group": "11224", 
+    "name": "puls", 
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/puls/mp4:puls swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=puls", 
+    "image": "", 
+    "type": "video", 
+    "id": "11265"
+  }, 
+  {
+    "group": "11224", 
+    "name": "TV25", 
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/tv25/mp4:tv25 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv25", 
+    "image": "", 
+    "type": "video", 
+    "id": "11266"
+  }, 
+  {
+    "group": "11224", 
+    "name": "TV25", 
+    "url": "234?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11267"
+  }, 
+  {
+    "group": "11224", 
+    "name": "musicbox", 
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/musicbox/mp4:musicbox swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=musicbox", 
+    "image": "", 
+    "type": "video", 
+    "id": "11268"
+  }, 
+  {
+    "group": "11224", 
+    "name": "rioni", 
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/rioni/mp4:rioni swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=rioni", 
+    "image": "", 
+    "type": "video", 
+    "id": "11270"
+  }, 
+  {
+    "group": "11224", 
+    "name": "trialeti", 
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/trialeti/mp4:trialeti swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=trialeti", 
+    "image": "", 
+    "type": "video", 
+    "id": "11271"
+  }, 
+  {
+    "group": "11224", 
+    "name": "axalihq", 
+    "url": "rtmp://edge01-07.ams01.myvideo.ge/dvrh264/axalihq/mp4:axalihq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=axalihq", 
+    "image": "", 
+    "type": "video", 
+    "id": "11274"
+  }, 
+  {
+    "group": "11224", 
+    "name": "TV3", 
+    "url": "246?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11275"
+  }, 
+  {
+    "group": "11224", 
+    "name": "TV3", 
+    "url": "rtmp://edge01-08.ams01.myvideo.ge/dvrh264/tv3hq/mp4:tv3hq swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv3hq", 
+    "image": "", 
+    "type": "video", 
+    "id": "11276"
+  }, 
+  {
+    "group": "11224", 
+    "name": "TV24", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/tv24/mp4:tv24 swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=tv24", 
+    "image": "", 
+    "type": "video", 
+    "id": "11277"
+  }, 
+  {
+    "group": "11224", 
+    "name": "ggtv", 
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/ggtv/mp4:ggtv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=ggtv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11278"
+  }, 
+  {
+    "group": "11224", 
+    "name": "palitra", 
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/palitra/mp4:palitra swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=palitra", 
+    "image": "", 
+    "type": "video", 
+    "id": "11279"
+  }, 
+  {
+    "group": "11224", 
+    "name": "Obieqtivi TV", 
+    "url": "226?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11280"
+  }, 
+  {
+    "group": "11224", 
+    "name": "gurjaani", 
+    "url": "rtmp://edge01-03.nl.myvideo.ge/dvrh264/gurjaani/mp4:gurjaani swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=gurjaani", 
+    "image": "", 
+    "type": "video", 
+    "id": "11281"
+  }, 
+  {
+    "group": "11224", 
+    "name": "stv", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/stv/mp4:stv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1  pageUrl=http://www.myvideo.ge/?act=dvr&chan=stv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11282"
+  }, 
+  {
+    "group": "11224", 
+    "name": "sdasutv", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/sdasutv/mp4:sdasutv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=sdasutv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11283"
+  }, 
+  {
+    "group": "11224", 
+    "name": "malltv", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/malltv/mp4:malltv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=malltv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11284"
+  }, 
+  {
+    "group": "11224", 
+    "name": "momavalitv", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/momavalitv/mp4:momavalitv swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/?act=dvr&chan=momavalitv", 
+    "image": "", 
+    "type": "video", 
+    "id": "11285"
+  }, 
+  {
+    "group": "11224", 
+    "name": "TV25", 
+    "url": "234?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11286"
+  }, 
+  {
+    "group": "11224", 
+    "name": "silk hollywood", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_hollywood/mp4:silk_hollywood swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11287"
+  }, 
+  {
+    "group": "11224", 
+    "name": "silk mg", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_mg/mp4:silk_mg swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11288"
+  }, 
+  {
+    "group": "11224", 
+    "name": "silk movie", 
+    "url": "rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_movie/mp4:silk_movie swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/", 
+    "image": "", 
+    "type": "video", 
+    "id": "11289"
+  }, 
+  {
+    "group": "11224", 
+    "name": "Palitra TV", 
+    "url": "320?mode=6", 
+    "image": "", 
+    "type": "video", 
+    "id": "11602"
+  }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="script.icechannel.extn.india" version="0.0.5" name="XunityTalk.com iStream extensions for India" provider-name="Xunitytalk.com">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+        <import addon="repository.istream" version="1.0"/>
+    </requires>
+	<extension library="default.py" point="xbmc.service" />
+		<summary lang="en">XunityTalk.com iStream extensions for India</summary>
+    <extension point="xbmc.addon.metadata">
+		<description lang="en">XunityTalk.com iStream extensions for India</description>
+		<platform></platform>
+		<language></language>
+		<license></license>
+		<forum></forum>
+		<website></website>
+		<source></source>
+		<email></email>
+    </extension>
+</addon>
